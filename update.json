@@ -1,24 +1,23 @@
-{
+{{
   "appName": "Phyto Intelligence",
-  "packageName": "com.example",
-  "versionName": "3.0.1",
-  "versionCode": 31,
+  "packageName": "com.aistudio.betaai.qywzxl",
+  "versionName": "3.0",
+  "versionCode": 3,
 
-  "latestVersion": "3.0.1",
-  "latestVersionCode": 31,
+  "latestVersion": "3.0",
+  "latestVersionCode": 3,
 
-  "minimumRequiredVersion": "3.0.0",
+  "minimumRequiredVersion": "3.0",
 
   "updateRequired": false,
   "forceUpdate": false,
 
-  "updateUrl": "https://your-download-link.com",
+  "updateUrl": "https://your-apk-download-link",
 
   "changelog": [
-    "Bug fixes",
-    "Performance improvements",
-    "Better AI stability"
+    "Initial public release"
   ],
 
   "lastUpdated": "2026-07-15"
+}
 }
