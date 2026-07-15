@@ -1,0 +1,13 @@
+{
+  "latestVersion": "3.0.1",
+  "versionCode": 31,
+  "forceUpdate": false,
+  "title": "New Update Available",
+  "message": "Performance improvements and bug fixes.",
+  "apkUrl": "",
+  "releaseNotes": [
+    "Bug fixes",
+    "Performance improvements",
+    "Better AI stability"
+  ]
+}
