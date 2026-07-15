@@ -1,13 +1,24 @@
 {
-  "latestVersion": "3.0.1",
+  "appName": "Phyto Intelligence",
+  "packageName": "com.example",
+  "versionName": "3.0.1",
   "versionCode": 31,
+
+  "latestVersion": "3.0.1",
+  "latestVersionCode": 31,
+
+  "minimumRequiredVersion": "3.0.0",
+
+  "updateRequired": false,
   "forceUpdate": false,
-  "title": "New Update Available",
-  "message": "Performance improvements and bug fixes.",
-  "apkUrl": "",
-  "releaseNotes": [
+
+  "updateUrl": "https://your-download-link.com",
+
+  "changelog": [
     "Bug fixes",
     "Performance improvements",
     "Better AI stability"
-  ]
+  ],
+
+  "lastUpdated": "2026-07-15"
 }
