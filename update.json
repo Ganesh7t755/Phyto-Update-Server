@@ -9,7 +9,7 @@
 
   "minimumRequiredVersion": "3.0",
 
-  "updateRequired": true,
+  "updateRequired": false,
   "forceUpdate": false,
 
   "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v3.5/app-release.apk",
