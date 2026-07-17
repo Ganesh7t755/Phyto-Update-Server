@@ -12,7 +12,7 @@
   "updateRequired": true,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v3.5/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v3.6/app-release.apk",
 
   "changelog": [
     "Testing OTA update to version 3.5"
