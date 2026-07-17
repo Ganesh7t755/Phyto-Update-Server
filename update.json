@@ -15,7 +15,7 @@
   "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.0/app-release.apk",
 
   "changelog": [
-    "Added the version name to setting menu ( to test OTA update v3.6)"
+    "fixed Error in My garden tab"
   ],
 
   "lastUpdated": "2026-07-17"
