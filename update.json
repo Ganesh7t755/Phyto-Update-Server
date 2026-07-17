@@ -1,18 +1,18 @@
 {
   "appName": "Phyto Intelligence",
   "packageName": "com.aistudio.betaai.qywzxl",
-  "versionName": "v3.6",
-  "versionCode": 36,
+  "versionName": "v4.0",
+  "versionCode": 4,
 
-  "latestVersion": "3.6",
-  "latestVersionCode": 36,
+  "latestVersion": "4.0",
+  "latestVersionCode": 4,
 
   "minimumRequiredVersion": "3.0",
 
   "updateRequired": true,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v3.6/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.0/app-release.apk",
 
   "changelog": [
     "Added the version name to setting menu ( to test OTA update v3.6)"
