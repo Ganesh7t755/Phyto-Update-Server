@@ -15,10 +15,9 @@
   "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.5/app-release.apk",
 
   "changelog": [
-    " --> Implemented Ai plant Disease Diagnosis
---> Implemented Offline Mode Mapping 
---> Implemented  Lux Sensor Light Meter Utility
-    Optimised User Experience"
+    "  --> Implemented Ai plant Disease Diagnosis" ,
+    " --> Implemented Offline Mode Mapping",
+    " --> Implemented  Lux Sensor Light Meter Utility"
   ],
 
   "lastUpdated": "2026-07-17"
