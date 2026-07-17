@@ -1,21 +1,24 @@
 {
   "appName": "Phyto Intelligence",
   "packageName": "com.aistudio.betaai.qywzxl",
-  "versionName": "4.0",
-  "versionCode": 40,
+  "versionName": "4.5",
+  "versionCode": 45,
 
-  "latestVersion": "4.0",
-  "latestVersionCode": 40,
+  "latestVersion": "4.5",
+  "latestVersionCode": 45,
 
   "minimumRequiredVersion": "3.0",
 
   "updateRequired": true,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.0/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.5/app-release.apk",
 
   "changelog": [
-    "fixed Error in My garden tab"
+    " --> Implemented Ai plant Disease Diagnosis
+--> Implemented Offline Mode Mapping 
+--> Implemented  Lux Sensor Light Meter Utility
+    Optimised User Experience"
   ],
 
   "lastUpdated": "2026-07-17"
