@@ -12,7 +12,7 @@
   "updateRequired": false,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.5.2/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.5.3/app-release.apk",
 
   "changelog": [
   "✔ Fixed disease diagnosis edge cases.",
