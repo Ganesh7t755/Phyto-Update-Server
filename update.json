@@ -1,11 +1,11 @@
 {
   "appName": "Phyto Intelligence",
   "packageName": "com.aistudio.betaai.qywzxl",
-  "versionName": "4.5",
-  "versionCode": 45,
+  "versionName": "4.5.1",
+  "versionCode": 46,
 
-  "latestVersion": "4.5",
-  "latestVersionCode": 45,
+  "latestVersion": "4.5.1",
+  "latestVersionCode": 46,
 
   "minimumRequiredVersion": "3.0",
 
