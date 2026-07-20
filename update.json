@@ -12,13 +12,12 @@
   "updateRequired": false,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.5/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.5.1/app-release.apk",
 
   "changelog": [
-    " Implemented Ai plant Disease Diagnosis" ,
-    " Implemented Offline Mode Mapping",
-    " Implemented  Lux Sensor Light Meter Utility",
-    " optimise User Experience "
+    " Implemented AI Analyse",
+    "Fix Issues",
+    "Optimise User Explerience"
   ],
 
   "lastUpdated": "2026-07-17"
