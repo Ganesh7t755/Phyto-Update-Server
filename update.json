@@ -15,10 +15,10 @@
   "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.5.1/app-release.apk",
 
   "changelog": [
-    " Fixed Disease Diagnosis edege cases.",
-    "fixed UI And Text Aligment issues.",
-    "Imporved sensor stability.",
-    "bug fixes and imporved User experience"
+  "✔ Fixed disease diagnosis edge cases.",
+  "✔ Fixed UI and text alignment issues.",
+  "✔ Improved light sensor stability.",
+  "✔ General bug fixes and performance improvements."
   ],
 
   "lastUpdated": "2026-07-20"
