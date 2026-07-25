@@ -1,25 +1,22 @@
 {
   "appName": "Phyto Intelligence",
   "packageName": "com.aistudio.betaai.qywzxl",
-  "versionName": "4.5.3",
-  "versionCode": 48,
+  "versionName": "4.5.4",
+  "versionCode": 49,
 
-  "latestVersion": "4.5.3",
-  "latestVersionCode": 48,
+  "latestVersion": "4.5.4",
+  "latestVersionCode": 49,
 
   "minimumRequiredVersion": "3.0",
 
   "updateRequired": false,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.5.3/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.5.4/app-release.apk",
 
   "changelog": [
-  "✔ Fixed disease diagnosis edge cases.",
-  "✔ Fixed UI and text alignment issues.",
-  "✔ Improved light sensor stability.",
-  "✔ General bug fixes and performance improvements."
+  "✔ optimised user Experience.",
   ],
 
-  "lastUpdated": "2026-07-20"
+  "lastUpdated": "2026-07-25"
 }
