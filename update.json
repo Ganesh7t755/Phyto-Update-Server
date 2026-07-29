@@ -14,26 +14,16 @@
 
   "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.6/app-release.apk",
 
-"changelog": {
-  "new": [
-    "Added Search Bar to My Garden",
-    "Added Favourite option for saved specimens",
-    "Improved My Garden history navigation",
-    "Improved historical specimen data loading"
-  ],
-  "improved": [
-    "Improved plant analysis result consistency",
-    "Improved AI visualization interaction",
-    "Improved local history data handling",
-    "Improved overall app stability and responsiveness"
-  ],
-  "fixed": [
-    "Fixed incorrect historical analysis updates",
-    "Fixed unnecessary AI visualization button appearing while entering descriptions",
-    "Fixed local specimen data synchronization issues",
-    "Fixed minor UI and interaction issues"
-  ]
-}
+"changelog": [
+  "NEW: Added Search Bar to My Garden",
+  "NEW: Added Favourite option for saved specimens",
+  "NEW: Improved My Garden history navigation",
+  "NEW: Improved historical specimen data loading",
+  "IMPROVED: Improved plant analysis result consistency",
+  "IMPROVED: Improved AI visualization interaction",
+  "FIXED: Fixed incorrect historical analysis updates",
+  "FIXED: Fixed minor UI and interaction issues"
+]
 
   "lastUpdated": "2026-07-29"
     
