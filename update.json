@@ -1,27 +1,26 @@
 {
   "appName": "Phyto Intelligence",
   "packageName": "com.aistudio.betaai.qywzxl",
-  "versionName": "4.6",
-  "versionCode": 50,
+  "versionName": "4.6.1",
+  "versionCode": 51,
 
-  "latestVersion": "4.6",
-  "latestVersionCode": 50,
+  "latestVersion": "4.6.1",
+  "latestVersionCode": 51,
 
   "minimumRequiredVersion": "3.0",
 
   "updateRequired": true,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.6/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.6.1/app-release.apk",
 
 "changelog": [
-  "Added Search Bar to My Garden",
-  "Added Favourite option for saved specimens",
+  "Improved Search Bar to My Garden",
   "Improved My Garden history navigation",
   "Improved historical specimen data loading",
   "Improved plant analysis result consistency",
   "Improved AI visualization interaction",
-  "Fixed incorrect historical analysis updates",
+  "Fixed incorrect historical analysis",
   "Fixed minor UI and interaction issues"
 ],
 
