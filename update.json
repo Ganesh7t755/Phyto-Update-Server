@@ -4,15 +4,15 @@
   "versionName": "4.6.1",
   "versionCode": 51,
 
-  "latestVersion": "4.6.1",
-  "latestVersionCode": 51,
+  "latestVersion": "4.6.2",
+  "latestVersionCode": 52,
 
   "minimumRequiredVersion": "3.0",
 
   "updateRequired": true,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.6.1/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.6.2/app-release.apk",
 
 "changelog": [
   "✨ Added interactive User Guide.",
