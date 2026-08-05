@@ -1,24 +1,20 @@
 {
   "appName": "Phyto Intelligence",
   "packageName": "com.aistudio.betaai.qywzxl",
-  "versionName": "4.6.2",
-  "versionCode": 52,
+  "versionName": "4.6.3",
+  "versionCode": 53,
 
-  "latestVersion": "4.6.2",
-  "latestVersionCode": 52,
+  "latestVersion": "4.6.3",
+  "latestVersionCode": 53,
 
   "minimumRequiredVersion": "3.0",
 
   "updateRequired": true,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.6.2/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.6.3/app-release.apk",
 
 "changelog": [
-  "✨ Added interactive User Guide.",
-  "🎬 Improved animations and UI smoothness.",
-  "🌿 Enhanced My Garden experience.",
-  "🛡️ Added AI usage tips and disclaimer.",
   "⚙️ Performance improvements and bug fixes."
 ],
 
