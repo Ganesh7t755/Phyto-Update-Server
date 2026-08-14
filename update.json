@@ -1,18 +1,18 @@
 {
   "appName": "Phyto Intelligence",
   "packageName": "com.aistudio.betaai.qywzxl",
-  "versionName": "4.7.3",
-  "versionCode": 58,
+  "versionName": "4.7.4",
+  "versionCode": 59,
 
-  "latestVersion": "4.7.3",
-  "latestVersionCode": 58,
+  "latestVersion": "4.7.4",
+  "latestVersionCode": 59,
 
   "minimumRequiredVersion": "3.0",
 
   "updateRequired": true,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.7.3/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.7.4/app-release.apk",
 
 "changelog": [
 "Performance improvements and bug fixes."
