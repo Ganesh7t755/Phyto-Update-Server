@@ -1,21 +1,21 @@
 {
   "appName": "Phyto Intelligence",
   "packageName": "com.aistudio.betaai.qywzxl",
-  "versionName": "4.7.7",
-  "versionCode": 62,
+  "versionName": "4.8",
+  "versionCode": 63,
 
-  "latestVersion": "4.7.7",
-  "latestVersionCode": 62,
+  "latestVersion": "4.8",
+  "latestVersionCode": 63,
 
   "minimumRequiredVersion": "3.0",
 
   "updateRequired": true,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.7.7/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.8/app-release.apk",
 
 "changelog": [
-  "Improved In My Garden (Plant Saved)",
+  "Sharing Feature Implemented",
   "Performance improvements and bug fixes."
 ],
 
