@@ -1,22 +1,26 @@
 {
   "appName": "Phyto Intelligence",
   "packageName": "com.aistudio.betaai.qywzxl",
-  "versionName": "4.8.1",
-  "versionCode": 64,
+  "versionName": "4.9",
+  "versionCode": 65,
 
-  "latestVersion": "4.8.1",
-  "latestVersionCode": 64,
+  "latestVersion": "4.9",
+  "latestVersionCode": 65,
 
   "minimumRequiredVersion": "3.0",
 
   "updateRequired": true,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.8.1/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v4.9/app-release.apk",
 
 "changelog": [
-  "Sharing Feature Implemented",
-  "Performance improvements and bug fixes."
+"Added live focus and sharpness guidance during camera preview.",
+"Added image quality checks for blur, poor lighting, overexposure, and insufficient detail.",
+"Added leaf, flower, and plant-material capture guidance.",
+"Added post-capture quality validation with recapture or analyze-anyway options.",
+"Added lightweight throttled frame analysis to maintain smooth camera preview.",
+"Preserved existing AI identification, manual description, and voice input functionality."
 ],
 
   "lastUpdated": "2026-08-20"
