@@ -1,7 +1,7 @@
 {
-  "version_code": 3,
-  "version": "v3",
-  "version_name": "v3",
+  "version_code": 4,
+  "version_name": "v4",
   "model_url": "https://raw.githubusercontent.com/Ganesh7t755/Phyto-Update-Server/main/model.tflite",
-  "labels_url": "https://raw.githubusercontent.com/Ganesh7t755/Phyto-Update-Server/main/labels.txt"
+  "labels_url": "https://raw.githubusercontent.com/Ganesh7t755/Phyto-Update-Server/main/labels.txt",
+  "catalog_url": "https://raw.githubusercontent.com/Ganesh7t755/Phyto-Update-Server/main/specimens_catalog.json"
 }
