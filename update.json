@@ -1,29 +1,23 @@
 {
   "appName": "Phyto Intelligence",
   "packageName": "com.aistudio.betaai.qywzxl",
-  "versionName": "5.0",
-  "versionCode": 67,
+  "versionName": "5.0.1",
+  "versionCode": 68,
 
-  "latestVersion": "5.0",
-  "latestVersionCode": 67,
+  "latestVersion": "5.0.1",
+  "latestVersionCode": 68,
 
   "minimumRequiredVersion": "3.0",
 
   "updateRequired": true,
   "forceUpdate": false,
 
-  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v5.0/app-release.apk",
+  "updateUrl": "https://github.com/Ganesh7t755/Phyto-Update-Server/releases/download/v5.0.1/app-release.apk",
 
 "changelog": [
-"🌿 Major Update",
-" Improved plant identification & offline AI",
-" Fixed camera lens switching",
-" Improved performance & stability",
-" Improved specimen history & notifications",
-" Added stronger data safety and reliability",
 " Improved user experience"
 ],
 
-  "lastUpdated": "2026-09-10"
+  "lastUpdated": "2026-09-11"
     
 }
