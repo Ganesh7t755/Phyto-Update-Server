@@ -1,5 +1,5 @@
 {
-  "version_code": 5,
+  "version_code": 6,
   "version_name": "v5",
   "model_url": "https://raw.githubusercontent.com/Ganesh7t755/Phyto-Update-Server/main/model.tflite",
   "labels_url": "https://raw.githubusercontent.com/Ganesh7t755/Phyto-Update-Server/main/labels.txt",
