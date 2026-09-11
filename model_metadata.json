@@ -1,6 +1,6 @@
 {
   "version_code": 8,
-  "version_name": "v7",
+  "version_name": "v8",
   "model_url": "https://raw.githubusercontent.com/Ganesh7t755/Phyto-Update-Server/main/model.tflite",
   "labels_url": "https://raw.githubusercontent.com/Ganesh7t755/Phyto-Update-Server/main/labels.txt",
   "catalog_url": "https://raw.githubusercontent.com/Ganesh7t755/Phyto-Update-Server/main/specimens_catalog.json"
