@@ -10,7 +10,9 @@
       "aloe vera",
       "lolesara",
       "ghritkumari",
-      "alces"
+      "alces",
+      "true aloe",
+      "medicinal aloe"
     ],
     "leafTraits": [
       "thick fleshy leaves",
@@ -24,7 +26,9 @@
       "water storage tissue",
       "gelatinous interior",
       "spiny toothed margins",
-      "basal rosette of thick leaves"
+      "basal rosette of thick leaves",
+      "water storage",
+      "succulent foliage"
     ],
     "stemTraits": [
       "stemless",
@@ -37,20 +41,23 @@
     "aromaTraits": [
       "mild fresh",
       "mucilaginous",
-      "soothing scent"
+      "soothing scent",
+      "faint aloe aroma"
     ],
     "flowerFruitTraits": [
       "tall yellow flower spike",
       "tubular flowers",
-      "reddish flowers"
+      "reddish flowers",
+      "cylindrical raceme"
     ],
     "growthHabit": [
-      "succulent",
       "perennial",
       "indoor houseplant",
       "clump forming",
       "stemless xerophytic succulent",
-      "fleshy perennial clump"
+      "fleshy perennial clump",
+      "fleshy perennial",
+      "succulent plant"
     ],
     "medicinalUses": [
       "soothing gel",
@@ -112,7 +119,10 @@
       "square stem",
       "tetragonal stem",
       "pubescent purple stem",
-      "quadrangular hairy stem"
+      "quadrangular hairy stem",
+      "herbaceous stem",
+      "soft stem",
+      "soft green stem"
     ],
     "aromaTraits": [
       "highly aromatic",
@@ -131,7 +141,8 @@
       "purple blossoms",
       "slender flower spikes",
       "racemes",
-      "verticillaster"
+      "verticillaster",
+      "small bilabiate flowers"
     ],
     "growthHabit": [
       "upright subshrub",
@@ -139,7 +150,10 @@
       "branching herb",
       "sacred herb",
       "aromatic herbaceous subshrub",
-      "perennial aromatic herb"
+      "perennial aromatic herb",
+      "herbaceous",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "ayurveda",
@@ -180,7 +194,8 @@
       "lantana",
       "wild sage",
       "tickberry",
-      "unni chedi"
+      "unni chedi",
+      "shrub verbena"
     ],
     "leafTraits": [
       "rough leaves",
@@ -188,32 +203,40 @@
       "rugose",
       "ovate leaves",
       "serrated margin",
-      "opposite leaves"
+      "opposite leaves",
+      "aromatic crushed leaves"
     ],
     "stemTraits": [
       "square stem",
       "prickly stem",
       "small thorns",
       "prickly scrambling stems",
-      "four-angled woody stems with recurved prickles"
+      "four-angled woody stems with recurved prickles",
+      "woody stem",
+      "branching woody stems"
     ],
     "aromaTraits": [
       "pungent aroma",
       "citrusy herbal",
-      "strong crushed leaf scent"
+      "strong crushed leaf scent",
+      "resinous herbal aroma"
     ],
     "flowerFruitTraits": [
       "multicoloured flower clusters",
       "yellow orange pink red umbels",
       "dark berries",
-      "drupes"
+      "drupes",
+      "dense flat-topped heads"
     ],
     "growthHabit": [
       "perennial shrub",
       "scrambling shrub",
       "hedgerow",
       "straggling woody shrub",
-      "thorny hedge shrub"
+      "thorny hedge shrub",
+      "woody shrub",
+      "branching shrub",
+      "perennial bush"
     ],
     "medicinalUses": [
       "butterfly garden",
@@ -225,7 +248,9 @@
       "prickly",
       "flower clusters",
       "multicolor",
-      "woody shrub"
+      "woody shrub",
+      "thorns",
+      "recurved prickles"
     ]
   },
   {
@@ -239,32 +264,43 @@
       "golden pothos",
       "devil s ivy",
       "pothos",
-      "epipremnum"
+      "epipremnum",
+      "ceylon creeper"
     ],
     "leafTraits": [
       "heart shaped leaves",
       "cordate leaves",
       "variegated green yellow",
       "glossy leaves",
-      "marbled leaves"
+      "marbled leaves",
+      "alternate cordate foliage"
     ],
     "stemTraits": [
       "trailing vine",
       "aerial roots",
-      "climbing green stem"
+      "climbing green stem",
+      "twining stem",
+      "climbing stem",
+      "slender vine",
+      "slender twining vine stem"
     ],
     "aromaTraits": [
-      "neutral scent"
+      "neutral scent",
+      "fresh foliage odor"
     ],
     "flowerFruitTraits": [
       "spathe",
-      "rare blooms indoors"
+      "rare blooms indoors",
+      "erect spadix"
     ],
     "growthHabit": [
       "climbing vine",
       "trailing creeper",
       "indoor houseplant",
-      "epiphyte"
+      "epiphyte",
+      "hanging foliage climber",
+      "trailing vine",
+      "twining climber"
     ],
     "medicinalUses": [
       "air purifying",
@@ -279,7 +315,8 @@
       "climber",
       "indoor",
       "creeper",
-      "money"
+      "money",
+      "aerial roots"
     ]
   },
   {
@@ -292,28 +329,41 @@
       "pitcher plant",
       "white pitcher",
       "carnivorous plant",
-      "sarracenia"
+      "sarracenia",
+      "crimson pitcher"
     ],
     "leafTraits": [
       "hollow tubular pitcher",
       "white top reticulate veins",
       "pitcher hood",
-      "leaf tube"
+      "leaf tube",
+      "carnivorous pitfall trap",
+      "inward pointing hairs"
     ],
     "stemTraits": [
-      "rhizomatous stem"
+      "rhizomatous stem",
+      "herbaceous stem",
+      "soft stem",
+      "underground rootstock",
+      "soft green stem"
     ],
     "aromaTraits": [
-      "sweet nectar scent"
+      "sweet nectar scent",
+      "insect bait aroma"
     ],
     "flowerFruitTraits": [
       "nodding red flowers",
-      "tall scapes"
+      "tall scapes",
+      "umbrella-like style"
     ],
     "growthHabit": [
       "carnivorous herb",
       "bog plant",
-      "rosette"
+      "rosette",
+      "herbaceous",
+      "wetland insectivorous plant",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "insect trapping",
@@ -325,7 +375,8 @@
       "trap",
       "tubular",
       "insects",
-      "bog"
+      "bog",
+      "white veins"
     ]
   },
   {
@@ -338,30 +389,42 @@
       "coatbuttons",
       "tridax",
       "tridax daisy",
-      "jayanti veda"
+      "jayanti veda",
+      "wild daisy"
     ],
     "leafTraits": [
       "arrow shaped leaves",
       "coarsely hairy",
-      "toothed lobed leaves"
+      "toothed lobed leaves",
+      "opposite ovate to lanceolate"
     ],
     "stemTraits": [
       "sprawling stem",
       "hairy stem",
-      "procumbent"
+      "procumbent",
+      "herbaceous stem",
+      "soft stem",
+      "herbaceous branching stem",
+      "soft green stem"
     ],
     "aromaTraits": [
-      "mild herbal"
+      "mild herbal",
+      "faint grassy aroma"
     ],
     "flowerFruitTraits": [
       "daisy like flowers",
       "three toothed ray florets",
       "yellow center disc",
-      "long stalks"
+      "long stalks",
+      "creamy white ray petals"
     ],
     "growthHabit": [
       "creeping herb",
-      "procumbent weed"
+      "procumbent weed",
+      "herbaceous",
+      "prostrate perennial herb",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "wound healing",
@@ -375,7 +438,8 @@
       "wound",
       "coagulant",
       "hairy",
-      "weed"
+      "weed",
+      "yellow center"
     ]
   },
   {
@@ -388,28 +452,40 @@
       "morinda",
       "indian mulberry",
       "togaru",
-      "noni relative"
+      "noni relative",
+      "morinda tinctoria"
     ],
     "leafTraits": [
       "broadly elliptic leaves",
       "opposite glossy green",
-      "prominent veins"
+      "prominent veins",
+      "shining leathery foliage"
     ],
     "stemTraits": [
       "yellowish grey bark",
-      "rough trunk"
+      "rough trunk",
+      "woody trunk",
+      "tree trunk",
+      "fissured woody bark",
+      "woody tree trunk",
+      "rough bark"
     ],
     "aromaTraits": [
-      "pungent fruit aroma"
+      "pungent fruit aroma",
+      "distinct noni scent"
     ],
     "flowerFruitTraits": [
       "white flowers in globose heads",
       "syncarp fruit",
-      "fused fruit"
+      "fused fruit",
+      "fleshy multi-seeded syncarp"
     ],
     "growthHabit": [
       "small tree",
-      "woody deciduous tree"
+      "woody deciduous tree",
+      "woody tree",
+      "canopy tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "natural dye",
@@ -421,7 +497,9 @@
       "dye",
       "yellow",
       "tree",
-      "syncarp"
+      "syncarp",
+      "woody trunk",
+      "bark"
     ]
   },
   {
@@ -434,29 +512,41 @@
       "monstera",
       "swiss cheese plant",
       "split leaf philodendron",
-      "ceriman"
+      "ceriman",
+      "windowleaf"
     ],
     "leafTraits": [
       "fenestrated leaves",
       "holes in leaves",
       "split leaves",
       "large glossy leaves",
-      "leathery green"
+      "leathery green",
+      "heart shaped juvenile leaves",
+      "perforated leaf blades"
     ],
     "stemTraits": [
       "thick climbing stem",
-      "long aerial roots"
+      "long aerial roots",
+      "woody stem",
+      "branching woody stems",
+      "robust woody climber stem"
     ],
     "aromaTraits": [
-      "sweet fruit scent when ripe"
+      "sweet fruit scent when ripe",
+      "tropical banana pineapple aroma"
     ],
     "flowerFruitTraits": [
       "white spathe spadix",
-      "scaly edible fruit"
+      "scaly edible fruit",
+      "cone like spadix"
     ],
     "growthHabit": [
       "epiphytic climbing vine",
-      "indoor houseplant"
+      "indoor houseplant",
+      "woody shrub",
+      "tropical climbing vine",
+      "branching shrub",
+      "perennial bush"
     ],
     "medicinalUses": [
       "ornamental foliage",
@@ -467,7 +557,9 @@
       "cheese",
       "split",
       "aerial roots",
-      "large leaves"
+      "large leaves",
+      "fenestrated",
+      "climbing vine"
     ]
   },
   {
@@ -504,7 +596,8 @@
       "prickly stem",
       "thorny woody cane",
       "recurved prickles",
-      "woody stems with prickles"
+      "woody stems with prickles",
+      "thorns"
     ],
     "aromaTraits": [
       "sweet fragrant floral",
@@ -523,7 +616,9 @@
       "layered petals",
       "showy petals",
       "corolla with multiple petals",
-      "cup shaped blossom"
+      "cup shaped blossom",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
       "thorny flowering shrub",
@@ -550,7 +645,12 @@
       "prickly",
       "compound leaves",
       "shrub",
-      "bush"
+      "bush",
+      "sharp prickles",
+      "fragrant petals",
+      "layered petals",
+      "pinnately compound",
+      "woody shrub"
     ]
   },
   {
@@ -564,27 +664,40 @@
       "china rose",
       "dasavala",
       "shoe flower",
-      "gudhal"
+      "gudhal",
+      "hawaiian hibiscus"
     ],
     "leafTraits": [
       "glossy green ovate leaves",
       "serrated margin",
-      "toothed leaves"
+      "toothed leaves",
+      "alternate simple leaves",
+      "coarsely toothed foliage"
     ],
     "stemTraits": [
-      "woody branching stems"
+      "woody branching stems",
+      "smooth green to brown branches",
+      "shrub twigs"
     ],
     "aromaTraits": [
-      "faint floral"
+      "faint floral",
+      "subtle fresh scent"
     ],
     "flowerFruitTraits": [
       "large bell shaped flowers",
       "long staminal column",
       "five bright red petals",
-      "protruding style"
+      "protruding style",
+      "showy solitary blossoms",
+      "funnel shaped corolla",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
-      "bushy flowering shrub"
+      "bushy flowering shrub",
+      "tropical evergreen shrub",
+      "flowering bush"
     ],
     "medicinalUses": [
       "hair care",
@@ -597,7 +710,10 @@
       "staminal column",
       "bell shaped",
       "puja",
-      "hair oil"
+      "hair oil",
+      "showy petals",
+      "five petals",
+      "shrub"
     ]
   },
   {
@@ -611,7 +727,8 @@
       "nimba",
       "indian lilac",
       "bevu",
-      "margosa"
+      "margosa",
+      "sacred neem"
     ],
     "leafTraits": [
       "pinnate compound leaves",
@@ -630,7 +747,10 @@
       "hard timber",
       "thick woody trunk",
       "longitudinally fissured bark",
-      "rough woody trunk"
+      "rough woody trunk",
+      "woody trunk",
+      "tree trunk",
+      "rough bark"
     ],
     "aromaTraits": [
       "bitter pungent aroma",
@@ -641,13 +761,19 @@
     "flowerFruitTraits": [
       "small white fragrant flowers",
       "green yellow oval drupes",
-      "neem fruit"
+      "neem fruit",
+      "honey scented blossoms",
+      "yellowish berry drupes"
     ],
     "growthHabit": [
       "large evergreen tree",
       "dense canopy tree",
       "tall hardwood tree",
-      "broad spreading canopy tree"
+      "broad spreading canopy tree",
+      "woody tree",
+      "canopy tree",
+      "woody timber tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "antibacterial",
@@ -682,27 +808,41 @@
       "jasmine",
       "mallige",
       "chameli",
-      "white jasmine"
+      "white jasmine",
+      "common jasmine",
+      "poet s jasmine"
     ],
     "leafTraits": [
       "opposite pinnate leaflets",
-      "dark green glossy"
+      "dark green glossy",
+      "trifoliolate or pinnate leaves",
+      "shiny green foliage"
     ],
     "stemTraits": [
-      "slender twining climbing stems"
+      "slender twining climbing stems",
+      "woody scandent stems",
+      "scrambling vine stems"
     ],
     "aromaTraits": [
       "intensely sweet intoxicating fragrance",
-      "heady perfume"
+      "heady perfume",
+      "rich nocturnal floral aroma"
     ],
     "flowerFruitTraits": [
       "star shaped white flowers",
       "five petals",
-      "fragrant white blossoms"
+      "fragrant white blossoms",
+      "pinwheel corolla petals",
+      "tubular white flowers",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
       "twining climber",
-      "flowering vine shrub"
+      "flowering vine shrub",
+      "scandent flowering shrub",
+      "climbing vine"
     ],
     "medicinalUses": [
       "garlands",
@@ -716,7 +856,11 @@
       "star",
       "sweet",
       "scent",
-      "garland"
+      "garland",
+      "petals",
+      "vine",
+      "climber",
+      "blossoms"
     ]
   },
   {
@@ -737,24 +881,38 @@
       "pinnate compound leaves",
       "asymmetrical ovate leaflets",
       "shiny green",
-      "pungent leaflets"
+      "pungent leaflets",
+      "compound leaves",
+      "reticulate veins",
+      "glandular aromatic leaflets"
     ],
     "stemTraits": [
       "slender woody stem",
-      "brown bark"
+      "brown bark",
+      "herbaceous stem",
+      "soft stem",
+      "branching aromatic woody subshrub stem",
+      "soft green stem"
     ],
     "aromaTraits": [
       "intensely aromatic spicy scent",
       "curry seasoning smell",
-      "citrusy savory"
+      "citrusy savory",
+      "warm pungent seasoning aroma"
     ],
     "flowerFruitTraits": [
       "small white flowers",
-      "clusters of black shiny berries"
+      "clusters of black shiny berries",
+      "fragrant white funnel florets",
+      "two-seeded purplish black drupes"
     ],
     "growthHabit": [
       "small aromatic tree",
-      "culinary shrub"
+      "culinary shrub",
+      "herbaceous",
+      "deciduous aromatic shrub",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "tadka seasoning",
@@ -768,7 +926,9 @@
       "curry",
       "spicy",
       "seasoning",
-      "black berries"
+      "black berries",
+      "compound leaves",
+      "aromatic"
     ]
   },
   {
@@ -780,28 +940,38 @@
     "synonyms": [
       "sunflower",
       "suryakanthi",
-      "surajmukhi"
+      "surajmukhi",
+      "helianthus"
     ],
     "leafTraits": [
       "large heart shaped leaves",
       "rough hairy texture",
-      "toothed margins"
+      "toothed margins",
+      "broad cordate coarse leaves"
     ],
     "stemTraits": [
-      "thick robust erect hairy stem"
+      "thick robust erect hairy stem",
+      "stout unbranched coarse stem",
+      "rough hispid stem"
     ],
     "aromaTraits": [
-      "subtle herbal"
+      "subtle herbal",
+      "earthy plant scent"
     ],
     "flowerFruitTraits": [
       "giant golden yellow flower head",
       "dark center disc",
       "ray petals",
-      "edible seeds"
+      "edible seeds",
+      "composite yellow daisy flower",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
       "tall annual herb",
-      "heliotropic flower"
+      "heliotropic flower",
+      "tall erect crop"
     ],
     "medicinalUses": [
       "sunflower oil",
@@ -814,7 +984,9 @@
       "sun",
       "oil",
       "seeds",
-      "tall"
+      "tall",
+      "yellow petals",
+      "central disc"
     ]
   },
   {
@@ -827,26 +999,36 @@
       "marigold",
       "chendu hoovu",
       "genda",
-      "tagetes"
+      "tagetes",
+      "african marigold"
     ],
     "leafTraits": [
       "pinnate deeply divided leaves",
-      "dark green scented glands"
+      "dark green scented glands",
+      "pinnatifid aromatic leaflets"
     ],
     "stemTraits": [
-      "ribbed green herbaceous branching stem"
+      "ribbed green herbaceous branching stem",
+      "angular scented stem"
     ],
     "aromaTraits": [
       "pungent musky herbal scent",
-      "sharp distinctive aroma"
+      "sharp distinctive aroma",
+      "strong repellent scent"
     ],
     "flowerFruitTraits": [
       "dense ruffled pom pom flower heads",
       "golden yellow orange blooms",
-      "carnation like"
+      "carnation like",
+      "layered ruffled petals",
+      "radiate flower heads",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
-      "erect annual flowering herb"
+      "erect annual flowering herb",
+      "bushy garden flower"
     ],
     "medicinalUses": [
       "festive garlands",
@@ -860,7 +1042,8 @@
       "pom pom",
       "garland",
       "diwali",
-      "pungent"
+      "pungent",
+      "ruffled petals"
     ]
   },
   {
@@ -874,27 +1057,45 @@
       "vinca",
       "nitya pushpa",
       "sadabahar",
-      "madagascar periwinkle"
+      "madagascar periwinkle",
+      "catharanthus",
+      "kasi kanagale"
     ],
     "leafTraits": [
       "glossy oval leaves",
       "prominent white midrib",
-      "opposite leaves"
+      "opposite leaves",
+      "glossy green oval leaves",
+      "opposite shiny leaves",
+      "elliptic oblong smooth leaves"
     ],
     "stemTraits": [
-      "green reddish herbaceous stem"
+      "green reddish herbaceous stem",
+      "green to reddish herbaceous erect stem",
+      "slender branching stem"
     ],
     "aromaTraits": [
-      "faint herbal"
+      "faint herbal",
+      "faint fresh herbal",
+      "unscented"
     ],
     "flowerFruitTraits": [
       "five petaled salverform flowers",
       "rose pink or white flowers",
-      "colored center eye"
+      "colored center eye",
+      "five petaled flat salverform flowers",
+      "pink white rose blossoms",
+      "contrasting red center eye",
+      "cylindrical follicle fruits",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
       "small evergreen subshrub",
-      "hardy flowering plant"
+      "hardy flowering plant",
+      "perennial flowering subshrub",
+      "everblooming herb"
     ],
     "medicinalUses": [
       "vincristine",
@@ -906,7 +1107,9 @@
       "white",
       "midrib",
       "everblooming",
-      "sadabahar"
+      "sadabahar",
+      "salverform",
+      "five petals"
     ]
   },
   {
@@ -918,10 +1121,13 @@
     "synonyms": [
       "bougainvillea",
       "paper flower",
-      "kagadada hoovu"
+      "kagadada hoovu",
+      "great bougainvillea"
     ],
     "leafTraits": [
-      "ovate alternate green leaves"
+      "ovate alternate green leaves",
+      "simple smooth leaves",
+      "broadly ovate pointed leaves"
     ],
     "stemTraits": [
       "woody scrambling stem",
@@ -930,19 +1136,24 @@
       "spiny climbing woody stems"
     ],
     "aromaTraits": [
-      "unscented"
+      "unscented",
+      "neutral scent"
     ],
     "flowerFruitTraits": [
       "papery colorful bracts",
       "magenta pink red white bracts",
       "tiny tubular cream flowers inside",
       "colorful papery petal-like bracts",
-      "tubular flowers enclosed in three papery bracts"
+      "tubular flowers enclosed in three papery bracts",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
       "scrambling climbing woody vine",
       "thorny woody scrambling shrub",
-      "thorny woody vine"
+      "thorny woody vine",
+      "woody shrub"
     ],
     "medicinalUses": [
       "drought resistant bloom",
@@ -956,7 +1167,9 @@
       "bracts",
       "climbing",
       "colorful",
-      "woody climber"
+      "woody climber",
+      "prickles",
+      "spines"
     ]
   },
   {
@@ -969,28 +1182,40 @@
       "orchid",
       "phalaenopsis",
       "dendrobium",
-      "epiphytic orchid"
+      "epiphytic orchid",
+      "moth orchid"
     ],
     "leafTraits": [
       "thick leathery oblong leaves",
-      "pseudobulb leaves"
+      "pseudobulb leaves",
+      "distichous smooth leaves",
+      "stiff strap-like foliage"
     ],
     "stemTraits": [
       "aerial roots",
-      "silvery velamen roots"
+      "silvery velamen roots",
+      "pseudobulbs",
+      "epiphytic stem base"
     ],
     "aromaTraits": [
-      "sweet delicate vanilla scent"
+      "sweet delicate vanilla scent",
+      "subtle floral perfume"
     ],
     "flowerFruitTraits": [
       "bilateral symmetric flowers",
       "specialized lip labellum",
       "column",
-      "three petals three sepals"
+      "three petals three sepals",
+      "zygomorphic showy blossoms",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
       "epiphyte",
-      "perennial orchid"
+      "perennial orchid",
+      "air plant",
+      "tree dwelling perennial"
     ],
     "medicinalUses": [
       "exotic ornamental",
@@ -1001,7 +1226,9 @@
       "labellum",
       "epiphyte",
       "exotic",
-      "lip"
+      "lip",
+      "zygomorphic",
+      "pseudobulb"
     ]
   },
   {
@@ -1014,7 +1241,8 @@
       "snake plant",
       "mother in laws tongue",
       "sansevieria",
-      "dracaena trifasciata"
+      "dracaena trifasciata",
+      "viper s bowstring hemp"
     ],
     "leafTraits": [
       "vertical upright sword shaped leaves",
@@ -1023,7 +1251,11 @@
       "yellow margins",
       "sword shaped erect leaves",
       "fibrous stiff monocot leaves",
-      "variegated banded foliage"
+      "variegated banded foliage",
+      "water storage",
+      "fleshy leaves",
+      "succulent foliage",
+      "water storage tissue"
     ],
     "stemTraits": [
       "stemless rhizome",
@@ -1032,17 +1264,22 @@
       "stemless indoor plant"
     ],
     "aromaTraits": [
-      "neutral"
+      "neutral",
+      "fresh foliage odor"
     ],
     "flowerFruitTraits": [
-      "greenish white flower spike rare"
+      "greenish white flower spike rare",
+      "tubular nocturnal flowers",
+      "orange berries"
     ],
     "growthHabit": [
       "architectural succulent",
       "erect indoor houseplant",
       "monocot succulent",
       "stemless indoor foliage plant",
-      "acaulescent perennial"
+      "acaulescent perennial",
+      "fleshy perennial",
+      "succulent plant"
     ],
     "medicinalUses": [
       "air purifying",
@@ -1059,7 +1296,8 @@
       "air purifier",
       "sansevieria",
       "monocot",
-      "stemless"
+      "stemless",
+      "succulent"
     ]
   },
   {
@@ -1073,7 +1311,8 @@
       "desert cactus",
       "prickly pear",
       "opuntia",
-      "kalli"
+      "kalli",
+      "saguaro relative"
     ],
     "leafTraits": [
       "spines instead of leaves",
@@ -1081,7 +1320,11 @@
       "no true leaves",
       "leaves reduced to sharp spines",
       "spines in place of leaves",
-      "leafless succulent"
+      "leafless succulent",
+      "water storage",
+      "fleshy leaves",
+      "succulent foliage",
+      "water storage tissue"
     ],
     "stemTraits": [
       "thick fleshy green cladode",
@@ -1092,18 +1335,22 @@
       "areoles with clusters of sharp spines"
     ],
     "aromaTraits": [
-      "neutral"
+      "neutral",
+      "subtle cucumber scent"
     ],
     "flowerFruitTraits": [
       "bright yellow or magenta cup flowers",
-      "prickly pear fruit"
+      "prickly pear fruit",
+      "many-petaled showy flowers"
     ],
     "growthHabit": [
       "xerophytic succulent",
       "desert plant",
       "desert succulent",
       "xerophyte",
-      "spiny succulent"
+      "spiny succulent",
+      "fleshy perennial",
+      "succulent plant"
     ],
     "medicinalUses": [
       "drought adaptation",
@@ -1117,7 +1364,8 @@
       "succulent",
       "prickly",
       "areoles",
-      "ribbed"
+      "ribbed",
+      "leafless"
     ]
   },
   {
@@ -1130,26 +1378,43 @@
       "lily",
       "asiatic lily",
       "oriental lily",
-      "lilium"
+      "lilium",
+      "true lily"
     ],
     "leafTraits": [
       "linear lanceolate leaves",
-      "spiral whorled leaves"
+      "spiral whorled leaves",
+      "lanceolate whorled leaves",
+      "narrow linear leaves",
+      "parallel veins",
+      "arranged around tall stem"
     ],
     "stemTraits": [
-      "tall erect unbranched stem from bulb"
+      "tall erect unbranched stem from bulb",
+      "tall erect unbranched leafy stem",
+      "smooth herbaceous flowering stalk"
     ],
     "aromaTraits": [
       "intensely sweet perfume",
-      "intoxicating fragrance"
+      "intoxicating fragrance",
+      "intensely sweet intoxicating floral",
+      "heady spicy perfume"
     ],
     "flowerFruitTraits": [
       "large trumpet shaped flowers",
       "six tepals",
-      "prominent protruding stamens with pollen anthers"
+      "prominent protruding stamens with pollen anthers",
+      "six tepals recurved petals",
+      "prominent dangling pollen stamens",
+      "white pink orange spotted blossoms",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
-      "bulbous perennial herb"
+      "bulbous perennial herb",
+      "perennial flowering bulb",
+      "erect bulbous herb"
     ],
     "medicinalUses": [
       "purity symbol",
@@ -1162,7 +1427,11 @@
       "anthers",
       "bulb",
       "fragrant",
-      "tepals"
+      "tepals",
+      "pollen",
+      "spots",
+      "white",
+      "petals"
     ]
   },
   {
@@ -1175,26 +1444,46 @@
       "peppermint",
       "mint",
       "pudina",
-      "mentha"
+      "mentha",
+      "menthol herb"
     ],
     "leafTraits": [
       "ovate lanceolate serrated leaves",
-      "dark green purple veined leaves"
+      "dark green purple veined leaves",
+      "lanceolate dark green leaves",
+      "toothed serrated margin",
+      "purple veins",
+      "opposite aromatic leaves"
     ],
     "stemTraits": [
       "square quadrangular stem",
-      "reddish purple stem"
+      "reddish purple stem",
+      "herbaceous stem",
+      "soft stem",
+      "square stem",
+      "quadrangular reddish purple stem",
+      "creeping stolons runners",
+      "soft green stem"
     ],
     "aromaTraits": [
       "strong cooling menthol scent",
-      "invigorating mint fragrance"
+      "invigorating mint fragrance",
+      "intense cooling menthol scent",
+      "fresh peppery mint aroma"
     ],
     "flowerFruitTraits": [
       "small purple lilac flowers",
-      "terminal spikes"
+      "terminal spikes",
+      "purple lilac flower spikes",
+      "small tubular florets in whorls"
     ],
     "growthHabit": [
-      "fast spreading stoloniferous herb"
+      "fast spreading stoloniferous herb",
+      "herbaceous",
+      "fast spreading perennial herb",
+      "creeping stoloniferous herb",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "menthol",
@@ -1208,7 +1497,11 @@
       "cooling",
       "square stem",
       "tea",
-      "purple stem"
+      "purple stem",
+      "gum",
+      "fresh",
+      "aromatic",
+      "herb"
     ]
   },
   {
@@ -1221,27 +1514,48 @@
       "fern",
       "boston fern",
       "sword fern",
-      "jarigida"
+      "jarigida",
+      "bracken",
+      "pteridophyte"
     ],
     "leafTraits": [
       "feathery fronds",
       "pinnate divided pinnae",
       "fiddleheads",
-      "spore sori underside"
+      "spore sori underside",
+      "pinnatifid dissected leaves",
+      "fiddleheads crosiers",
+      "spores on underside",
+      "delicate lace-like fronds"
     ],
     "stemTraits": [
-      "creeping rhizome"
+      "creeping rhizome",
+      "herbaceous stem",
+      "soft stem",
+      "rhizomatous underground stem",
+      "creeping fibrous stipe",
+      "soft green stem"
     ],
     "aromaTraits": [
-      "earthy fresh forest scent"
+      "earthy fresh forest scent",
+      "earthy woodland damp scent",
+      "clean green forest smell"
     ],
     "flowerFruitTraits": [
       "non flowering",
-      "spores underneath fronds"
+      "spores underneath fronds",
+      "no flowers or fruit",
+      "spores in brown sori clusters beneath fronds"
     ],
     "growthHabit": [
       "herbaceous vascular cryptogam",
-      "shade plant"
+      "shade plant",
+      "herbaceous",
+      "non flowering vascular plant",
+      "shade loving perennial herb",
+      "cryptogam",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "humidity loving indoor plant",
@@ -1253,7 +1567,9 @@
       "spores",
       "fiddleheads",
       "shade",
-      "sori"
+      "sori",
+      "fiddlehead",
+      "non-flowering"
     ]
   },
   {
@@ -1266,26 +1582,45 @@
       "bamboo",
       "bidiru",
       "culm",
-      "giant bamboo"
+      "giant bamboo",
+      "hollow bamboo",
+      "culm grass",
+      "bambusa"
     ],
     "leafTraits": [
       "linear lanceolate leaves",
-      "parallel veins grass leaves"
+      "parallel veins grass leaves",
+      "distinct petiole on sheath"
     ],
     "stemTraits": [
       "hollow jointed culms",
       "ringed nodes",
-      "woody tall cane"
+      "woody tall cane",
+      "woody trunk",
+      "tree trunk",
+      "hollow culm with solid nodes",
+      "smooth green to yellow poles",
+      "woody giant culms",
+      "rough bark"
     ],
     "aromaTraits": [
-      "clean grassy woody scent"
+      "clean grassy woody scent",
+      "fresh earthy bamboo smell"
     ],
     "flowerFruitTraits": [
-      "rare monocarpic flowering"
+      "rare monocarpic flowering",
+      "monocarpic mass flowering rare",
+      "grass-like seed panicles"
     ],
     "growthHabit": [
       "giant perennial woody grass",
-      "rapid growing culms"
+      "rapid growing culms",
+      "woody tree",
+      "canopy tree",
+      "fast growing giant perennial grass",
+      "woody grass monocot",
+      "clumping grove",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "bamboo shoots",
@@ -1299,7 +1634,11 @@
       "nodes",
       "joints",
       "cane",
-      "bamboo shoots"
+      "bamboo shoots",
+      "culm",
+      "timber grass",
+      "woody",
+      "fast growing"
     ]
   },
   {
@@ -1312,26 +1651,47 @@
       "lotus",
       "sacred lotus",
       "kamala",
-      "padma"
+      "padma",
+      "nelumbo",
+      "thamarai"
     ],
     "leafTraits": [
       "large peltate round leaves",
       "water repellent lotus effect",
-      "floating emergent leaves"
+      "floating emergent leaves",
+      "large circular peltate leaves",
+      "water repellent waxy surface",
+      "floating and emergent leaves",
+      "hydrophobic surface"
     ],
     "stemTraits": [
       "submerged petioles",
-      "underwater lotus root rhizome"
+      "underwater lotus root rhizome",
+      "long spongy hollow petioles",
+      "submerged rhizome in mud",
+      "air canals in stem"
     ],
     "aromaTraits": [
-      "sweet divine floral fragrance"
+      "sweet divine floral fragrance",
+      "sweet divine sacred floral",
+      "delicate watery floral perfume"
     ],
     "flowerFruitTraits": [
       "multi petaled pink white blossoms",
-      "distinctive showerhead seed pod"
+      "distinctive showerhead seed pod",
+      "large solitary pink white flowers",
+      "multi petaled sacred blossom",
+      "flat-topped showerhead seed receptacle",
+      "spongy cone pod"
     ],
     "growthHabit": [
-      "aquatic perennial macrophyte"
+      "aquatic perennial macrophyte",
+      "aquatic plant",
+      "water plant",
+      "hydrophyte",
+      "perennial aquatic plant",
+      "floating hydrophyte",
+      "mud rooted water plant"
     ],
     "medicinalUses": [
       "national flower of india",
@@ -1344,7 +1704,11 @@
       "showerhead",
       "peltate",
       "pink",
-      "sacred"
+      "sacred",
+      "receptacle",
+      "floating",
+      "pond",
+      "hydrophobic"
     ]
   },
   {
@@ -1357,25 +1721,43 @@
       "chrysanthemum",
       "sevanthige",
       "mum",
-      "guldaudi"
+      "guldaudi",
+      "sevanthi",
+      "florist mum"
     ],
     "leafTraits": [
       "deeply lobed leaves",
       "scented crushed leaves",
-      "toothed ovate"
+      "toothed ovate",
+      "deeply lobed aromatic leaves",
+      "dark green toothed foliage",
+      "pungent herbal leaves"
     ],
     "stemTraits": [
-      "brittle branching stems"
+      "brittle branching stems",
+      "herbaceous erect branching stem",
+      "slender fibrous stems"
     ],
     "aromaTraits": [
-      "pungent earthy herbaceous scent"
+      "pungent earthy herbaceous scent",
+      "pungent herbal medicinal scent",
+      "distinct camphor herbal aroma"
     ],
     "flowerFruitTraits": [
       "dense multi petaled composite flower heads",
-      "yellow white purple blooms"
+      "yellow white purple blooms",
+      "multi petaled flower heads",
+      "pom pom button or daisy shapes",
+      "yellow bronze white purple ray florets",
+      "dense composite blooms",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
-      "autumn flowering subshrub"
+      "autumn flowering subshrub",
+      "perennial flowering herb",
+      "autumn garden flower"
     ],
     "medicinalUses": [
       "festive garlands",
@@ -1387,7 +1769,11 @@
       "lobed",
       "composite",
       "autumn",
-      "garlands"
+      "garlands",
+      "pom pom",
+      "garland",
+      "sevanthi",
+      "petals"
     ]
   },
   {
@@ -1399,25 +1785,44 @@
     "synonyms": [
       "lavender",
       "lavandula",
-      "english lavender"
+      "english lavender",
+      "french lavender"
     ],
     "leafTraits": [
       "narrow linear lanceolate leaves",
-      "greyish green downy leaves"
+      "greyish green downy leaves",
+      "narrow linear grey-green leaves",
+      "needle-like opposite foliage",
+      "velvety aromatic leaves"
     ],
     "stemTraits": [
-      "square semi woody stems"
+      "square semi woody stems",
+      "herbaceous stem",
+      "soft stem",
+      "square stem woody at base",
+      "branching semi-shrubby stem",
+      "soft green stem"
     ],
     "aromaTraits": [
       "calming sweet floral camphor scent",
-      "relaxing aroma"
+      "relaxing aroma",
+      "sweet herbal floral calming scent",
+      "camphoraceous lavender aroma",
+      "intensely relaxing volatile oils"
     ],
     "flowerFruitTraits": [
       "violet blue tiny flowers on compact spikes",
-      "purple spikes"
+      "purple spikes",
+      "dense spikes of purple violet flowers",
+      "two-lipped tubular florets"
     ],
     "growthHabit": [
-      "compact aromatic subshrub"
+      "compact aromatic subshrub",
+      "herbaceous",
+      "perennial aromatic subshrub",
+      "compact fragrant bush",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "essential oil",
@@ -1431,7 +1836,11 @@
       "calming",
       "spikes",
       "camphor",
-      "oil"
+      "oil",
+      "sleep",
+      "grey green",
+      "fragrant",
+      "essential oil"
     ]
   },
   {
@@ -1443,24 +1852,41 @@
     "synonyms": [
       "peace lily",
       "spathiphyllum",
-      "white sails"
+      "white sails",
+      "white sail plant",
+      "closet plant"
     ],
     "leafTraits": [
       "glossy dark green ribbed leaves",
-      "elliptic arching leaves"
+      "elliptic arching leaves",
+      "glossy dark green lanceolate leaves",
+      "prominent arching veins",
+      "dense basal foliage rosette"
     ],
     "stemTraits": [
-      "erect graceful petioles from rhizome"
+      "erect graceful petioles from rhizome",
+      "acaulescent clump",
+      "stemless petioles arising from crown"
     ],
     "aromaTraits": [
-      "faint pleasant"
+      "faint pleasant",
+      "subtle sweet scent during blooming",
+      "clean fresh foliage"
     ],
     "flowerFruitTraits": [
       "pure white sail like spathe",
-      "creamy central spadix"
+      "creamy central spadix",
+      "pure white cupped spathe",
+      "creamy white central spadix spike",
+      "flag like bract blossom",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
-      "shade loving evergreen indoor plant"
+      "shade loving evergreen indoor plant",
+      "indoor flowering houseplant",
+      "shade loving perennial herb"
     ],
     "medicinalUses": [
       "air purifying",
@@ -1473,7 +1899,10 @@
       "white sail",
       "indoor",
       "dark green",
-      "glossy"
+      "glossy",
+      "white spathe",
+      "air purifying",
+      "low light"
     ]
   },
   {
@@ -1487,25 +1916,44 @@
       "rice",
       "bhattha",
       "dhan",
-      "rice crop"
+      "rice crop",
+      "oryza",
+      "bhatta",
+      "chawal plant"
     ],
     "leafTraits": [
       "slender flat long linear leaves",
-      "scabrid rough blade"
+      "scabrid rough blade",
+      "linear flat rough grass blades",
+      "sharp silica margins",
+      "parallel venation",
+      "conspicuous ligule and auricles"
     ],
     "stemTraits": [
-      "hollow cylindrical tillering culms"
+      "hollow cylindrical tillering culms",
+      "hollow round jointed culm",
+      "tillering herbaceous stem with nodes"
     ],
     "aromaTraits": [
-      "sweet fresh hay grain aroma"
+      "sweet fresh hay grain aroma",
+      "earthy wet soil grass smell",
+      "cooked grain fragrance in basmati"
     ],
     "flowerFruitTraits": [
       "pendulous panicles",
       "spikelets with awns",
-      "rice grains in husk"
+      "rice grains in husk",
+      "nodding terminal panicle",
+      "spikelets containing grain kernels",
+      "rough golden husks with awns"
     ],
     "growthHabit": [
-      "wetland annual cereal grass crop"
+      "wetland annual cereal grass crop",
+      "agricultural crop",
+      "cultivated plant",
+      "semi-aquatic annual cereal grass",
+      "flooded wetland grain crop",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "staple food cereal",
@@ -1519,7 +1967,10 @@
       "awn",
       "wetland",
       "field",
-      "cereal"
+      "cereal",
+      "grain",
+      "staple",
+      "hollow stem"
     ]
   },
   {
@@ -1532,25 +1983,41 @@
       "wheat",
       "godhi",
       "gehun",
-      "wheat crop"
+      "wheat crop",
+      "triticum",
+      "bread wheat"
     ],
     "leafTraits": [
-      "flat linear leaves with auricles"
+      "flat linear leaves with auricles",
+      "slender linear grass blades",
+      "hairy auricles at leaf collar",
+      "parallel veins"
     ],
     "stemTraits": [
-      "erect hollow straw culm"
+      "erect hollow straw culm",
+      "hollow jointed round straw culm",
+      "erect unbranched cereal stem"
     ],
     "aromaTraits": [
-      "toasted cereal aroma"
+      "toasted cereal aroma",
+      "sweet grassy hay scent",
+      "fresh green cereal odor"
     ],
     "flowerFruitTraits": [
       "compact terminal spike",
       "ear of wheat",
       "bearded spikelets",
-      "wheat kernels"
+      "wheat kernels",
+      "dense terminal spike seedhead",
+      "awned bearded spikelets",
+      "hard golden edible grains inside glumes"
     ],
     "growthHabit": [
-      "cool season annual cereal grass"
+      "cool season annual cereal grass",
+      "agricultural crop",
+      "cultivated plant",
+      "erect agricultural grain crop",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "flour",
@@ -1564,7 +2031,13 @@
       "wheat grains",
       "flour",
       "chapati",
-      "golden straw"
+      "golden straw",
+      "grain",
+      "awn",
+      "straw",
+      "golden",
+      "cereal",
+      "grass"
     ]
   },
   {
@@ -1577,25 +2050,43 @@
       "maize",
       "corn",
       "mekke jola",
-      "bhutta"
+      "bhutta",
+      "musukina jola",
+      "makka"
     ],
     "leafTraits": [
-      "wide arching leaves with wavy margins"
+      "wide arching leaves with wavy margins",
+      "broad long arching strap leaves",
+      "wavy crinkled margins",
+      "strong pale central midrib"
     ],
     "stemTraits": [
       "stout solid stalk",
-      "prop brace roots at base"
+      "prop brace roots at base",
+      "thick solid erect jointed stalk",
+      "stout nodal rings",
+      "fibrous adventitious prop roots at base"
     ],
     "aromaTraits": [
-      "sweet corn aroma"
+      "sweet corn aroma",
+      "sweet green grassy scent",
+      "sweet corn milk aroma"
     ],
     "flowerFruitTraits": [
       "male tassel on top",
       "female ear cob with silk enclosed in husk",
-      "yellow kernels"
+      "yellow kernels",
+      "male branched tassel at apex",
+      "female ear on leaf axils with yellow silks",
+      "dense rows of yellow sweet kernels enclosed in green husks"
     ],
     "growthHabit": [
-      "tall annual cereal crop"
+      "tall annual cereal crop",
+      "agricultural crop",
+      "cultivated plant",
+      "tall robust annual grass crop",
+      "monocot cereal giant",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "corn starch",
@@ -1609,7 +2100,11 @@
       "cob",
       "silk",
       "yellow kernels",
-      "stalk"
+      "stalk",
+      "kernels",
+      "yellow",
+      "prop roots",
+      "sweet corn"
     ]
   },
   {
@@ -1621,24 +2116,42 @@
     "synonyms": [
       "tomato",
       "tomato plant",
-      "tamatar"
+      "tamatar",
+      "tamata",
+      "solanum lycopersicum",
+      "love apple"
     ],
     "leafTraits": [
       "pinnate compound lobed leaves",
-      "glandular sticky hairs"
+      "glandular sticky hairs",
+      "pinnately compound glandular hairy leaves",
+      "irregular toothed leaflets",
+      "strong pungent tomato vine aroma"
     ],
     "stemTraits": [
-      "hairy sprawling green stem"
+      "hairy sprawling green stem",
+      "hairy sticky green herbaceous stem",
+      "sprawling to erect brittle branches"
     ],
     "aromaTraits": [
-      "sharp pungent characteristic tomato foliage smell"
+      "sharp pungent characteristic tomato foliage smell",
+      "pungent distinctive tomato foliage scent",
+      "sharp herbal vine odor"
     ],
     "flowerFruitTraits": [
       "yellow star shaped flowers",
-      "fleshy juicy red berries fruit"
+      "fleshy juicy red berries fruit",
+      "yellow star shaped nodding flowers",
+      "fleshy juicy red round berry fruit",
+      "green sepals persistent at stem"
     ],
     "growthHabit": [
-      "sprawling annual vegetable crop"
+      "sprawling annual vegetable crop",
+      "agricultural crop",
+      "cultivated plant",
+      "sprawling herbaceous annual vine",
+      "determinate or indeterminate garden crop",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "lycopene",
@@ -1650,7 +2163,14 @@
       "sticky hairs",
       "pungent foliage",
       "salad",
-      "sauce"
+      "sauce",
+      "red",
+      "juicy",
+      "yellow flowers",
+      "sticky",
+      "hairy",
+      "vegetable",
+      "berry"
     ]
   },
   {
@@ -1663,24 +2183,41 @@
       "cotton",
       "hatthi",
       "kapas",
-      "cotton plant"
+      "cotton plant",
+      "arale",
+      "gossypium",
+      "white gold"
     ],
     "leafTraits": [
       "palmately 3 to 5 lobed leaves",
-      "cordate base"
+      "cordate base",
+      "3-5 palmately lobed leaves",
+      "dark green cordate base",
+      "conspicuous nectar glands on veins"
     ],
     "stemTraits": [
-      "branching woody subshrub stem"
+      "branching woody subshrub stem",
+      "erect woody branching stem",
+      "reddish green shrubby stalk"
     ],
     "aromaTraits": [
-      "subtle earthy"
+      "subtle earthy",
+      "mild earthy vegetative scent"
     ],
     "flowerFruitTraits": [
       "cream yellow flowers turning pink",
-      "cotton bolls packed with white fluffy fibers"
+      "cotton bolls packed with white fluffy fibers",
+      "large hibiscus-like cream yellow flowers turning pink",
+      "three fringed green bracteoles",
+      "leathery green capsules opening to white fluffy fibrous bolls"
     ],
     "growthHabit": [
-      "subshrub textile crop"
+      "subshrub textile crop",
+      "agricultural crop",
+      "cultivated plant",
+      "annual or perennial subshrub crop",
+      "erect taprooted agricultural bush",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "natural textile fiber",
@@ -1692,7 +2229,10 @@
       "fluffy",
       "textile",
       "kapas",
-      "lobed"
+      "lobed",
+      "white",
+      "fiber",
+      "yellow flower"
     ]
   },
   {
@@ -1704,25 +2244,42 @@
     "synonyms": [
       "sugarcane",
       "kabbu",
-      "ganna"
+      "ganna",
+      "saccharum",
+      "sugar cane"
     ],
     "leafTraits": [
       "long sword like leaves",
-      "sharp finely serrated edges"
+      "sharp finely serrated edges",
+      "long broad tapering strap leaves",
+      "sharp serrated blade edges",
+      "thick white central midrib"
     ],
     "stemTraits": [
       "thick solid jointed fibrous stalks",
       "sweet sucrose sap",
-      "ringed colorful internodes"
+      "ringed colorful internodes",
+      "tall thick solid fibrous jointed stalks",
+      "distinct nodes and internodes with sweet sap",
+      "purplish green yellow rind"
     ],
     "aromaTraits": [
-      "sweet raw sugar cane juice aroma"
+      "sweet raw sugar cane juice aroma",
+      "sweet sugary grassy scent",
+      "crushed cane syrup smell"
     ],
     "flowerFruitTraits": [
-      "silvery feathery plume like arrow panicle"
+      "silvery feathery plume like arrow panicle",
+      "silvery feathery terminal panicle arrow",
+      "plume-like inflorescence rare in cultivation"
     ],
     "growthHabit": [
-      "giant perennial grass crop"
+      "giant perennial grass crop",
+      "agricultural crop",
+      "cultivated plant",
+      "giant perennial clumping grass",
+      "tall tropical agricultural crop",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "cane sugar",
@@ -1736,7 +2293,11 @@
       "joints",
       "internodes",
       "jaggery",
-      "juice"
+      "juice",
+      "cane",
+      "sugar",
+      "nodes",
+      "giant grass"
     ]
   },
   {
@@ -1749,26 +2310,44 @@
       "banana",
       "bale gida",
       "kela",
-      "plantain"
+      "plantain",
+      "bale",
+      "musa"
     ],
     "leafTraits": [
       "gigantic paddle shaped leaves",
       "wind split fronds",
-      "prominent midrib"
+      "prominent midrib",
+      "giant oblong paddle-shaped leaves",
+      "fraying easily in wind",
+      "fleshy thick channeled petioles"
     ],
     "stemTraits": [
       "pseudostem of leaf sheaths",
-      "underground corm"
+      "underground corm",
+      "herbaceous pseudostem formed by tight leaf sheaths",
+      "underground corm rootstock",
+      "no true woody trunk"
     ],
     "aromaTraits": [
-      "fresh tropical green scent"
+      "fresh tropical green scent",
+      "fresh green tropical foliage smell",
+      "sweet fragrant ripe fruit aroma"
     ],
     "flowerFruitTraits": [
       "pendulous flower inflorescence with dark maroon bracts",
-      "hanging bunch of yellow fruits"
+      "hanging bunch of yellow fruits",
+      "large drooping purple inflorescence heart bud",
+      "clusters of tubular yellow flowers covered by maroon bracts",
+      "hanging tiers of curved green to yellow edible fruit fingers"
     ],
     "growthHabit": [
-      "giant arborescent monocot herb"
+      "giant arborescent monocot herb",
+      "agricultural crop",
+      "cultivated plant",
+      "giant arborescent perennial herb",
+      "massive monocot tropical plant",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "potassium rich fruit",
@@ -1780,7 +2359,11 @@
       "pseudostem",
       "bunch",
       "maroon bract",
-      "banana leaf"
+      "banana leaf",
+      "hands",
+      "yellow",
+      "potassium",
+      "purple flower bud"
     ]
   },
   {
@@ -1793,27 +2376,47 @@
       "mango",
       "mavu",
       "aam",
-      "king of fruits"
+      "king of fruits",
+      "mangifera"
     ],
     "leafTraits": [
       "lanceolate leaves",
       "glossy dark green",
       "coppery red young leaves",
-      "wavy margin"
+      "wavy margin",
+      "lanceolate dark green leathery leaves",
+      "aromatic resinous turpentine scent when crushed",
+      "young leaves reddish pink",
+      "wavy leaf margins"
     ],
     "stemTraits": [
       "thick rough dark bark",
-      "huge spreading canopy trunk"
+      "huge spreading canopy trunk",
+      "woody trunk",
+      "tree trunk",
+      "massive rough grey-brown woody trunk",
+      "spreading thick branches",
+      "dense evergreen canopy",
+      "rough bark"
     ],
     "aromaTraits": [
-      "resinous sweet turpentine fruity mango smell"
+      "resinous sweet turpentine fruity mango smell",
+      "resinous tropical mango aroma",
+      "sweet honey floral panicle scent"
     ],
     "flowerFruitTraits": [
       "large branched panicles of tiny fragrant flowers",
-      "kidney shaped large fleshy drupe fruit"
+      "kidney shaped large fleshy drupe fruit",
+      "branched pyramidal panicles of tiny yellowish flowers",
+      "large fleshy asymmetric kidney shaped drupes with golden yellow sweet pulp and flat fibrous stone"
     ],
     "growthHabit": [
-      "massive evergreen canopy tree"
+      "massive evergreen canopy tree",
+      "woody tree",
+      "canopy tree",
+      "large spreading evergreen canopy tree",
+      "hardwood fruit tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "king of fruits",
@@ -1825,7 +2428,13 @@
       "coppery leaves",
       "panicle",
       "sweet drupe",
-      "toran"
+      "toran",
+      "drupe",
+      "sweet",
+      "stone",
+      "canopy",
+      "resinous",
+      "tropical tree"
     ]
   },
   {
@@ -1838,24 +2447,42 @@
       "coconut",
       "tengu",
       "nariyal",
-      "kalpavriksha"
+      "kalpavriksha",
+      "cocos nucifera"
     ],
     "leafTraits": [
       "gigantic pinnate feathery fronds",
-      "terminal crown of fronds"
+      "terminal crown of fronds",
+      "massive pinnate feather fronds",
+      "rigid linear-lanceolate leaflets",
+      "clumping at trunk crown"
     ],
     "stemTraits": [
-      "tall unbranched columnar trunk with ringed leaf scars"
+      "tall unbranched columnar trunk with ringed leaf scars",
+      "woody trunk",
+      "tree trunk",
+      "tall solitary unbranched ringed fibrous trunk",
+      "curved lean swollen base with adventitious roots",
+      "rough bark"
     ],
     "aromaTraits": [
-      "sweet nutty coconut scent"
+      "sweet nutty coconut scent",
+      "mild sweet nutty fresh scent",
+      "tropical coconut fragrance"
     ],
     "flowerFruitTraits": [
       "yellow spathe inflorescence",
-      "large hard shelled fibrous drupe with water and copra"
+      "large hard shelled fibrous drupe with water and copra",
+      "branched spadix inflorescence enclosed in woody boat spathe",
+      "large ovoid green-brown fibrous drupe with hard endocarp shell, white coconut meat and water"
     ],
     "growthHabit": [
-      "unbranched canopy palm"
+      "unbranched canopy palm",
+      "woody tree",
+      "canopy tree",
+      "tall unbranched feather palm tree",
+      "coastal tropical evergreen palm",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "coconut water",
@@ -1868,7 +2495,12 @@
       "fronds",
       "copra",
       "coconut water",
-      "ringed trunk"
+      "ringed trunk",
+      "drupe",
+      "water",
+      "coir",
+      "trunk",
+      "unbranched"
     ]
   },
   {
@@ -1881,24 +2513,44 @@
       "areca nut",
       "betel nut",
       "adike",
-      "supari"
+      "supari",
+      "areca palm"
     ],
     "leafTraits": [
-      "pinnate graceful crown fronds"
+      "pinnate graceful crown fronds",
+      "graceful pinnate feather palm fronds",
+      "rigid deep green crowded leaflets",
+      "crownshaft sheath at top of trunk"
     ],
     "stemTraits": [
       "slender tall straight unbranched trunk",
-      "prominent annular rings"
+      "prominent annular rings",
+      "woody trunk",
+      "tree trunk",
+      "slender straight solitary cylindrical trunk",
+      "prominent ring scars",
+      "smooth greyish green trunk",
+      "rough bark"
     ],
     "aromaTraits": [
-      "astringent nutty aroma"
+      "astringent nutty aroma",
+      "subtle nutty astringent smell",
+      "faint palm blossom fragrance"
     ],
     "flowerFruitTraits": [
       "branched spadix",
-      "heavy clusters of orange fibrous ovoid nuts"
+      "heavy clusters of orange fibrous ovoid nuts",
+      "branched spadix below crownshaft",
+      "small fragrant creamy white flowers",
+      "ovoid fibrous orange-red drupes containing hard astringent betel nut seed"
     ],
     "growthHabit": [
-      "slender solitary canopy palm"
+      "slender solitary canopy palm",
+      "woody tree",
+      "canopy tree",
+      "tall slender solitary feather palm tree",
+      "tropical plantation palm",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "supari",
@@ -1910,7 +2562,12 @@
       "slender palm",
       "supari",
       "orange nuts",
-      "annular rings"
+      "annular rings",
+      "palm",
+      "slender trunk",
+      "betel nut",
+      "ring scars",
+      "orange fruit"
     ]
   },
   {
@@ -1924,24 +2581,38 @@
       "menasinakayi",
       "mirchi",
       "hot pepper",
-      "capsicum"
+      "capsicum",
+      "chili pepper"
     ],
     "leafTraits": [
       "ovate lanceolate glossy leaves",
-      "smooth margin"
+      "smooth margin",
+      "ovate to lanceolate smooth dark green leaves",
+      "alternate simple leaves with pointed tips"
     ],
     "stemTraits": [
-      "semi woody branching green stems"
+      "semi woody branching green stems",
+      "green to brownish herbaceous branching stem",
+      "angular semi-woody base"
     ],
     "aromaTraits": [
-      "pungent spicy capsicum smell"
+      "pungent spicy capsicum smell",
+      "pungent spicy capsaicin aroma when bruised",
+      "fresh green pepper scent"
     ],
     "flowerFruitTraits": [
       "white star flowers",
-      "elongated green to fiery red hot pods"
+      "elongated green to fiery red hot pods",
+      "small solitary white or greenish star-shaped flowers",
+      "pendant elongated conical glossy green red pods with hot pungent seeds"
     ],
     "growthHabit": [
-      "bushy vegetable crop"
+      "bushy vegetable crop",
+      "agricultural crop",
+      "cultivated plant",
+      "annual to short-lived perennial bushy subshrub",
+      "warm season vegetable crop",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "capsaicin",
@@ -1953,7 +2624,11 @@
       "spicy",
       "red pod",
       "mirchi",
-      "capsaicin"
+      "capsaicin",
+      "red",
+      "green",
+      "pointed pod",
+      "white star flower"
     ]
   },
   {
@@ -1965,25 +2640,43 @@
     "synonyms": [
       "potato",
       "aloo",
-      "aloogadde"
+      "aloogadde",
+      "alugadde",
+      "solanum tuberosum",
+      "spud"
     ],
     "leafTraits": [
       "pinnate compound hairy leaves",
-      "alternating leaflets"
+      "alternating leaflets",
+      "pinnately compound leaves with large terminal leaflet",
+      "smaller lateral leaflets",
+      "hairy green foliage"
     ],
     "stemTraits": [
       "green aerial stems",
-      "underground starchy tubers"
+      "underground starchy tubers",
+      "herbaceous erect to sprawling angled succulent stem",
+      "underground rhizomatous stolons swelling into tubers"
     ],
     "aromaTraits": [
-      "earthy root cellar smell"
+      "earthy root cellar smell",
+      "earthy raw potato scent",
+      "herbal solanaceous foliage smell"
     ],
     "flowerFruitTraits": [
       "white purple star flowers with yellow center cone",
-      "toxic green berries"
+      "toxic green berries",
+      "white pink or purple star-shaped flowers with prominent yellow anther cones",
+      "green toxic tomato-like berry seedballs",
+      "starchy subterranean stem tubers with eyes"
     ],
     "growthHabit": [
-      "herbaceous annual tuber crop"
+      "herbaceous annual tuber crop",
+      "agricultural crop",
+      "cultivated plant",
+      "tuberous perennial herb grown as cool season crop",
+      "bushy taprooted crop",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "starchy staple food",
@@ -1994,7 +2687,11 @@
       "aloo",
       "underground",
       "starchy",
-      "chips"
+      "chips",
+      "eyes",
+      "subterranean",
+      "yellow anthers",
+      "staple crop"
     ]
   },
   {
@@ -2006,24 +2703,40 @@
     "synonyms": [
       "onion",
       "eerulli",
-      "pyaz"
+      "pyaz",
+      "allium cepa",
+      "bulb onion"
     ],
     "leafTraits": [
       "hollow cylindrical tubular leaves",
-      "scallions"
+      "scallions",
+      "glaucous waxy bluish-green foliage",
+      "fleshy sheathing leaf bases forming bulb layers"
     ],
     "stemTraits": [
       "underground layered tunic bulb",
-      "basal plate"
+      "basal plate",
+      "compact flattened subterranean stem plate at base of bulb",
+      "fibrous adventitious roots"
     ],
     "aromaTraits": [
-      "sharp sulfurous lachrymatory tear inducing aroma"
+      "sharp sulfurous lachrymatory tear inducing aroma",
+      "pungent sulfurous sharp tear-inducing aroma",
+      "strong lachrymatory volatile allicin odor"
     ],
     "flowerFruitTraits": [
-      "spherical umbel of tiny greenish white flowers on scape"
+      "spherical umbel of tiny greenish white flowers on scape",
+      "dense spherical globose umbel flower head on tall hollow scape",
+      "small greenish white six-petaled florets",
+      "papery scaled layered tunic bulb"
     ],
     "growthHabit": [
-      "biennial bulb crop"
+      "biennial bulb crop",
+      "agricultural crop",
+      "cultivated plant",
+      "biennial bulbous monocot herb grown as annual crop",
+      "layered bulb vegetable",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "quercetin",
@@ -2036,7 +2749,10 @@
       "sulfur",
       "tears",
       "pyaz",
-      "layers"
+      "layers",
+      "tubular",
+      "pungent",
+      "globose umbel"
     ]
   },
   {
@@ -2049,24 +2765,39 @@
       "groundnut",
       "peanut",
       "kadalekayi",
-      "moongphali"
+      "moongphali",
+      "arachis"
     ],
     "leafTraits": [
       "pinnate with four obovate leaflets",
-      "sleeping night movement"
+      "sleeping night movement",
+      "even-pinnate 4-foliolate compound leaves",
+      "two pairs of obovate opposite leaflets",
+      "prominent stipules"
     ],
     "stemTraits": [
-      "hairy procumbent spreading stem"
+      "hairy procumbent spreading stem",
+      "hairy prostrate or erect branching herbaceous stems",
+      "slender peg structures elongating downward"
     ],
     "aromaTraits": [
-      "nutty earthy roasted aroma"
+      "nutty earthy roasted aroma",
+      "earthy nutty fresh scent",
+      "beany vegetative odor"
     ],
     "flowerFruitTraits": [
       "yellow pea flowers",
-      "peg buries into soil to form subterranean pod nuts"
+      "peg buries into soil to form subterranean pod nuts",
+      "small yellow pea-like papilionaceous flowers in leaf axils",
+      "flower pegs grow downward and bury into soil to develop underground fibrous netted pods with 2-3 seeds"
     ],
     "growthHabit": [
-      "low annual legume crop"
+      "low annual legume crop",
+      "agricultural crop",
+      "cultivated plant",
+      "low trailing or erect annual legume crop",
+      "geocarpic subterranean pod herb",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "peanut oil",
@@ -2078,7 +2809,11 @@
       "peg",
       "subterranean",
       "four leaflets",
-      "nuts"
+      "nuts",
+      "underground",
+      "geocarpic",
+      "yellow pea flower",
+      "legume"
     ]
   },
   {
@@ -2091,25 +2826,44 @@
       "coffee",
       "kaapi",
       "arabica",
-      "coffee bush"
+      "coffee bush",
+      "kapi",
+      "coffea arabica",
+      "arabica coffee"
     ],
     "leafTraits": [
       "opposite shiny dark green leaves",
-      "elliptical wavy margin"
+      "elliptical wavy margin",
+      "opposite glossy dark green elliptic leaves",
+      "prominent veins with wavy undulate margins",
+      "shiny dark foliage"
     ],
     "stemTraits": [
-      "horizontal woody branches"
+      "horizontal woody branches",
+      "woody stem",
+      "branching woody stems",
+      "vertical main woody stem with horizontal dimorphic spreading branches",
+      "greyish brown bark"
     ],
     "aromaTraits": [
       "jasmine like flower scent",
-      "roasted coffee bean aroma"
+      "roasted coffee bean aroma",
+      "jasmine-like fragrant blossoms",
+      "rich coffee aroma from roasted beans"
     ],
     "flowerFruitTraits": [
       "clusters of fragrant white flowers",
-      "green to crimson red coffee cherries berries"
+      "green to crimson red coffee cherries berries",
+      "dense axillary clusters of intensely fragrant starry white flowers",
+      "round to oval green berries ripening to bright red cherries enclosing two flat-sided seeds"
     ],
     "growthHabit": [
-      "evergreen understory shrub"
+      "evergreen understory shrub",
+      "woody shrub",
+      "evergreen woody shrub or small tree",
+      "shade-tolerant plantation bush",
+      "branching shrub",
+      "perennial bush"
     ],
     "medicinalUses": [
       "caffeine",
@@ -2121,7 +2875,11 @@
       "beans",
       "kaapi",
       "caffeine",
-      "shiny leaves"
+      "shiny leaves",
+      "berries",
+      "red cherries",
+      "fragrant white flowers",
+      "woody shrub"
     ]
   },
   {
@@ -2134,24 +2892,42 @@
       "tea",
       "chaha",
       "chai",
-      "tea bush"
+      "tea bush",
+      "cha",
+      "camellia sinensis"
     ],
     "leafTraits": [
       "elliptic serrated leaves",
       "two leaves and a bud",
-      "silvery hairy young bud"
+      "silvery hairy young bud",
+      "alternate elliptic obovate glossy dark green leathery leaves",
+      "serrated margins with glandular teeth",
+      "young tender leaves covered in silky white hairs"
     ],
     "stemTraits": [
-      "densely pruned woody bush"
+      "densely pruned woody bush",
+      "woody stem",
+      "branching woody stems",
+      "heavily pruned woody branching bush",
+      "smooth greyish brown bark"
     ],
     "aromaTraits": [
-      "fresh grassy tannic herbal aroma"
+      "fresh grassy tannic herbal aroma",
+      "fresh aromatic herbal green leaf scent",
+      "sweet subtle floral aroma"
     ],
     "flowerFruitTraits": [
-      "solitary white flowers with yellow stamens"
+      "solitary white flowers with yellow stamens",
+      "solitary or clustered white flowers with 7-8 petals and numerous golden yellow stamens",
+      "small woody three-lobed capsule"
     ],
     "growthHabit": [
-      "evergreen branching shrub"
+      "evergreen branching shrub",
+      "woody shrub",
+      "densely branched evergreen woody shrub",
+      "perennial tea plantation bush",
+      "branching shrub",
+      "perennial bush"
     ],
     "medicinalUses": [
       "polyphenols",
@@ -2163,7 +2939,13 @@
       "chai",
       "pruned",
       "camellia",
-      "tannins"
+      "tannins",
+      "two leaves and a bud",
+      "caffeine",
+      "pruned bush",
+      "green tea",
+      "serrated",
+      "woody shrub"
     ]
   },
   {
@@ -2176,24 +2958,43 @@
       "cardamom",
       "elakki",
       "elaichi",
-      "queen of spices"
+      "queen of spices",
+      "elettaria",
+      "green cardamom"
     ],
     "leafTraits": [
       "tall erect lanceolate glossy leaves",
-      "long sheaths"
+      "long sheaths",
+      "large lanceolate dark green leaves with long sheaths",
+      "smooth upper surface and soft pubescent underside",
+      "prominent parallel lateral veins"
     ],
     "stemTraits": [
-      "pseudostem from creeping underground rhizome"
+      "pseudostem from creeping underground rhizome",
+      "herbaceous stem",
+      "soft stem",
+      "tall leafy pseudostem clumps rising from thick branched subterranean aromatic rhizome",
+      "prostrate horizontal flowering panicles creeping along ground",
+      "soft green stem"
     ],
     "aromaTraits": [
-      "intensely warm eucalyptus camphor sweet spicy fragrance"
+      "intensely warm eucalyptus camphor sweet spicy fragrance",
+      "intensely warm camphoraceous spicy sweet aroma",
+      "highly aromatic cineole and terpinyl fragrance"
     ],
     "flowerFruitTraits": [
       "prostrate runners with white violet striped flowers",
-      "triangular green papery seed pods"
+      "triangular green papery seed pods",
+      "prostrate panicles bearing white or pale yellow flowers with violet-striped labellum lip",
+      "small oblong 3-sided greenish yellow papery capsules packed with black aromatic seeds"
     ],
     "growthHabit": [
-      "shade loving perennial rhizome herb"
+      "shade loving perennial rhizome herb",
+      "herbaceous",
+      "large shade-loving perennial forest herb",
+      "rhizomatous understory spice plant",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "queen of spices",
@@ -2206,7 +3007,14 @@
       "spicy aroma",
       "elaichi",
       "queen of spices",
-      "camphoraceous"
+      "camphoraceous",
+      "spice",
+      "rhizome",
+      "three-sided pod",
+      "cineole",
+      "camphor",
+      "aromatic",
+      "pseudostem"
     ]
   },
   {
@@ -2219,25 +3027,44 @@
       "black pepper",
       "kalu menasu",
       "kali mirch",
-      "king of spices"
+      "king of spices",
+      "kari menasu",
+      "piper nigrum"
     ],
     "leafTraits": [
       "broad ovate cordate leathery dark green leaves",
-      "prominent curved veins"
+      "prominent curved veins",
+      "broad ovate cordate glossy dark green leathery leaves",
+      "prominent 5-7 palmate arching veins",
+      "pointed apex and rounded base"
     ],
     "stemTraits": [
       "woody climbing vine",
-      "clinging adventitious roots"
+      "clinging adventitious roots",
+      "twining stem",
+      "climbing stem",
+      "slender vine",
+      "perennial woody climbing vine",
+      "swollen nodes with adventitious clinging roots attaching to support trees"
     ],
     "aromaTraits": [
-      "sharp pungent peppery biting scent"
+      "sharp pungent peppery biting scent",
+      "pungent spicy sharp piperine aroma",
+      "warm woody peppery scent"
     ],
     "flowerFruitTraits": [
       "pendulous catkins spikes",
-      "green to red berries dried into black peppercorns"
+      "green to red berries dried into black peppercorns",
+      "pendulous pendular catkin-like spikes of tiny white flowers",
+      "dense drooping spikes of 50-60 small spherical berries turning from green to red when ripe"
     ],
     "growthHabit": [
-      "woody climbing vine"
+      "woody climbing vine",
+      "climbing vine",
+      "woody perennial climbing vine",
+      "tropical climbing spice creeper",
+      "trailing vine",
+      "twining climber"
     ],
     "medicinalUses": [
       "piperine",
@@ -2250,7 +3077,10 @@
       "catkins",
       "piperine",
       "climbing vine",
-      "pungent"
+      "pungent",
+      "spikes",
+      "adventitious roots",
+      "woody vine"
     ]
   },
   {
@@ -2263,22 +3093,37 @@
       "turmeric",
       "arishina",
       "haldi",
-      "golden spice"
+      "golden spice",
+      "curcuma longa"
     ],
     "leafTraits": [
-      "large broad oblong lanceolate leaves on long petioles"
+      "large broad oblong lanceolate leaves on long petioles",
+      "large broad oblong-lanceolate dark green leaves",
+      "conspicuous parallel lateral veins",
+      "long channeled leaf petioles"
     ],
     "stemTraits": [
-      "pseudostem from branched golden orange aromatic rhizomes"
+      "pseudostem from branched golden orange aromatic rhizomes",
+      "leafy pseudostem formed by overlapping leaf sheaths",
+      "thick branched subterranean knobby rhizome with bright deep yellow-orange flesh"
     ],
     "aromaTraits": [
-      "earthy warm pungent peppery woody scent"
+      "earthy warm pungent peppery woody scent",
+      "warm peppery earthy woody aroma",
+      "distinctive aromatic curcumin fragrance"
     ],
     "flowerFruitTraits": [
-      "dense flower spike with pink green bracts and yellow flowers"
+      "dense flower spike with pink green bracts and yellow flowers",
+      "dense central spike with green and pink showy sterile bracts",
+      "small pale yellow tubular flowers nestled in lower bract pockets"
     ],
     "growthHabit": [
-      "perennial rhizomatous herb"
+      "perennial rhizomatous herb",
+      "agricultural crop",
+      "cultivated plant",
+      "perennial monocot herb grown as annual",
+      "underground rhizomatous spice crop",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "curcumin",
@@ -2293,7 +3138,11 @@
       "rhizome",
       "curcumin",
       "yellow dye",
-      "antiseptic"
+      "antiseptic",
+      "yellow",
+      "orange rhizome",
+      "ayurvedic",
+      "pseudostem"
     ]
   },
   {
@@ -2306,22 +3155,38 @@
       "ginger",
       "shunti",
       "adrak",
-      "fresh ginger"
+      "fresh ginger",
+      "zingiber officinale",
+      "ginger root"
     ],
     "leafTraits": [
-      "narrow linear grass like lanceolate reed leaves"
+      "narrow linear grass like lanceolate reed leaves",
+      "narrow linear-lanceolate grass-like leaves",
+      "glossy dark green foliage with pointed tips",
+      "clasping leaf sheaths"
     ],
     "stemTraits": [
-      "annual reed stem from knobby thick fibrous palmate rhizomes"
+      "annual reed stem from knobby thick fibrous palmate rhizomes",
+      "annual erect leafy pseudostem",
+      "thick palmate knobby branched subterranean rhizome with pale yellow pungent flesh and tan skin"
     ],
     "aromaTraits": [
-      "sharp zesty pungent spicy citrusy aroma"
+      "sharp zesty pungent spicy citrusy aroma",
+      "spicy sharp warm pungent zesty aroma",
+      "distinctive gingerol volatile oil fragrance"
     ],
     "flowerFruitTraits": [
-      "conical spikes with pale yellow purple flowers"
+      "conical spikes with pale yellow purple flowers",
+      "dense cone-like club-shaped spikes on separate leafless scapes",
+      "yellowish green bracts with dark purple and cream spotted flowers"
     ],
     "growthHabit": [
-      "reed like perennial herb"
+      "reed like perennial herb",
+      "agricultural crop",
+      "cultivated plant",
+      "perennial reed-like monocot herb",
+      "underground rhizomatous culinary crop",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "gingerol",
@@ -2335,7 +3200,13 @@
       "shunti",
       "zesty",
       "spicy root",
-      "knobby"
+      "knobby",
+      "gingerol",
+      "pungent",
+      "knobby rhizome",
+      "digestive",
+      "spice",
+      "reed like"
     ]
   },
   {
@@ -2348,24 +3219,44 @@
       "papaya",
       "pappayi",
       "papita",
-      "parangi"
+      "parangi",
+      "carica papaya",
+      "pawpaw"
     ],
     "leafTraits": [
       "large deeply palmately 7 lobed incised leaves",
-      "long hollow petioles"
+      "long hollow petioles",
+      "massive palmately 7-9 lobed deeply incised leaves",
+      "prominent yellow veins",
+      "long hollow green cylindrical petioles radiating from stem apex"
     ],
     "stemTraits": [
-      "single hollow unbranched soft trunk with leaf scars"
+      "single hollow unbranched soft trunk with leaf scars",
+      "woody trunk",
+      "tree trunk",
+      "straight solitary unbranched hollow soft-wooded spongy trunk",
+      "prominent diamond shaped leaf scars",
+      "white milky latex sap",
+      "rough bark"
     ],
     "aromaTraits": [
-      "sweet musky tropical fruit scent"
+      "sweet musky tropical fruit scent",
+      "mild sweet fruity fragrance from blossoms and ripe fruit",
+      "pungent latex odor"
     ],
     "flowerFruitTraits": [
       "creamy flowers",
-      "large pendulous melon like fruits with black gelatinous seeds"
+      "large pendulous melon like fruits with black gelatinous seeds",
+      "male plants with hanging long panicles of trumpet flowers; female plants with large solitary waxy white-cream flowers in leaf axils",
+      "large oval to cylindrical melon-like berry with yellow-orange sweet flesh and center cavity packed with black seeds"
     ],
     "growthHabit": [
-      "fast growing herbaceous tree like plant"
+      "fast growing herbaceous tree like plant",
+      "woody tree",
+      "canopy tree",
+      "fast-growing giant herbaceous tree-like plant",
+      "soft-wooded tropical fruit tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "papain enzyme",
@@ -2377,7 +3268,10 @@
       "hollow trunk",
       "papain",
       "melon like",
-      "black seeds"
+      "black seeds",
+      "palmate leaves",
+      "orange flesh",
+      "latex"
     ]
   },
   {
@@ -2390,25 +3284,44 @@
       "guava",
       "seebe",
       "amrood",
-      "peru"
+      "peru",
+      "psidium guajava"
     ],
     "leafTraits": [
       "opposite oblong elliptic leaves",
       "prominent sunken parallel veins",
-      "rough feel"
+      "rough feel",
+      "opposite oblong-elliptic leathery leaves",
+      "conspicuous sunken parallel veins with raised ribs beneath",
+      "short hairy petioles",
+      "aromatic when crushed"
     ],
     "stemTraits": [
-      "smooth mottled coppery peeling bark"
+      "smooth mottled coppery peeling bark",
+      "woody trunk",
+      "tree trunk",
+      "smooth mottled copper-brown peeling bark",
+      "hard woody trunk with greenish underbark patches",
+      "rough bark"
     ],
     "aromaTraits": [
-      "distinctive sweet musky tropical fruit scent"
+      "distinctive sweet musky tropical fruit scent",
+      "intensely sweet musky tropical fruit aroma",
+      "fresh herbal leaf scent"
     ],
     "flowerFruitTraits": [
       "white fragrant flowers with tufted stamens",
-      "round green fruit with sweet pink white pulp"
+      "round green fruit with sweet pink white pulp",
+      "solitary or 2-3 clustered fragrant white flowers with 5 petals and a fluffy brush of prominent white stamens",
+      "globose to pyriform fruit with green to yellow skin and pink or white seed-filled sweet pulp"
     ],
     "growthHabit": [
-      "small evergreen tree"
+      "small evergreen tree",
+      "woody tree",
+      "canopy tree",
+      "small woody evergreen tree or large spreading shrub",
+      "hardwood fruit tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "vitamin c",
@@ -2419,7 +3332,13 @@
       "peeling bark",
       "sunken veins",
       "tufted stamens",
-      "amrood"
+      "amrood",
+      "vitamin c",
+      "prominent veins",
+      "white stamens",
+      "pink pulp",
+      "musky",
+      "tree"
     ]
   },
   {
@@ -2431,24 +3350,41 @@
     "synonyms": [
       "pomegranate",
       "dalimbe",
-      "anar"
+      "anar",
+      "punica granatum"
     ],
     "leafTraits": [
-      "opposite glossy narrow oblong lanceolate leaves"
+      "opposite glossy narrow oblong lanceolate leaves",
+      "opposite or whorled narrow oblong glossy leathery leaves",
+      "smooth margins with bright green shine",
+      "reddish young foliage"
     ],
     "stemTraits": [
       "thorny branching shrub",
-      "twisted trunk"
+      "twisted trunk",
+      "woody stem",
+      "branching woody stems",
+      "slender woody branching stems",
+      "spiny armed twigs and stiff sharp branch spines",
+      "fluted greyish trunk"
     ],
     "aromaTraits": [
-      "mild fruity floral"
+      "mild fruity floral",
+      "neutral to subtle fresh scent",
+      "faint sweet blossom odor"
     ],
     "flowerFruitTraits": [
       "brilliant scarlet orange crinkled flowers",
-      "crowned round leathery fruit packed with ruby juicy arils"
+      "crowned round leathery fruit packed with ruby juicy arils",
+      "showy trumpet-shaped flowers with brilliant scarlet red wrinkled crinkled petals and thick leathery red calyx",
+      "large round globose fruit with hard leathery ruby rind crowned by persistent calyx, filled with hundreds of juicy gem-like crimson arils"
     ],
     "growthHabit": [
-      "spiny deciduous shrub or tree"
+      "spiny deciduous shrub or tree",
+      "woody shrub",
+      "densely branched spiny deciduous shrub or small tree",
+      "branching shrub",
+      "perennial bush"
     ],
     "medicinalUses": [
       "antioxidant arils",
@@ -2461,7 +3397,14 @@
       "crowned fruit",
       "scarlet flower",
       "dalimbe",
-      "anar"
+      "anar",
+      "arils",
+      "ruby",
+      "leathery rind",
+      "scarlet petals",
+      "spines",
+      "spiny shrub",
+      "persistent calyx"
     ]
   },
   {
@@ -2474,26 +3417,45 @@
       "lemon",
       "nimbe",
       "nimbu",
-      "citrus"
+      "citrus",
+      "citrus limon",
+      "sour lemon"
     ],
     "leafTraits": [
       "elliptical dark green glossy leaves",
       "winged petioles",
-      "aromatic oil glands"
+      "aromatic oil glands",
+      "alternate ovate oblong leathery glossy green leaves",
+      "narrowly winged petioles",
+      "translucent aromatic citrus oil glands in leaf blade"
     ],
     "stemTraits": [
       "thorny green twigs",
-      "woody branches"
+      "woody branches",
+      "woody trunk",
+      "tree trunk",
+      "stout woody branches armed with sharp stiff axillary thorns",
+      "smooth greyish green bark",
+      "rough bark"
     ],
     "aromaTraits": [
-      "zesty fresh tangy citrus scent"
+      "zesty fresh tangy citrus scent",
+      "intense fresh citrusy zesty lemon aroma",
+      "sweet fragrant citrus blossoms"
     ],
     "flowerFruitTraits": [
       "fragrant white flowers with purplish blush",
-      "bright yellow oval fruit with sour acidic juice"
+      "bright yellow oval fruit with sour acidic juice",
+      "solitary or clustered fragrant white flowers with purple-tinted outer petals and numerous yellow stamens",
+      "ovoid yellow hesperidium fruit with terminal nipple, thick rind containing sour citric acid juice"
     ],
     "growthHabit": [
-      "small evergreen spiny tree"
+      "small evergreen spiny tree",
+      "woody tree",
+      "canopy tree",
+      "small evergreen thorny woody fruit tree",
+      "spiny citrus tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "vitamin c",
@@ -2507,7 +3469,12 @@
       "yellow",
       "thorns",
       "nimbe",
-      "tangy"
+      "tangy",
+      "yellow fruit",
+      "oil glands",
+      "vitamin c",
+      "nipple",
+      "woody tree"
     ]
   },
   {
@@ -2519,24 +3486,42 @@
     "synonyms": [
       "watermelon",
       "kallangadi",
-      "tarbooz"
+      "tarbooz",
+      "tarbuj",
+      "citrullus lanatus"
     ],
     "leafTraits": [
-      "deeply pinnatifid lobed rough hairy leaves"
+      "deeply pinnatifid lobed rough hairy leaves",
+      "large deeply pinnatifid 3-5 lobed leaves",
+      "rough sandpapery textured foliage with scabrous hairs",
+      "branched curling tendrils at nodes"
     ],
     "stemTraits": [
       "long trailing prostrate hairy vine",
-      "branching tendrils"
+      "branching tendrils",
+      "twining stem",
+      "climbing stem",
+      "slender vine",
+      "prostrate trailing sprawling angular herbaceous hairy vine stem",
+      "long ground runner stems"
     ],
     "aromaTraits": [
-      "sweet refreshing summer melon aroma"
+      "sweet refreshing summer melon aroma",
+      "fresh clean crisp watery cucumber-like scent"
     ],
     "flowerFruitTraits": [
       "yellow solitary flowers",
-      "massive round green striped gourd with red crisp flesh"
+      "massive round green striped gourd with red crisp flesh",
+      "solitary yellow 5-lobed flowers in leaf axils",
+      "massive round to oblong smooth green striped pepo gourd fruit with thick white rind and sweet juicy red flesh embedded with black seeds"
     ],
     "growthHabit": [
-      "prostrate annual trailing vine"
+      "prostrate annual trailing vine",
+      "climbing vine",
+      "prostrate trailing climbing annual vine",
+      "creeping agricultural gourd crop",
+      "trailing vine",
+      "twining climber"
     ],
     "medicinalUses": [
       "hydration",
@@ -2548,7 +3533,13 @@
       "tendrils",
       "trailing vine",
       "green striped",
-      "red flesh"
+      "red flesh",
+      "vine",
+      "trailing",
+      "watery",
+      "striped rind",
+      "pepo",
+      "summer fruit"
     ]
   },
   {
@@ -2562,23 +3553,38 @@
       "brinjal",
       "badanekayi",
       "baingan",
-      "aubergine"
+      "aubergine",
+      "badane",
+      "solanum melongena"
     ],
     "leafTraits": [
-      "large coarsely lobed fuzzy star haired leaves"
+      "large coarsely lobed fuzzy star haired leaves",
+      "broad ovate coarsely lobed woolly hairy leaves",
+      "star-shaped hairs with greyish green cast",
+      "veins occasionally armed with prickles"
     ],
     "stemTraits": [
-      "semi woody branching stem sometimes with prickles"
+      "semi woody branching stem sometimes with prickles",
+      "erect to bushy herbaceous to semi-woody branching stem",
+      "prickly stems and armed calyx lobes"
     ],
     "aromaTraits": [
-      "earthy nightshade"
+      "earthy nightshade",
+      "mild green solanaceous scent"
     ],
     "flowerFruitTraits": [
       "purple star flowers with yellow center cone",
-      "glossy deep purple or green bulbous fruit"
+      "glossy deep purple or green bulbous fruit",
+      "star-shaped violet-purple flowers with 5 corolla lobes and a prominent bright yellow cone of anthers",
+      "large fleshy glossy dark purple oval oblong or round berry fruit with green spiny calyx"
     ],
     "growthHabit": [
-      "bushy annual vegetable subshrub"
+      "bushy annual vegetable subshrub",
+      "agricultural crop",
+      "cultivated plant",
+      "bushy perennial subshrub grown as annual crop",
+      "erect taprooted vegetable plant",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "ennegayi curry",
@@ -2590,7 +3596,11 @@
       "brinjal",
       "star flower",
       "baingan",
-      "fuzzy leaves"
+      "fuzzy leaves",
+      "yellow anthers",
+      "spiny calyx",
+      "prickly stem",
+      "vegetable"
     ]
   },
   {
@@ -2604,23 +3614,38 @@
       "bhendi",
       "bendekayi",
       "ladys finger",
-      "gumbo"
+      "gumbo",
+      "bhende",
+      "bhindi",
+      "lady s finger",
+      "abelmoschus esculentus"
     ],
     "leafTraits": [
-      "palmately 5 to 7 lobed rough hairy leaves"
+      "palmately 5 to 7 lobed rough hairy leaves",
+      "large cordate palmately 5-7 lobed rough coarse leaves",
+      "toothed margins and hispid bristly hairs"
     ],
     "stemTraits": [
-      "stout erect fibrous bristly stem"
+      "stout erect fibrous bristly stem",
+      "stout erect fibrous green to reddish hairy unbranched or minimally branched stalk"
     ],
     "aromaTraits": [
-      "mild mucilaginous"
+      "mild mucilaginous",
+      "mild vegetal green scent"
     ],
     "flowerFruitTraits": [
       "pale yellow hibiscus like flowers with dark maroon center",
-      "elongated ribbed green fuzzy seed pods"
+      "elongated ribbed green fuzzy seed pods",
+      "large showy hibiscus-like pale yellow flowers with a deep dark purple-red central throat spot",
+      "elongated 5-8 angled beaked green seed pod filled with white round seeds and mucilage"
     ],
     "growthHabit": [
-      "erect annual vegetable crop"
+      "erect annual vegetable crop",
+      "agricultural crop",
+      "cultivated plant",
+      "tall erect annual fibrous herb crop",
+      "robust taprooted vegetable plant",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "mucilage",
@@ -2632,7 +3657,11 @@
       "bhendi",
       "ribbed pods",
       "mucilage",
-      "yellow flower"
+      "yellow flower",
+      "yellow flower with purple center",
+      "angled pod",
+      "fibrous stem",
+      "lady finger"
     ]
   },
   {
@@ -2648,7 +3677,9 @@
       "sahjan",
       "miracle tree",
       "drumstick",
-      "drumsticks"
+      "drumsticks",
+      "moringa oleifera",
+      "horseradish tree"
     ],
     "leafTraits": [
       "tripinnate compound feathery leaves",
@@ -2656,14 +3687,24 @@
       "tripinnate",
       "feathery leaves",
       "tiny oval leaflets",
-      "nutrient dense leaves"
+      "nutrient dense leaves",
+      "feathery tripinnate compound leaves",
+      "tiny round to obovate delicate leaflets",
+      "pale green foliage arranged in frond-like sprays"
     ],
     "stemTraits": [
       "soft corky whitish bark",
-      "brittle branches"
+      "brittle branches",
+      "woody trunk",
+      "tree trunk",
+      "soft corky fissured whitish grey bark",
+      "slender brittle drooping woody branches",
+      "rough bark"
     ],
     "aromaTraits": [
-      "peppery horseradish aroma"
+      "peppery horseradish aroma",
+      "fresh horseradish pungent radish scent from roots and bark",
+      "mild honey scent from blossoms"
     ],
     "flowerFruitTraits": [
       "drumstick pods",
@@ -2672,10 +3713,17 @@
       "triangular pods",
       "slender pods",
       "pendulous pods",
-      "yellowish white fragrant flowers"
+      "yellowish white fragrant flowers",
+      "loose drooping panicles of fragrant yellowish white 5-petaled flowers with yellow stamens",
+      "long slender triangular ribbed pendulous green drumstick capsules containing winged seeds"
     ],
     "growthHabit": [
-      "fast growing deciduous tree"
+      "fast growing deciduous tree",
+      "woody tree",
+      "canopy tree",
+      "fast-growing small to medium deciduous woody tree",
+      "slender umbrella-crowned multi-purpose tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "superfood",
@@ -2689,7 +3737,12 @@
       "nugge",
       "tripinnate",
       "tiny leaflets",
-      "superfood"
+      "superfood",
+      "drumstick pods",
+      "feather leaves",
+      "corky bark",
+      "winged seeds",
+      "tree"
     ]
   },
   {
@@ -2702,25 +3755,47 @@
       "banyan",
       "alada mara",
       "bargad",
-      "vat vriksha"
+      "vat vriksha",
+      "aala",
+      "vatavriksha",
+      "ficus benghalensis",
+      "sacred banyan"
     ],
     "leafTraits": [
       "large thick leathery elliptic leaves",
       "prominent pale veins",
-      "glossy dark green"
+      "glossy dark green",
+      "broadly ovate to elliptic glossy dark green leathery leaves",
+      "prominent pale ivory veins",
+      "blunt rounded apex",
+      "milky white latex in broken leaves"
     ],
     "stemTraits": [
-      "massive trunk sending down woody prop aerial roots forming secondary trunks"
+      "massive trunk sending down woody prop aerial roots forming secondary trunks",
+      "woody trunk",
+      "tree trunk",
+      "massive colossal fluted grey woody trunk",
+      "extensive aerial prop roots dropping from horizontal limbs and rooting to form secondary supportive trunks",
+      "rough bark"
     ],
     "aromaTraits": [
-      "earthy milky fig latex"
+      "earthy milky fig latex",
+      "mild fig-like earthy latex scent",
+      "woodland humus smell"
     ],
     "flowerFruitTraits": [
-      "paired scarlet red round velvety figs syconium"
+      "paired scarlet red round velvety figs syconium",
+      "minute flowers hidden inside hollow syconium receptacle",
+      "paired sessile round scarlet-red fig fruits crowded in leaf axils"
     ],
     "growthHabit": [
       "gigantic canopy tree",
-      "national tree of india"
+      "national tree of india",
+      "woody tree",
+      "canopy tree",
+      "colossal massive evergreen strangler fig tree",
+      "vast spreading canopy shade tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "sacred village tree",
@@ -2732,7 +3807,13 @@
       "aerial roots",
       "massive canopy",
       "national tree",
-      "bargad"
+      "bargad",
+      "massive trunk",
+      "canopy",
+      "figs",
+      "sacred tree",
+      "latex",
+      "hardwood"
     ]
   },
   {
@@ -2745,26 +3826,49 @@
       "teak",
       "thega",
       "sagwan",
-      "grand teak"
+      "grand teak",
+      "sagwani",
+      "saagwan",
+      "tectona grandis",
+      "burma teak"
     ],
     "leafTraits": [
       "massive papery ovate opposite leaves",
       "rough sandpaper upper",
-      "red sap when crushed"
+      "red sap when crushed",
+      "enormous broad ovate to elliptic rough papery leaves",
+      "covered in dense felted hairs beneath",
+      "rubbed leaves produce red dye",
+      "large deciduous foliage"
     ],
     "stemTraits": [
       "tall straight bole",
-      "fibrous grooved grey brown bark"
+      "fibrous grooved grey brown bark",
+      "woody trunk",
+      "tree trunk",
+      "tall straight solitary buttressed timber trunk",
+      "grey to light brown fibrous longitudinally fissured bark",
+      "valuable golden brown hardwood",
+      "rough bark"
     ],
     "aromaTraits": [
-      "leather like scent in cured timber"
+      "leather like scent in cured timber",
+      "distinctive leather-like woody aroma from timber",
+      "fresh green scent from foliage"
     ],
     "flowerFruitTraits": [
       "huge airy panicles of tiny white flowers",
-      "inflated bladder calyx enclosing nut"
+      "inflated bladder calyx enclosing nut",
+      "large erect branched terminal panicles of numerous tiny white flowers",
+      "globose hard nutlet fruit enclosed in inflated papery bladder-like calyx"
     ],
     "growthHabit": [
-      "deciduous large timber tree"
+      "deciduous large timber tree",
+      "woody tree",
+      "canopy tree",
+      "tall deciduous hardwood timber tree",
+      "erect forest canopy tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "valuable timber",
@@ -2777,7 +3881,12 @@
       "red sap",
       "timber",
       "sagwan",
-      "furniture"
+      "furniture",
+      "large rough leaves",
+      "hardwood",
+      "papery calyx",
+      "valuable wood",
+      "forest tree"
     ]
   },
   {
@@ -2792,22 +3901,33 @@
       "goa bean",
       "four angled bean",
       "four-angled bean",
-      "asparagus pea"
+      "asparagus pea",
+      "psophocarpus"
     ],
     "leafTraits": [
       "trifoliate compound leaves",
       "trifoliate",
-      "broad ovate leaflets"
+      "broad ovate leaflets",
+      "trifoliolate compound leaves with broad ovate green leaflets",
+      "smooth pointed leaflet blades",
+      "prominent veins"
     ],
     "stemTraits": [
       "four angled",
       "four-angled",
       "twining vigorous herbaceous climber",
       "climbing legume",
-      "climbing vine"
+      "climbing vine",
+      "twining stem",
+      "climbing stem",
+      "slender vine",
+      "slender vigorous twining herbaceous climbing vine stem",
+      "tuberous fleshy root system"
     ],
     "aromaTraits": [
-      "fresh green pea scent"
+      "fresh green pea scent",
+      "fresh green legume scent",
+      "faint pea-like aroma"
     ],
     "flowerFruitTraits": [
       "four angled pods",
@@ -2821,12 +3941,18 @@
       "wavy wings",
       "four cornered pods",
       "green pods",
-      "pale blue flowers"
+      "pale blue flowers",
+      "clusters of pale blue lavender or creamy pea-like papilionaceous flowers",
+      "four-angled elongated green pods with wavy frilly leafy longitudinal wings along each edge"
     ],
     "growthHabit": [
       "perennial climbing legume vine",
       "climbing vine",
-      "climbing legume"
+      "climbing legume",
+      "perennial twining climbing legume vine",
+      "nitrogen fixing pole climber",
+      "trailing vine",
+      "twining climber"
     ],
     "medicinalUses": [
       "all parts edible",
@@ -2840,7 +3966,11 @@
       "frilly wings",
       "blue flower",
       "rekke huruli",
-      "pods"
+      "pods",
+      "winged pods",
+      "blue flowers",
+      "climbing vine",
+      "tendril climber"
     ]
   },
   {
@@ -2854,27 +3984,45 @@
       "hadjod",
       "mangaravalli",
       "bone setter",
-      "veldt grape"
+      "veldt grape",
+      "cissus quadrangularis"
     ],
     "leafTraits": [
-      "small trilobed toothed leaves at nodes with tendrils"
+      "small trilobed toothed leaves at nodes with tendrils",
+      "simple ovate to 3-lobed thick fleshy leaves at stem nodes",
+      "frequently reduced or deciduous during dry season",
+      "simple unbranched tendrils opposite leaves"
     ],
     "stemTraits": [
       "fleshy succulent quadrangular four winged green stem",
       "constricted nodes",
       "square stem",
       "four winged stem",
-      "succulent stem"
+      "succulent stem",
+      "twining stem",
+      "climbing stem",
+      "slender vine",
+      "thick fleshy green quadrangular 4-angled winged jointed stems",
+      "constricted at nodes like bones",
+      "succulent climbing vine stem with fibrous corners"
     ],
     "aromaTraits": [
-      "tangy sour mucilaginous"
+      "tangy sour mucilaginous",
+      "neutral to acrid herbal scent"
     ],
     "flowerFruitTraits": [
       "greenish white small flowers",
-      "red globular berries"
+      "red globular berries",
+      "small greenish-yellow 4-petaled flowers in compact umbelliform cymes",
+      "small round globose red berries"
     ],
     "growthHabit": [
-      "succulent scrambling climbing vine"
+      "succulent scrambling climbing vine",
+      "climbing vine",
+      "succulent climbing vine",
+      "xerophytic tendril climber",
+      "trailing vine",
+      "twining climber"
     ],
     "medicinalUses": [
       "bone fracture healing",
@@ -2887,7 +4035,12 @@
       "four winged stem",
       "hadjod",
       "jointed",
-      "fracture"
+      "fracture",
+      "quadrangular",
+      "four angled",
+      "bonesetter",
+      "succulent vine",
+      "winged stem"
     ]
   },
   {
@@ -2901,26 +4054,49 @@
       "sacred fig",
       "arali mara",
       "ashvattha",
-      "bodhi tree"
+      "bodhi tree",
+      "arali",
+      "pipal",
+      "ashwattha",
+      "ficus religiosa"
     ],
     "leafTraits": [
       "broad cordate leaf with long tail drip tip",
       "slender tail",
       "dancing trembling leaves",
-      "drip tip"
+      "drip tip",
+      "broadly ovate cordate glossy leaves",
+      "distinctive long slender tail-like drip tip apex",
+      "pale ivory network of veins",
+      "quivering trembling foliage in slight breeze"
     ],
     "stemTraits": [
       "smooth grey trunk",
-      "fluted base"
+      "fluted base",
+      "woody trunk",
+      "tree trunk",
+      "large smooth grey-brown woody trunk with fluted buttresses",
+      "wide spreading canopy limbs without aerial prop roots",
+      "milky white latex",
+      "rough bark"
     ],
     "aromaTraits": [
-      "clean earthy"
+      "clean earthy",
+      "faint earthy latex scent",
+      "fresh forest foliage aroma"
     ],
     "flowerFruitTraits": [
-      "small paired sessile purple figs"
+      "small paired sessile purple figs",
+      "hidden internal flowers within syconium",
+      "paired small round sessile axillary figs turning deep purple-black when ripe"
     ],
     "growthHabit": [
-      "massive sacred deciduous tree"
+      "massive sacred deciduous tree",
+      "woody tree",
+      "canopy tree",
+      "massive deciduous to semi-evergreen sacred tree",
+      "spreading canopy epiphyte strangler",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "bodhi tree enlightenment",
@@ -2934,7 +4110,12 @@
       "bodhi",
       "ashvattha",
       "sacred fig",
-      "arali"
+      "arali",
+      "fluttering",
+      "sacred",
+      "purple figs",
+      "smooth bark",
+      "tree"
     ]
   },
   {
@@ -2948,24 +4129,45 @@
       "indian gooseberry",
       "nellikayi",
       "amalaki",
-      "dhatri"
+      "dhatri",
+      "nellikai",
+      "aonla",
+      "phyllanthus emblica",
+      "embolic myrobalan"
     ],
     "leafTraits": [
-      "feathery light green branchlets with tiny closely set linear leaves"
+      "feathery light green branchlets with tiny closely set linear leaves",
+      "feathery branchlets closely set with numerous tiny distichous linear-oblong leaflets",
+      "resembling fine pinnate leaves",
+      "light green miniature foliage"
     ],
     "stemTraits": [
       "crooked trunk",
-      "light grey peeling bark"
+      "light grey peeling bark",
+      "woody trunk",
+      "tree trunk",
+      "crooked woody trunk with smooth mottled pale grey bark peeling in irregular flakes",
+      "delicate spreading branchlets",
+      "rough bark"
     ],
     "aromaTraits": [
-      "sour astringent aroma"
+      "sour astringent aroma",
+      "crisp sour astringent aroma from crushed fruit",
+      "subtle fresh herbal foliage scent"
     ],
     "flowerFruitTraits": [
       "greenish yellow flowers",
-      "round hard translucent pale green ribbed berries with sour astringent taste"
+      "round hard translucent pale green ribbed berries with sour astringent taste",
+      "small greenish-yellow flowers clustered densely under branchlets",
+      "smooth hard globose translucent yellowish-green 6-striped sour acidic astringent fruit"
     ],
     "growthHabit": [
-      "small to medium deciduous tree"
+      "small to medium deciduous tree",
+      "woody tree",
+      "canopy tree",
+      "small to medium deciduous fruit tree",
+      "hardy medicinal orchard tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "vitamin c powerhouse",
@@ -2980,7 +4182,11 @@
       "astringent",
       "vitamin c",
       "nellikayi",
-      "triphala"
+      "triphala",
+      "ribbed fruit",
+      "feathery leaves",
+      "peeling bark",
+      "tree"
     ]
   },
   {
@@ -2993,25 +4199,44 @@
       "ashwagandha",
       "indian ginseng",
       "winter cherry",
-      "asgandh"
+      "asgandh",
+      "withania somnifera"
     ],
     "leafTraits": [
       "dull green elliptic ovate leaves",
-      "fine velvety hairs"
+      "fine velvety hairs",
+      "ovate dull green leaves",
+      "covered with fine stellate tomentose hairs",
+      "alternate or opposite on flowering branches"
     ],
     "stemTraits": [
-      "small branched woody subshrub"
+      "small branched woody subshrub",
+      "herbaceous stem",
+      "soft stem",
+      "erect branching woody-based shrubby stem",
+      "covered with whitish star-shaped hairs",
+      "stout fleshy tuberous roots with strong horse-like odor",
+      "soft green stem"
     ],
     "aromaTraits": [
       "earthy horse like root scent",
-      "ashwa smell"
+      "ashwa smell",
+      "strong distinctive horse-like pungent earthy odor from roots",
+      "mild herbal foliage smell"
     ],
     "flowerFruitTraits": [
       "bell shaped greenish yellow flowers",
-      "papery lantern calyx enclosing bright orange red berry"
+      "papery lantern calyx enclosing bright orange red berry",
+      "small inconspicuous bell-shaped greenish-yellow flowers in axillary clusters",
+      "round bright red-orange smooth berry loosely enclosed inside papery inflated calyx"
     ],
     "growthHabit": [
-      "perennial erect subshrub"
+      "perennial erect subshrub",
+      "herbaceous",
+      "short stout perennial subshrub herb",
+      "tomentose dryland medicinal plant",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "premier adaptogen",
@@ -3027,7 +4252,12 @@
       "horse scent",
       "stress",
       "ginseng",
-      "roots"
+      "roots",
+      "horse smell",
+      "red berry",
+      "inflated calyx",
+      "ayurvedic",
+      "herb"
     ]
   },
   {
@@ -3041,24 +4271,43 @@
       "water hyssop",
       "jalnaveri",
       "herb of grace",
-      "bacopa"
+      "bacopa",
+      "bacopa monnieri"
     ],
     "leafTraits": [
       "small succulent obovate thick fleshy leaves",
       "opposite",
-      "notch at apex"
+      "notch at apex",
+      "small fleshy succulent oblong oblanceolate leaves",
+      "spatulate opposite leaves with blunt rounded apex",
+      "translucent punctate glandular dots"
     ],
     "stemTraits": [
-      "creeping trailing succulent rooting stems"
+      "creeping trailing succulent rooting stems",
+      "herbaceous stem",
+      "soft stem",
+      "prostrate creeping trailing succulent herbaceous stems",
+      "rooting readily at nodes in moist soil",
+      "soft green stem"
     ],
     "aromaTraits": [
-      "mild bitter aquatic scent"
+      "mild bitter aquatic scent",
+      "clean fresh grassy aquatic smell",
+      "bitter herbal taste"
     ],
     "flowerFruitTraits": [
-      "small delicate five petaled light blue white flowers"
+      "small delicate five petaled light blue white flowers",
+      "small solitary axillary flowers on slender stalks",
+      "pale blue white or light violet 5-lobed campanulate corolla",
+      "two-valved ovoid capsule fruit"
     ],
     "growthHabit": [
-      "creeping marsh succulent herb"
+      "creeping marsh succulent herb",
+      "herbaceous",
+      "creeping prostrate succulent marsh herb",
+      "amphibious wetland groundcover",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "memory booster",
@@ -3072,7 +4321,13 @@
       "brain",
       "succulent creeping",
       "water hyssop",
-      "bacopa"
+      "bacopa",
+      "brain tonic",
+      "creeping",
+      "fleshy",
+      "wetland",
+      "prostrate",
+      "white flower"
     ]
   },
   {
@@ -3087,26 +4342,45 @@
       "muttidare muni",
       "lajwanti",
       "shameplant",
-      "mimosa"
+      "mimosa",
+      "chhui mui",
+      "mimosa pudica"
     ],
     "leafTraits": [
       "bipinnate compound leaves",
       "sensitive leaflets folding inwards upon touch",
       "drooping leaves",
-      "folding leaves"
+      "folding leaves",
+      "sensitive bipinnate compound leaves",
+      "linear oblong leaflets that rapidly fold inward and droop when touched",
+      "thigmonastic seismonastic folding foliage"
     ],
     "stemTraits": [
-      "reddish prickly slender branched stem"
+      "reddish prickly slender branched stem",
+      "herbaceous stem",
+      "soft stem",
+      "slender wiry branched reddish stem",
+      "armed with sharp scattered curved prickles and bristly hairs",
+      "soft green stem"
     ],
     "aromaTraits": [
-      "earthy faint"
+      "earthy faint",
+      "faint earthy legume scent"
     ],
     "flowerFruitTraits": [
       "fluffy pink purple pom pom flower heads",
-      "bristly seed pods"
+      "bristly seed pods",
+      "globose pink to purple fluffy powderpuff flower heads on slender peduncles",
+      "numerous delicate stamens",
+      "small bristly segmented pods"
     ],
     "growthHabit": [
-      "low sprawling creeping subshrub"
+      "low sprawling creeping subshrub",
+      "herbaceous",
+      "prostrate to scrambling thorny creeping herb",
+      "sensitive subshrub weed",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "thigmonasty sensitive movement",
@@ -3118,7 +4392,13 @@
       "folding leaves",
       "pink pom pom",
       "prickly",
-      "lajwanti"
+      "lajwanti",
+      "folding",
+      "prickles",
+      "thorns",
+      "powderpuff",
+      "pink flower",
+      "thigmonasty"
     ]
   },
   {
@@ -3132,26 +4412,46 @@
       "goranti",
       "mehendi",
       "myna",
-      "lawsonia"
+      "lawsonia",
+      "mehndi",
+      "lawsonia inermis",
+      "mignonette tree"
     ],
     "leafTraits": [
       "small opposite lanceolate elliptic leaves",
-      "lawsone dye leaves"
+      "lawsone dye leaves",
+      "small opposite narrow lanceolate elliptic leaves",
+      "smooth dark green foliage containing lawsone dye pigment",
+      "short petioles and acute tips"
     ],
     "stemTraits": [
       "multi branched spiny shrub",
-      "greyish bark"
+      "greyish bark",
+      "woody stem",
+      "branching woody stems",
+      "multi-branched woody shrub",
+      "stiff spiny branch tips on older wood",
+      "whitish-grey bark"
     ],
     "aromaTraits": [
       "sweet fragrant blossoms",
-      "earthy herbal crushed leaf scent"
+      "earthy herbal crushed leaf scent",
+      "intensely sweet fragrant blossoms",
+      "earthy tea-like herbal aroma from dried leaf powder"
     ],
     "flowerFruitTraits": [
       "dense panicles of fragrant creamy white blossoms",
-      "small round capsules"
+      "small round capsules",
+      "dense fragrant panicles of creamy white to pale pink 4-petaled blossoms with numerous stamens",
+      "small round globose brown capsule fruit with four valves"
     ],
     "growthHabit": [
-      "branching deciduous shrub"
+      "branching deciduous shrub",
+      "woody shrub",
+      "glabrous multi-branched deciduous woody shrub or small tree",
+      "thorny hedge shrub",
+      "branching shrub",
+      "perennial bush"
     ],
     "medicinalUses": [
       "mehendi body art",
@@ -3164,7 +4464,12 @@
       "dye",
       "red stain",
       "fragrant blossoms",
-      "goranti"
+      "goranti",
+      "lawsone",
+      "spines",
+      "woody shrub",
+      "creamy white flowers",
+      "tattoo"
     ]
   },
   {
@@ -3178,28 +4483,48 @@
       "vilyadele",
       "paan",
       "tambula",
-      "nagavalli"
+      "nagavalli",
+      "veleya",
+      "piper betle",
+      "betel vine"
     ],
     "leafTraits": [
       "glossy heart shaped cordate leaves",
       "heart shaped leaves",
       "heart-shaped leaves",
       "leathery deep green",
-      "five to seven prominent veins"
+      "five to seven prominent veins",
+      "glossy deep green heart-shaped cordate leathery leaves",
+      "5-7 prominent palmate veins radiating from cordate base",
+      "pungent peppery taste"
     ],
     "stemTraits": [
       "perennial climbing vine",
       "climbing vine",
-      "clinging aerial roots"
+      "clinging aerial roots",
+      "twining stem",
+      "climbing stem",
+      "slender vine",
+      "perennial semi-woody climbing vine stem",
+      "swollen nodes with clinging adventitious nodal roots"
     ],
     "aromaTraits": [
-      "pungent aromatic peppery warm scent"
+      "pungent aromatic peppery warm scent",
+      "strongly aromatic spicy clove-like scent when crushed",
+      "fresh peppery paan aroma"
     ],
     "flowerFruitTraits": [
-      "cylindrical catkins"
+      "cylindrical catkins",
+      "dioecious pendulous catkins in leaf axils",
+      "rarely flowering in commercial cultivation"
     ],
     "growthHabit": [
-      "evergreen climbing vine"
+      "evergreen climbing vine",
+      "climbing vine",
+      "shade-loving perennial climbing evergreen vine",
+      "trained climbing vine on support poles",
+      "trailing vine",
+      "twining climber"
     ],
     "medicinalUses": [
       "paan chewing",
@@ -3214,7 +4539,11 @@
       "peppery",
       "vilyadele",
       "puja",
-      "tambula"
+      "tambula",
+      "clove aroma",
+      "climbing vine",
+      "adventitious roots",
+      "spice leaf"
     ]
   },
   {
@@ -3228,24 +4557,44 @@
       "tejpatta",
       "masala ele",
       "tamala",
-      "bay leaf"
+      "bay leaf",
+      "dalchini yele",
+      "cinnamomum tamala",
+      "malabar leaf"
     ],
     "leafTraits": [
       "large lanceolate elliptic leaves",
-      "three prominent longitudinal veins from base to tip"
+      "three prominent longitudinal veins from base to tip",
+      "opposite oblong-lanceolate leathery aromatic leaves",
+      "three conspicuous parallel longitudinal veins running entire length from base to tip",
+      "smooth glossy dark green blade"
     ],
     "stemTraits": [
-      "aromatic brownish grey bark"
+      "aromatic brownish grey bark",
+      "woody trunk",
+      "tree trunk",
+      "slender woody tree trunk with rough greyish-brown bark",
+      "aromatic cinnamon-scented bark",
+      "rough bark"
     ],
     "aromaTraits": [
-      "warm sweet cinnamon clove fragrance when crushed"
+      "warm sweet cinnamon clove fragrance when crushed",
+      "intensely aromatic spicy cinnamon and clove fragrance",
+      "warm savory culinary aroma"
     ],
     "flowerFruitTraits": [
       "tiny whitish flowers",
-      "small dark berries"
+      "small dark berries",
+      "terminal panicles of small yellowish-white flowers",
+      "small dark purple ovoid drupe berries"
     ],
     "growthHabit": [
-      "medium evergreen aromatic tree"
+      "medium evergreen aromatic tree",
+      "woody tree",
+      "canopy tree",
+      "medium evergreen woody forest tree",
+      "aromatic spice tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "biryani spice",
@@ -3258,7 +4607,10 @@
       "three veins",
       "cinnamon aroma",
       "biryani",
-      "masala"
+      "masala",
+      "spice",
+      "leathery leaves",
+      "tree"
     ]
   },
   {
@@ -3271,26 +4623,44 @@
       "tamarind",
       "hunase",
       "imli",
-      "indian date"
+      "indian date",
+      "tamarindus indica"
     ],
     "leafTraits": [
       "pinnate compound leaves",
       "many pairs of small oblong leaflets",
-      "closing at night"
+      "closing at night",
+      "even-pinnate compound leaves",
+      "10-20 pairs of small oblong blunt leaflets",
+      "folding together closely at night"
     ],
     "stemTraits": [
       "massive stout trunk",
-      "rugged dark fissured bark"
+      "rugged dark fissured bark",
+      "woody trunk",
+      "tree trunk",
+      "massive rough dark grey fissured woody trunk",
+      "dense spreading crown with strong hardwood limbs",
+      "rough bark"
     ],
     "aromaTraits": [
-      "sour tangy fruit aroma"
+      "sour tangy fruit aroma",
+      "sour tart fruity foliage scent",
+      "tangy acidic pod pulp aroma"
     ],
     "flowerFruitTraits": [
       "yellow flowers with red veins",
-      "brittle brown curved pods with sour sticky tangy pulp"
+      "brittle brown curved pods with sour sticky tangy pulp",
+      "small racemes of yellow flowers with red or orange veins and wavy petals",
+      "thick brown curved indehiscent pods containing fibrous acidic sweet-sour sticky pulp and shiny hard brown seeds"
     ],
     "growthHabit": [
-      "massive long lived canopy tree"
+      "massive long lived canopy tree",
+      "woody tree",
+      "canopy tree",
+      "large long-lived spreading hardwood canopy tree",
+      "tropical evergreen shade tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "sambar rasam souring",
@@ -3304,7 +4674,13 @@
       "brown pods",
       "pinnate",
       "hunase",
-      "tangy"
+      "tangy",
+      "sour pulp",
+      "curved pods",
+      "hardwood",
+      "tart",
+      "massive trunk",
+      "tree"
     ]
   },
   {
@@ -3317,25 +4693,44 @@
       "jackfruit",
       "halasu",
       "kathal",
-      "phanas"
+      "phanas",
+      "artocarpus heterophyllus",
+      "jack tree"
     ],
     "leafTraits": [
       "large thick leathery glossy dark green obovate leaves",
-      "entire margin"
+      "entire margin",
+      "large dark green glossy obovate to elliptic leathery leaves",
+      "prominent pale midrib and veins",
+      "entire margins in mature leaves, 3-lobed in saplings"
     ],
     "stemTraits": [
-      "sturdy straight trunk with white milky sticky latex"
+      "sturdy straight trunk with white milky sticky latex",
+      "woody trunk",
+      "tree trunk",
+      "massive straight woody trunk with reddish-brown rough bark",
+      "copious sticky milky white latex in all parts",
+      "rough bark"
     ],
     "aromaTraits": [
-      "intensely sweet fruity banana pineapple aroma when ripe"
+      "intensely sweet fruity banana pineapple aroma when ripe",
+      "intensely sweet overpowering tropical banana-pineapple aroma from ripe fruit",
+      "musky earthy foliage scent"
     ],
     "flowerFruitTraits": [
       "cauliflorous on trunk",
       "world s largest tree fruit",
-      "spiky rind golden sweet bulbs"
+      "spiky rind golden sweet bulbs",
+      "cauliflorous flowering directly on trunk and older limbs",
+      "massive giant oblong tuberculate spiky green syncarp fruit filled with golden yellow sweet bulbous arils and edible seeds"
     ],
     "growthHabit": [
-      "massive evergreen rainforest tree"
+      "massive evergreen rainforest tree",
+      "woody tree",
+      "canopy tree",
+      "large evergreen canopy fruit tree",
+      "tropical cauliflorous hardwood tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "raw jackfruit mock meat",
@@ -3347,7 +4742,11 @@
       "cauliflorous",
       "sweet bulbs",
       "largest fruit",
-      "halasu"
+      "halasu",
+      "giant",
+      "latex",
+      "woody trunk",
+      "tree"
     ]
   },
   {
@@ -3360,24 +4759,41 @@
       "bitter gourd",
       "hagalakayi",
       "karela",
-      "bitter melon"
+      "bitter melon",
+      "momordica charantia"
     ],
     "leafTraits": [
       "deeply 5 to 7 palmately lobed leaves",
-      "pungent odor"
+      "pungent odor",
+      "deeply palmately 5-9 lobed cordate leaves",
+      "rough hairy texture with wavy toothed lobes",
+      "slender unbranched tendrils opposite leaves"
     ],
     "stemTraits": [
-      "slender climbing vine with tendrils"
+      "slender climbing vine with tendrils",
+      "twining stem",
+      "climbing stem",
+      "slender vine",
+      "slender angled grooved hairy herbaceous climbing vine stem",
+      "vigorous annual climber"
     ],
     "aromaTraits": [
-      "sharp bitter green scent"
+      "sharp bitter green scent",
+      "distinctive bitter pungent green aroma when broken"
     ],
     "flowerFruitTraits": [
       "yellow solitary flowers",
-      "bumpy warty ridged green oblong fruit turning orange"
+      "bumpy warty ridged green oblong fruit turning orange",
+      "solitary bright yellow 5-petaled flowers with bell-shaped calyx",
+      "elongated oblong warty tuberculate ribbed green fruit with pointed tips, turning orange and splitting to reveal red seed arils"
     ],
     "growthHabit": [
-      "annual climbing vine"
+      "annual climbing vine",
+      "climbing vine",
+      "annual herbaceous climbing tendril vine",
+      "bitter vegetable crop",
+      "trailing vine",
+      "twining climber"
     ],
     "medicinalUses": [
       "diabetes management",
@@ -3391,7 +4807,12 @@
       "warty",
       "bumpy",
       "diabetes",
-      "tendril"
+      "tendril",
+      "tuberculate",
+      "yellow flower",
+      "tendrils",
+      "climbing vine",
+      "lobed"
     ]
   },
   {
@@ -3405,24 +4826,42 @@
       "sorekayi",
       "lauki",
       "doodhi",
-      "calabash"
+      "calabash",
+      "lagenaria siceraria"
     ],
     "leafTraits": [
       "large rounded heart shaped velvety fuzzy leaves",
-      "two glands at petiole"
+      "two glands at petiole",
+      "large broad rounded cordate to reniform velvety leaves",
+      "soft pubescent hairs with shallow lobes",
+      "two glands at petiole apex"
     ],
     "stemTraits": [
-      "vigorous climbing vine with branched tendrils"
+      "vigorous climbing vine with branched tendrils",
+      "twining stem",
+      "climbing stem",
+      "slender vine",
+      "thick angular furrowed hollow climbing vine stems",
+      "branched tendrils at leaf nodes"
     ],
     "aromaTraits": [
-      "fresh mild vegetable"
+      "fresh mild vegetable",
+      "mild sweet vegetal scent",
+      "fresh squash aroma"
     ],
     "flowerFruitTraits": [
       "white solitary evening flowers",
-      "bottle shaped smooth light green gourd"
+      "bottle shaped smooth light green gourd",
+      "solitary showy nocturnal white 5-petaled flowers with delicate crinkled petals",
+      "smooth pale green elongated bottle-shaped or cylindrical gourd fruit with spongy white edible pulp"
     ],
     "growthHabit": [
-      "fast climbing annual vine"
+      "fast climbing annual vine",
+      "climbing vine",
+      "vigorous annual climbing tendril vine",
+      "fast growing vegetable crop",
+      "trailing vine",
+      "twining climber"
     ],
     "medicinalUses": [
       "cooling vegetable",
@@ -3435,7 +4874,12 @@
       "bottle shaped",
       "white flower",
       "smooth gourd",
-      "sorekayi"
+      "sorekayi",
+      "bottle shape",
+      "velvety leaves",
+      "smooth green",
+      "tendrils",
+      "vine"
     ]
   },
   {
@@ -3448,23 +4892,41 @@
       "ridge gourd",
       "hirekayi",
       "turai",
-      "angled luffa"
+      "angled luffa",
+      "luffa acutangula",
+      "loofah"
     ],
     "leafTraits": [
-      "rounded palmately angled shallowly lobed leaves"
+      "rounded palmately angled shallowly lobed leaves",
+      "palmately 5-7 angled or lobed rough leaves",
+      "dark green cordate base with scabrid surface",
+      "robust branched tendrils"
     ],
     "stemTraits": [
-      "climbing vine with three branched tendrils"
+      "climbing vine with three branched tendrils",
+      "twining stem",
+      "climbing stem",
+      "slender vine",
+      "strongly 5-angled grooved climbing herbaceous vine stem",
+      "slender vigorous tendril climber"
     ],
     "aromaTraits": [
-      "mild cucumber like"
+      "mild cucumber like",
+      "subtle green cucurbit scent"
     ],
     "flowerFruitTraits": [
       "yellow afternoon flowers",
-      "elongated dark green fruit with 10 prominent sharp longitudinal ridges"
+      "elongated dark green fruit with 10 prominent sharp longitudinal ridges",
+      "vibrant yellow 5-petaled flowers blooming in afternoon",
+      "elongated cylindrical club-shaped fruit with 10 prominent sharp longitudinal ribs, fibrous sponge network inside"
     ],
     "growthHabit": [
-      "annual climbing vine"
+      "annual climbing vine",
+      "climbing vine",
+      "annual climbing tendril vine",
+      "trellised vegetable crop",
+      "trailing vine",
+      "twining climber"
     ],
     "medicinalUses": [
       "dietary fiber",
@@ -3477,7 +4939,12 @@
       "loofah",
       "turai",
       "hirekayi",
-      "tendril"
+      "tendril",
+      "ten ridges",
+      "sponge",
+      "yellow flower",
+      "tendrils",
+      "climbing vine"
     ]
   },
   {
@@ -3490,23 +4957,41 @@
       "snake gourd",
       "padavalakayi",
       "chichinda",
-      "serpent gourd"
+      "serpent gourd",
+      "trichosanthes cucumerina"
     ],
     "leafTraits": [
-      "deeply 5 to 7 lobed leaves with foul bruised odor"
+      "deeply 5 to 7 lobed leaves with foul bruised odor",
+      "palmately 3-7 lobed reniform or cordate leaves",
+      "rough hairy texture with wavy margins",
+      "branched tendrils"
     ],
     "stemTraits": [
-      "climbing vine with branched tendrils"
+      "climbing vine with branched tendrils",
+      "twining stem",
+      "climbing stem",
+      "slender vine",
+      "slender furrowed climbing herbaceous vine stem",
+      "pubescent green tendril climber"
     ],
     "aromaTraits": [
-      "distinctive vegetable"
+      "distinctive vegetable",
+      "unpleasant pungent musky scent when foliage is crushed",
+      "sweet nocturnal floral scent"
     ],
     "flowerFruitTraits": [
       "fringed lacy white flowers",
-      "long winding serpent like cylindrical fruit with white stripes"
+      "long winding serpent like cylindrical fruit with white stripes",
+      "extraordinary pure white nocturnal flowers with intricately fringed lacy filiform corolla margins",
+      "very long twisted serpentine cylindrical green and white striped gourd fruit tapering like a snake"
     ],
     "growthHabit": [
-      "annual climbing vine"
+      "annual climbing vine",
+      "climbing vine",
+      "annual climbing tendril vine",
+      "tropical vegetable climber",
+      "trailing vine",
+      "twining climber"
     ],
     "medicinalUses": [
       "cooling curry vegetable",
@@ -3517,7 +5002,12 @@
       "snake like",
       "lacy white flower",
       "white stripes",
-      "padavalakayi"
+      "padavalakayi",
+      "fringed flowers",
+      "lacy corolla",
+      "twisted",
+      "striped",
+      "climbing vine"
     ]
   },
   {
@@ -3530,23 +5020,41 @@
       "garlic",
       "bellulli",
       "lahsun",
-      "stinking rose"
+      "stinking rose",
+      "lehsun",
+      "allium sativum",
+      "garlic cloves"
     ],
     "leafTraits": [
-      "flat solid linear strap like leaves with v keel"
+      "flat solid linear strap like leaves with v keel",
+      "long narrow flat linear strap-like leaves",
+      "keeled v-shaped cross section with sharp central fold",
+      "solid green grass-like foliage"
     ],
     "stemTraits": [
       "subterranean composite bulb",
-      "10 to 20 cloves in white papery wrapper"
+      "10 to 20 cloves in white papery wrapper",
+      "short flat basal stem plate beneath bulb",
+      "stiff erect flowering scape stem"
     ],
     "aromaTraits": [
-      "intensely pungent sulfurous allicin scent when crushed"
+      "intensely pungent sulfurous allicin scent when crushed",
+      "extremely pungent sharp sulfurous allicin aroma",
+      "strong volatile antibacterial odor"
     ],
     "flowerFruitTraits": [
-      "spherical pink white umbel with bulbils on tall scape"
+      "spherical pink white umbel with bulbils on tall scape",
+      "dense spherical umbel enclosed in pointed papery spathe beak",
+      "pinkish white sterile florets with bulbils",
+      "compound underground bulb made of 10-20 cloves wrapped in papery white scales"
     ],
     "growthHabit": [
-      "perennial bulbous crop"
+      "perennial bulbous crop",
+      "agricultural crop",
+      "cultivated plant",
+      "bulbous biennial monocot herb grown as annual",
+      "compact culinary spice crop",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "allicin",
@@ -3561,7 +5069,10 @@
       "allicin",
       "pungent",
       "lahsun",
-      "bellulli"
+      "bellulli",
+      "flat leaves",
+      "papery wrapper",
+      "sulfur"
     ]
   },
   {
@@ -3574,23 +5085,41 @@
       "fenugreek",
       "menthya",
       "methi",
-      "greek hay"
+      "greek hay",
+      "trigonella foenum-graecum"
     ],
     "leafTraits": [
-      "trifoliate compound leaves with three obovate toothed leaflets"
+      "trifoliate compound leaves with three obovate toothed leaflets",
+      "trifoliolate compound leaves with obovate clover-like leaflets",
+      "toothed upper margin",
+      "fresh light green foliage"
     ],
     "stemTraits": [
-      "erect slender round hollow branching stem"
+      "erect slender round hollow branching stem",
+      "herbaceous stem",
+      "soft stem",
+      "slender erect branching round herbaceous stem",
+      "smooth green annual stalk",
+      "soft green stem"
     ],
     "aromaTraits": [
-      "distinctive spicy bittersweet maple syrup celery scent"
+      "distinctive spicy bittersweet maple syrup celery scent",
+      "distinctive sweet spicy maple curry aroma",
+      "warm fenugreek fragrance from seeds and leaves"
     ],
     "flowerFruitTraits": [
       "yellowish white pea flowers",
-      "slender beaked sickle pods with golden angular seeds"
+      "slender beaked sickle pods with golden angular seeds",
+      "small solitary or paired yellowish-white pea-like flowers in leaf axils",
+      "slender narrow elongated curved beaked pods containing 10-20 hard rhombic yellowish-brown bitter seeds"
     ],
     "growthHabit": [
-      "annual aromatic herb"
+      "annual aromatic herb",
+      "herbaceous",
+      "small erect annual legume herb",
+      "cool season leafy vegetable and spice crop",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "methi paratha",
@@ -3603,7 +5132,12 @@
       "trifoliate",
       "angular seeds",
       "maple scent",
-      "menthya"
+      "menthya",
+      "clover like",
+      "trifoliolate",
+      "beaked pod",
+      "herb",
+      "legume"
     ]
   },
   {
@@ -3616,24 +5150,44 @@
       "coriander",
       "kothambari",
       "cilantro",
-      "dhania"
+      "dhania",
+      "dhaniya",
+      "coriandrum sativum",
+      "chinese parsley"
     ],
     "leafTraits": [
       "broad fan shaped lobed basal leaves",
-      "feathery finely dissected thread like upper leaves"
+      "feathery finely dissected thread like upper leaves",
+      "dimorphic foliage with broad fan-shaped lobed lower leaves",
+      "finely dissected thread-like feathery upper leaves",
+      "delicate bright green aromatic foliage"
     ],
     "stemTraits": [
-      "slender smooth hollow green stem"
+      "slender smooth hollow green stem",
+      "herbaceous stem",
+      "soft stem",
+      "slender erect hollow branching herbaceous green stem",
+      "smooth annual stalk",
+      "soft green stem"
     ],
     "aromaTraits": [
-      "fresh citrusy herbal pungent aroma"
+      "fresh citrusy herbal pungent aroma",
+      "fresh pungent citrusy herbal cilantro scent from leaves",
+      "warm sweet citrusy spicy aroma from crushed seeds"
     ],
     "flowerFruitTraits": [
       "compound umbels of pale pink white flowers",
-      "round ribbed aromatic globular seeds"
+      "round ribbed aromatic globular seeds",
+      "compound umbels of small white to pale pink flowers with asymmetric outer petals",
+      "small spherical ribbed globular schizocarp seeds containing two mericarps"
     ],
     "growthHabit": [
-      "fast growing annual herb"
+      "fast growing annual herb",
+      "herbaceous",
+      "delicate fast-growing annual herb",
+      "culinary seasoning crop",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "garnish on dishes",
@@ -3647,7 +5201,11 @@
       "kothambari",
       "feathery leaves",
       "garnish",
-      "citrusy"
+      "citrusy",
+      "umbel",
+      "seeds",
+      "garnishing",
+      "herb"
     ]
   },
   {
@@ -3660,23 +5218,42 @@
       "cumin",
       "jeerige",
       "jeera",
-      "zeera"
+      "zeera",
+      "cuminum cyminum",
+      "cumin seed"
     ],
     "leafTraits": [
-      "finely dissected thread like feathery leaves"
+      "finely dissected thread like feathery leaves",
+      "finely divided thread-like feathery bipinnate leaves",
+      "slender bluish-green dissected foliage",
+      "hair-like leaf segments"
     ],
     "stemTraits": [
-      "slender branched green stem"
+      "slender branched green stem",
+      "herbaceous stem",
+      "soft stem",
+      "slender erect branching herbaceous green stem",
+      "smooth delicate annual stalk",
+      "soft green stem"
     ],
     "aromaTraits": [
-      "warm earthy peppery musky penetrating aroma"
+      "warm earthy peppery musky penetrating aroma",
+      "warm earthy nutty spicy distinctive cumin aroma",
+      "penetrating savory seasoning smell"
     ],
     "flowerFruitTraits": [
       "small umbels of white rose flowers",
-      "boat shaped elongated ribbed brown seeds"
+      "boat shaped elongated ribbed brown seeds",
+      "small compound umbels of tiny white to rose-pink 5-petaled flowers",
+      "elongated oval ribbed yellowish-brown schizocarp seeds with prominent ridges"
     ],
     "growthHabit": [
-      "delicate annual herb crop"
+      "delicate annual herb crop",
+      "herbaceous",
+      "slender annual delicate herb",
+      "arid zone culinary spice crop",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "jeera water",
@@ -3690,7 +5267,12 @@
       "warm earthy",
       "tadka",
       "jeerige",
-      "digestive"
+      "digestive",
+      "feathery",
+      "earthy",
+      "umbel",
+      "spice",
+      "herb"
     ]
   },
   {
@@ -3704,24 +5286,37 @@
       "sasive",
       "sarson",
       "black mustard",
-      "rai"
+      "rai",
+      "brassica nigra"
     ],
     "leafTraits": [
       "lyrate pinnatifid lobed lower leaves",
-      "lanceolate upper leaves"
+      "lanceolate upper leaves",
+      "lyrate pinnatifid lobed lower leaves with large terminal lobe",
+      "smaller lanceolate upper leaves with toothed margins"
     ],
     "stemTraits": [
-      "erect branching green stem"
+      "erect branching green stem",
+      "erect stiff branching green herbaceous to semi-woody annual stem",
+      "smooth to hispid stalk"
     ],
     "aromaTraits": [
-      "pungent sharp sinus clearing mustard oil aroma"
+      "pungent sharp sinus clearing mustard oil aroma",
+      "sharp pungent sinus-clearing mustard oil allyl isothiocyanate smell when crushed"
     ],
     "flowerFruitTraits": [
       "brilliant golden yellow four petaled cruciform flowers",
-      "slender silique pods with tiny round seeds"
+      "slender silique pods with tiny round seeds",
+      "bright vibrant yellow 4-petaled cross-shaped cruciform flowers in terminal racemes",
+      "slender erect cylindrical beaked silique pods containing tiny spherical brown-black pungent seeds"
     ],
     "growthHabit": [
-      "winter annual brassica crop"
+      "winter annual brassica crop",
+      "agricultural crop",
+      "cultivated plant",
+      "erect annual brassica crop",
+      "cool season oilseed and greens crop",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "tadka tempering",
@@ -3735,7 +5330,13 @@
       "round seeds",
       "sasive",
       "sarson",
-      "rai"
+      "rai",
+      "four petals",
+      "cruciform",
+      "pungent",
+      "oilseed",
+      "silique pod",
+      "tadka"
     ]
   },
   {
@@ -3748,24 +5349,41 @@
       "sesame",
       "ellu",
       "til",
-      "gingelly"
+      "gingelly",
+      "yellu",
+      "sesamum indicum",
+      "sesame seed"
     ],
     "leafTraits": [
       "opposite variable leaves",
-      "lanceolate hairy leaves"
+      "lanceolate hairy leaves",
+      "variable leaves with lower leaves ovate and deeply 3-lobed",
+      "upper leaves lanceolate and entire",
+      "covered in glandular downy hairs"
     ],
     "stemTraits": [
-      "erect grooved pubescent square stem"
+      "erect grooved pubescent square stem",
+      "erect 4-angled furrowed branching annual herbaceous stem",
+      "pubescent green to purplish stalk"
     ],
     "aromaTraits": [
-      "nutty sweet roasted aroma"
+      "nutty sweet roasted aroma",
+      "mild nutty scent from crushed seeds",
+      "subtle vegetative aroma"
     ],
     "flowerFruitTraits": [
       "tubular bell shaped white pink flowers",
-      "four grooved rectangular capsule packed with tiny flat seeds"
+      "four grooved rectangular capsule packed with tiny flat seeds",
+      "tubular bell-shaped two-lipped flowers in white pale pink or violet with yellow nectar markings",
+      "upright 4-grooved rectangular dehiscent capsule pods filled with numerous small flat teardrop seeds"
     ],
     "growthHabit": [
-      "annual drought hardy herb crop"
+      "annual drought hardy herb crop",
+      "agricultural crop",
+      "cultivated plant",
+      "erect taprooted annual oilseed crop",
+      "drought-tolerant agricultural herb",
+      "cultivated field crop"
     ],
     "medicinalUses": [
       "sesame oil",
@@ -3779,7 +5397,10 @@
       "ellu",
       "flat seeds",
       "rectangular capsule",
-      "oilseed"
+      "oilseed",
+      "four grooved pod",
+      "bell flower",
+      "herb"
     ]
   },
   {
@@ -3792,25 +5413,42 @@
       "red sandalwood",
       "rakta chandana",
       "red sanders",
-      "lal chandan"
+      "lal chandan",
+      "pterocarpus santalinus"
     ],
     "leafTraits": [
-      "alternate trifoliate leaves with three broad round coriaceous leaflets"
+      "alternate trifoliate leaves with three broad round coriaceous leaflets",
+      "odd-pinnate compound leaves with 3-5 broadly round or ovate leathery leaflets",
+      "smooth deep green surface and paler beneath",
+      "entire margins"
     ],
     "stemTraits": [
       "blackish brown bark resembling crocodile skin",
-      "deep blood red heartwood"
+      "deep blood red heartwood",
+      "woody trunk",
+      "tree trunk",
+      "dark blackish-brown rough fissured bark resembling crocodile skin",
+      "straight tall woody trunk with deep ruby-red heavy heartwood yielding santalin dye",
+      "rough bark"
     ],
     "aromaTraits": [
       "non fragrant unlike white sandalwood",
-      "faint woody"
+      "faint woody",
+      "subtle pleasant woody scent without the sweet perfume of white sandalwood"
     ],
     "flowerFruitTraits": [
       "yellow papilionaceous flowers",
-      "circular winged samara pod"
+      "circular winged samara pod",
+      "racemes of yellow papilionaceous pea-like flowers",
+      "distinctive flat circular disc-like winged pods (samara) containing 1-2 seeds"
     ],
     "growthHabit": [
-      "deciduous timber tree endemic to eastern ghats"
+      "deciduous timber tree endemic to eastern ghats",
+      "woody tree",
+      "canopy tree",
+      "medium deciduous hardwood timber tree",
+      "dry rocky hill endemic forest tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "santalin red dye",
@@ -3823,7 +5461,13 @@
       "blood red wood",
       "crocodile bark",
       "trifoliate",
-      "red sanders"
+      "red sanders",
+      "red heartwood",
+      "winged pod",
+      "timber",
+      "hardwood",
+      "santalin",
+      "tree"
     ]
   },
   {
@@ -3837,25 +5481,44 @@
       "chandana",
       "shrigandha",
       "white sandalwood",
-      "sandal"
+      "sandal",
+      "chandan",
+      "santalum album"
     ],
     "leafTraits": [
       "opposite thin ovate elliptic glossy green leaves",
-      "paler underside"
+      "paler underside",
+      "opposite elliptic-lanceolate glossy green leathery leaves",
+      "glabrous smooth surface with pale underside",
+      "slender petioles"
     ],
     "stemTraits": [
       "rough dark bark",
-      "highly fragrant yellowish brown heartwood"
+      "highly fragrant yellowish brown heartwood",
+      "woody trunk",
+      "tree trunk",
+      "smooth greyish to dark brown rough bark",
+      "small to medium woody trunk with highly fragrant oil-rich yellowish heartwood",
+      "rough bark"
     ],
     "aromaTraits": [
-      "heavenly sweet warm woody balsamic persistent calming fragrance"
+      "heavenly sweet warm woody balsamic persistent calming fragrance",
+      "intensely sweet rich warm velvety woody sacred perfume",
+      "long-lasting iconic sandalwood fragrance"
     ],
     "flowerFruitTraits": [
       "small purplish brown unscented flowers in cymes",
-      "small black fleshy drupes"
+      "small black fleshy drupes",
+      "small purplish-pink or brownish-red unscented flowers in terminal cymes with 4-5 fleshy perianth lobes",
+      "small globose fleshy black drupe fruit with hard seed"
     ],
     "growthHabit": [
-      "hemi parasitic evergreen tree"
+      "hemi parasitic evergreen tree",
+      "woody tree",
+      "canopy tree",
+      "small to medium semi-parasitic evergreen woody tree",
+      "root-parasite forest tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "sandalwood paste",
@@ -3870,7 +5533,11 @@
       "chandana",
       "paste",
       "perfume",
-      "balsamic"
+      "balsamic",
+      "fragrant heartwood",
+      "sacred",
+      "woody tree",
+      "semi-parasite"
     ]
   },
   {
@@ -3884,25 +5551,44 @@
       "nerale",
       "black plum",
       "java plum",
-      "jambu"
+      "jambu",
+      "jaman",
+      "syzygium cumini",
+      "indian blackberry"
     ],
     "leafTraits": [
       "opposite oblong leathery glossy dark green leaves",
-      "turpentine odor when crushed"
+      "turpentine odor when crushed",
+      "opposite oblong-elliptic leathery glossy dark green leaves",
+      "conspicuous close secondary veins",
+      "distinct turpentine citrusy aroma when bruised"
     ],
     "stemTraits": [
       "smooth greyish trunk",
-      "rough base"
+      "rough base",
+      "woody trunk",
+      "tree trunk",
+      "massive woody trunk with smooth pale greyish bark peeling in scales",
+      "spreading evergreen canopy",
+      "rough bark"
     ],
     "aromaTraits": [
-      "astringent sweet fruit aroma"
+      "astringent sweet fruit aroma",
+      "fruity sweet astringent scent from crushed berries and leaves"
     ],
     "flowerFruitTraits": [
       "small fragrant greenish white flowers",
-      "oblong deep purple black fruit with staining purple pulp"
+      "oblong deep purple black fruit with staining purple pulp",
+      "small fragrant greenish-white flowers in branched panicles with 4 petals and fluffy stamens",
+      "oblong oval fleshy berries turning from green to magenta to deep purplish-black with astringent sweet purple pulp"
     ],
     "growthHabit": [
-      "large fast growing canopy tree"
+      "large fast growing canopy tree",
+      "woody tree",
+      "canopy tree",
+      "large fast-growing evergreen canopy tree",
+      "hardy fruit tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "diabetes seed powder jamboline",
@@ -3914,7 +5600,12 @@
       "black plum",
       "nerale",
       "diabetes seeds",
-      "staining pulp"
+      "staining pulp",
+      "astringent",
+      "diabetes",
+      "glossy leaves",
+      "grey bark",
+      "tree"
     ]
   },
   {
@@ -3927,24 +5618,44 @@
       "custard apple",
       "sitaphala",
       "sugar apple",
-      "sharifa"
+      "sharifa",
+      "seethaphala",
+      "sitaphal",
+      "annona squamosa"
     ],
     "leafTraits": [
       "thin oblong lanceolate dull green leaves",
-      "aromatic when crushed"
+      "aromatic when crushed",
+      "alternate lanceolate oblong thin leathery leaves",
+      "dull green surface with distinct aromatic scent when crushed",
+      "prominent pale lateral veins"
     ],
     "stemTraits": [
-      "slender multi branched tree"
+      "slender multi branched tree",
+      "woody trunk",
+      "tree trunk",
+      "small crooked woody trunk with thin brownish grey bark with light fissures",
+      "spreading zigzag branches",
+      "rough bark"
     ],
     "aromaTraits": [
-      "sweet vanilla custard fruity scent"
+      "sweet vanilla custard fruity scent",
+      "sweet fragrant tropical aroma from ripe fruit",
+      "subtle herbal leaf odor"
     ],
     "flowerFruitTraits": [
       "fleshy yellow green flowers",
-      "knobby bumpy round fruit with creamy sweet custard segments and black seeds"
+      "knobby bumpy round fruit with creamy sweet custard segments and black seeds",
+      "solitary or clustered greenish yellow nodding flowers with 3 thick fleshy outer petals",
+      "round to heart-shaped knobby syncarp fruit composed of loosely adhering polygonal segments enclosing creamy white sweet sugary pulp and hard black seeds"
     ],
     "growthHabit": [
-      "hardy drought tolerant small tree"
+      "hardy drought tolerant small tree",
+      "woody tree",
+      "canopy tree",
+      "small deciduous or semi-evergreen woody fruit tree",
+      "drought hardy orchard tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "creamy dessert fruit",
@@ -3955,7 +5666,12 @@
       "creamy segments",
       "sitaphala",
       "custard",
-      "sugar apple"
+      "sugar apple",
+      "knobby fruit",
+      "creamy pulp",
+      "three fleshy petals",
+      "black seeds",
+      "tree"
     ]
   },
   {
@@ -3968,23 +5684,41 @@
       "sapodilla",
       "chikoo",
       "sapota",
-      "chiku"
+      "chiku",
+      "manilkara zapota",
+      "chicle tree"
     ],
     "leafTraits": [
-      "glossy dark green elliptic alternate leaves clustered at tips"
+      "glossy dark green elliptic alternate leaves clustered at tips",
+      "glossy dark green elliptic-ovate leathery leaves clustered at branch ends",
+      "prominent midrib and smooth margins"
     ],
     "stemTraits": [
-      "dark furrowed bark rich in white milky latex chicle"
+      "dark furrowed bark rich in white milky latex chicle",
+      "woody trunk",
+      "tree trunk",
+      "straight sturdy woody trunk with dark brownish rough bark",
+      "rich white sticky milky chicle latex sap in all parts",
+      "rough bark"
     ],
     "aromaTraits": [
-      "sweet malty brown sugar aroma"
+      "sweet malty brown sugar aroma",
+      "sweet brown sugar malty caramel fruit aroma",
+      "faint latex scent"
     ],
     "flowerFruitTraits": [
       "small bell shaped white flowers",
-      "round rough brown scruffy skin fruit with grainy sweet brown flesh"
+      "round rough brown scruffy skin fruit with grainy sweet brown flesh",
+      "small solitary bell-shaped white flowers in leaf axils",
+      "round to oval brown rough-skinned berry with sweet gritty malty brown flesh and hard shiny black seeds"
     ],
     "growthHabit": [
-      "slow growing dense evergreen tree"
+      "slow growing dense evergreen tree",
+      "woody tree",
+      "canopy tree",
+      "slow-growing medium evergreen canopy tree",
+      "wind-resistant coastal fruit tree",
+      "tall perennial tree"
     ],
     "medicinalUses": [
       "sweet fresh fruit",
@@ -3997,7 +5731,11 @@
       "grainy sweet",
       "malty",
       "sapota",
-      "chicle"
+      "chicle",
+      "chicle latex",
+      "sweet malty",
+      "clustered leaves",
+      "tree"
     ]
   },
   {
@@ -4012,23 +5750,34 @@
       "harsingar",
       "coral jasmine",
       "tree of sorrow",
-      "nyctanthes"
+      "nyctanthes",
+      "night flowering jasmine",
+      "nyctanthes arbor-tristis"
     ],
     "leafTraits": [
       "rough leaves",
       "sandpapery leaves",
       "rough sandpapery ovate leaves",
-      "opposite leaves"
+      "opposite leaves",
+      "opposite rough sandpapery ovate leaves",
+      "scabrous hispid texture",
+      "serrate or entire margins"
     ],
     "stemTraits": [
       "quadrangular branches",
-      "grey rough bark"
+      "grey rough bark",
+      "woody stem",
+      "branching woody stems",
+      "distinctly 4-angled quadrangular woody stems",
+      "rough greyish-brown branching bark"
     ],
     "aromaTraits": [
       "intensely sweet celestial night blooming fragrance",
       "night fragrance",
       "celestial fragrance",
-      "night blooming"
+      "night blooming",
+      "intensely sweet intoxicating night-blooming fragrance",
+      "delicate honey floral aroma released after dusk"
     ],
     "flowerFruitTraits": [
       "starry white flowers",
@@ -4039,11 +5788,20 @@
       "bright orange tube",
       "blooms at night",
       "night blooming",
-      "carpets ground by dawn"
+      "carpets ground by dawn",
+      "salverform star-shaped flowers with 5-8 pure white pinwheel petals",
+      "brilliant bright orange-red central cylindrical corolla tube",
+      "blooming at night and shedding petals at sunrise",
+      "flat round capsule fruit"
     ],
     "growthHabit": [
       "large deciduous shrub",
-      "small tree"
+      "small tree",
+      "woody shrub",
+      "large woody shrub or small tree",
+      "sacred night blooming shrub",
+      "branching shrub",
+      "perennial bush"
     ],
     "medicinalUses": [
       "sacred celestial flower",
@@ -4057,7 +5815,11 @@
       "harsingar",
       "parijata",
       "sandpapery",
-      "starry"
+      "starry",
+      "rough leaves",
+      "dawn",
+      "sacred",
+      "woody shrub"
     ]
   },
   {
@@ -4070,26 +5832,39 @@
       "crossandra",
       "firecracker flower",
       "kanakambara",
-      "aboli"
+      "aboli",
+      "crossandra infundibuliformis"
     ],
     "leafTraits": [
       "glossy dark green wavy margined ovate leaves",
-      "wavy leaves"
+      "wavy leaves",
+      "glossy dark green lanceolate to ovate leaves with undulate wavy margins",
+      "opposite or whorled smooth foliage"
     ],
     "stemTraits": [
-      "compact semi woody branching stems"
+      "compact semi woody branching stems",
+      "erect herbaceous to woody-based branching subshrub stem",
+      "slender green to brown stems"
     ],
     "aromaTraits": [
-      "unscented"
+      "unscented",
+      "faint fresh floral"
     ],
     "flowerFruitTraits": [
       "four sided spikes",
       "asymmetric fan shaped bright apricot orange salmon pink blossoms",
       "fan shaped petals",
-      "apricot flowers"
+      "apricot flowers",
+      "dense 4-sided overlapping bract spikes",
+      "bright salmon-orange apricot fan-shaped asymmetrical flowers with 3-5 split corolla lobes",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
-      "tropical evergreen flowering subshrub"
+      "tropical evergreen flowering subshrub",
+      "compact evergreen flowering subshrub",
+      "tropical garden and garland plant"
     ],
     "medicinalUses": [
       "hair garlands with jasmine",
@@ -4101,7 +5876,13 @@
       "fan shaped petals",
       "kanakambara",
       "garlands",
-      "firecracker"
+      "firecracker",
+      "salmon orange",
+      "fan shaped",
+      "hair garland",
+      "four sided spike",
+      "bracts",
+      "wavy leaves"
     ]
   },
   {
@@ -4115,23 +5896,41 @@
       "mogra",
       "dundu mallige",
       "motia",
-      "sambac"
+      "sambac",
+      "gundu mallige",
+      "bela",
+      "jasminum sambac",
+      "tuscan jasmine"
     ],
     "leafTraits": [
-      "opposite ovate glossy dark green leaves"
+      "opposite ovate glossy dark green leaves",
+      "opposite or in whorls of three, simple glossy dark green ovate-elliptic leaves",
+      "prominent wavy veins and rounded base"
     ],
     "stemTraits": [
-      "bushy climbing evergreen shrub"
+      "bushy climbing evergreen shrub",
+      "semi-woody bushy scrambling stems",
+      "slender green climbing or erect twigs"
     ],
     "aromaTraits": [
-      "deeply captivating intoxicating sweet floral fragrance"
+      "deeply captivating intoxicating sweet floral fragrance",
+      "extremely powerful sweet heady intoxicating floral perfume",
+      "iconic mogra garland fragrance"
     ],
     "flowerFruitTraits": [
       "double layered ruffled pure white blossoms opening at dusk",
-      "ruffled white flowers"
+      "ruffled white flowers",
+      "clusters of pristine pure white double or single multi-petaled blossoms",
+      "opening at night with intense perfume",
+      "resembling tiny white miniature gardenias",
+      "showy petals",
+      "fragrant blossoms",
+      "ornamental flowering"
     ],
     "growthHabit": [
-      "bushy twining shrub"
+      "bushy twining shrub",
+      "bushy twining evergreen flowering shrub",
+      "scandent flowering shrub"
     ],
     "medicinalUses": [
       "gajra garlands",
@@ -4144,7 +5943,12 @@
       "dundu mallige",
       "ruffled white",
       "gajra",
-      "intense fragrance"
+      "intense fragrance",
+      "double petals",
+      "white blossoms",
+      "puja",
+      "garland",
+      "shrub"
     ]
   },
   {
@@ -4157,28 +5961,47 @@
       "shatavari",
       "wild asparagus",
       "satawar",
-      "satavari"
+      "satavari",
+      "asparagus racemosus",
+      "shatamulli"
     ],
     "leafTraits": [
       "modified into tiny needle like green cladodes",
       "needle leaves",
       "cladodes",
-      "scale leaves with recurved spines"
+      "scale leaves with recurved spines",
+      "leaves reduced to clusters of tiny needle-like green cladodes",
+      "fine feathery needle-like branchlets mimicking foliage"
     ],
     "stemTraits": [
       "woody twining climber",
       "prickly stems",
-      "underground cluster of succulent tuberous roots"
+      "underground cluster of succulent tuberous roots",
+      "herbaceous stem",
+      "soft stem",
+      "scrambling twining woody climber vine stem",
+      "armed with sharp hard recurved backward-pointing thorns spines at branch junctions",
+      "tuberous succulent roots",
+      "soft green stem"
     ],
     "aromaTraits": [
-      "sweet faint floral"
+      "sweet faint floral",
+      "sweet delicate honey scent from tiny blossoms",
+      "mild medicinal root aroma"
     ],
     "flowerFruitTraits": [
       "tiny white fragrant flowers",
-      "purple black globose berries"
+      "purple black globose berries",
+      "slender racemes of tiny fragrant white or creamy star-shaped flowers",
+      "small round green berries turning glossy scarlet red when ripe"
     ],
     "growthHabit": [
-      "thorny woody climbing herb"
+      "thorny woody climbing herb",
+      "herbaceous",
+      "scrambling thorny perennial climbing vine shrub",
+      "rhizomatous root tuber climber",
+      "herbaceous plant",
+      "perennial herb"
     ],
     "medicinalUses": [
       "female reproductive tonic",
@@ -4192,7 +6015,12 @@
       "tuberous roots",
       "female tonic",
       "spines",
-      "shatavari"
+      "shatavari",
+      "recurved spines",
+      "thorns",
+      "red berries",
+      "ayurvedic",
+      "vine"
     ]
   },
   {
@@ -4206,13 +6034,17 @@
       "guduchi",
       "amrita",
       "amrutha balli",
-      "heart leaved moonseed"
+      "heart leaved moonseed",
+      "tinospora cordifolia"
     ],
     "leafTraits": [
       "lush heart shaped cordate leaves",
       "heart shaped leaves",
       "heart-shaped leaves",
-      "smooth membranous leaves"
+      "smooth membranous leaves",
+      "broad heart-shaped cordate membranous leaves",
+      "prominent 7-palmate veins radiating from deep basal sinus",
+      "smooth glossy green upper surface and paler beneath"
     ],
     "stemTraits": [
       "succulent grooved fleshy stems",
@@ -4220,19 +6052,32 @@
       "grooved stem",
       "corky lenticels",
       "papery peeling bark",
-      "aerial roots"
+      "aerial roots",
+      "twining stem",
+      "climbing stem",
+      "slender vine",
+      "thick succulent fleshy climbing woody vine stem with grooved surface",
+      "peeling papery outer bark with prominent lenticels",
+      "slender thread-like aerial roots descending from stems"
     ],
     "aromaTraits": [
       "intensely bitter taste",
-      "fresh herbal"
+      "fresh herbal",
+      "distinctive bitter herbal medicinal smell when cut"
     ],
     "flowerFruitTraits": [
       "small yellow flowers",
-      "clusters of red pea sized drupes"
+      "clusters of red pea sized drupes",
+      "dioecious racemes of tiny greenish-yellow flowers",
+      "clusters of 1-3 pea-sized ovoid drupes turning bright scarlet red when ripe"
     ],
     "growthHabit": [
       "deciduous climbing woody vine",
-      "climbing vine"
+      "climbing vine",
+      "large climbing deciduous succulent woody vine",
+      "perennial twining creeper",
+      "trailing vine",
+      "twining climber"
     ],
     "medicinalUses": [
       "amrita immortality nectar",
@@ -4248,7 +6093,10 @@
       "guduchi",
       "fever",
       "kadha",
-      "bitter"
+      "bitter",
+      "aerial roots",
+      "immunity",
+      "climbing vine"
     ]
   }
 ]
