@@ -19,12 +19,20 @@
       "white teeth",
       "succulent leaves",
       "fleshy green",
-      "rosette"
+      "rosette",
+      "lanceolate succulent leaves",
+      "water storage tissue",
+      "gelatinous interior",
+      "spiny toothed margins",
+      "basal rosette of thick leaves"
     ],
     "stemTraits": [
       "stemless",
       "acaulescent",
-      "short stem"
+      "short stem",
+      "virtually stemless",
+      "acaulescent rosette",
+      "no woody stem"
     ],
     "aromaTraits": [
       "mild fresh",
@@ -40,7 +48,9 @@
       "succulent",
       "perennial",
       "indoor houseplant",
-      "clump forming"
+      "clump forming",
+      "stemless xerophytic succulent",
+      "fleshy perennial clump"
     ],
     "medicinalUses": [
       "soothing gel",
@@ -57,7 +67,11 @@
       "fleshy",
       "spines",
       "cool",
-      "healing"
+      "healing",
+      "aloin",
+      "mucilage",
+      "gelatinous",
+      "stemless"
     ]
   },
   {
@@ -83,14 +97,22 @@
       "toothed leaves",
       "purplish leaves",
       "hairy leaves",
-      "elliptical"
+      "elliptical",
+      "opposite decussate leaves",
+      "glandular hairs",
+      "pubescent leaves",
+      "simple aromatic leaves"
     ],
     "stemTraits": [
       "purple stem",
       "purplish stem",
       "hairy stem",
       "quadrangular stem",
-      "woody base"
+      "woody base",
+      "square stem",
+      "tetragonal stem",
+      "pubescent purple stem",
+      "quadrangular hairy stem"
     ],
     "aromaTraits": [
       "highly aromatic",
@@ -98,7 +120,11 @@
       "pungent aroma",
       "clove aroma",
       "peppery aroma",
-      "sweet basil fragrance"
+      "sweet basil fragrance",
+      "warm clove aroma",
+      "eugenol aroma",
+      "strongly scented foliage",
+      "spicy herbal aroma"
     ],
     "flowerFruitTraits": [
       "purplish flowers",
@@ -111,7 +137,9 @@
       "upright subshrub",
       "erect herb",
       "branching herb",
-      "sacred herb"
+      "sacred herb",
+      "aromatic herbaceous subshrub",
+      "perennial aromatic herb"
     ],
     "medicinalUses": [
       "ayurveda",
@@ -135,7 +163,11 @@
       "sacred",
       "herb",
       "ayurvedic",
-      "immunity"
+      "immunity",
+      "quadrangular",
+      "clove",
+      "eugenol",
+      "square stem"
     ]
   },
   {
@@ -161,7 +193,9 @@
     "stemTraits": [
       "square stem",
       "prickly stem",
-      "small thorns"
+      "small thorns",
+      "prickly scrambling stems",
+      "four-angled woody stems with recurved prickles"
     ],
     "aromaTraits": [
       "pungent aroma",
@@ -177,7 +211,9 @@
     "growthHabit": [
       "perennial shrub",
       "scrambling shrub",
-      "hedgerow"
+      "hedgerow",
+      "straggling woody shrub",
+      "thorny hedge shrub"
     ],
     "medicinalUses": [
       "butterfly garden",
@@ -188,7 +224,8 @@
       "rough",
       "prickly",
       "flower clusters",
-      "multicolor"
+      "multicolor",
+      "woody shrub"
     ]
   },
   {
@@ -443,31 +480,58 @@
       "rose",
       "gulabi",
       "rosa",
-      "rosebush"
+      "rosebush",
+      "garden rose",
+      "wild rose",
+      "tea rose"
     ],
     "leafTraits": [
       "pinnate compound leaves",
       "serrated leaflets",
-      "dark green leaflets"
+      "dark green leaflets",
+      "compound leaves",
+      "pinnately compound",
+      "oval toothed leaflets",
+      "stipules at leaf base",
+      "alternate compound leaves"
     ],
     "stemTraits": [
       "thorny stem",
       "sharp prickles",
-      "woody cane"
+      "woody cane",
+      "prickles",
+      "woody shrub with prickles",
+      "prickly stem",
+      "thorny woody cane",
+      "recurved prickles",
+      "woody stems with prickles"
     ],
     "aromaTraits": [
       "sweet fragrant floral",
       "rose perfume",
-      "rose scent"
+      "rose scent",
+      "fragrant petals",
+      "fragrant blossoms",
+      "intensely fragrant",
+      "delicate floral perfume"
     ],
     "flowerFruitTraits": [
       "multi petaled flowers",
       "red pink yellow white blossoms",
-      "rose hips"
+      "rose hips",
+      "fragrant petals",
+      "layered petals",
+      "showy petals",
+      "corolla with multiple petals",
+      "cup shaped blossom"
     ],
     "growthHabit": [
       "thorny flowering shrub",
-      "perennial bush"
+      "perennial bush",
+      "woody shrub",
+      "woody bush",
+      "perennial woody shrub",
+      "erect or climbing shrub"
     ],
     "medicinalUses": [
       "gulkand",
@@ -481,7 +545,12 @@
       "fragrant",
       "flower",
       "red",
-      "rose water"
+      "rose water",
+      "prickles",
+      "prickly",
+      "compound leaves",
+      "shrub",
+      "bush"
     ]
   },
   {
@@ -548,16 +617,26 @@
       "pinnate compound leaves",
       "falcate curved leaflets",
       "sharply serrated leaflets",
-      "bitter leaves"
+      "bitter leaves",
+      "once pinnate compound leaves",
+      "compound leaves",
+      "asymmetric curved sickle shaped leaflets",
+      "deeply serrate leaflets",
+      "imparipinnate compound leaves"
     ],
     "stemTraits": [
       "dark grey rough bark",
       "flaking bark",
-      "hard timber"
+      "hard timber",
+      "thick woody trunk",
+      "longitudinally fissured bark",
+      "rough woody trunk"
     ],
     "aromaTraits": [
       "bitter pungent aroma",
-      "sulfurous herbal"
+      "sulfurous herbal",
+      "strongly bitter foliage odor",
+      "garlic sulfur aroma when crushed"
     ],
     "flowerFruitTraits": [
       "small white fragrant flowers",
@@ -566,7 +645,9 @@
     ],
     "growthHabit": [
       "large evergreen tree",
-      "dense canopy tree"
+      "dense canopy tree",
+      "tall hardwood tree",
+      "broad spreading canopy tree"
     ],
     "medicinalUses": [
       "antibacterial",
@@ -582,7 +663,13 @@
       "medicinal",
       "antibacterial",
       "tree",
-      "bevu"
+      "bevu",
+      "sickle",
+      "falcate",
+      "compound leaves",
+      "timber",
+      "trunk",
+      "bark"
     ]
   },
   {
@@ -838,7 +925,9 @@
     ],
     "stemTraits": [
       "woody scrambling stem",
-      "sharp curved thorns"
+      "sharp curved thorns",
+      "stout sharp curved woody thorns",
+      "spiny climbing woody stems"
     ],
     "aromaTraits": [
       "unscented"
@@ -846,10 +935,14 @@
     "flowerFruitTraits": [
       "papery colorful bracts",
       "magenta pink red white bracts",
-      "tiny tubular cream flowers inside"
+      "tiny tubular cream flowers inside",
+      "colorful papery petal-like bracts",
+      "tubular flowers enclosed in three papery bracts"
     ],
     "growthHabit": [
-      "scrambling climbing woody vine"
+      "scrambling climbing woody vine",
+      "thorny woody scrambling shrub",
+      "thorny woody vine"
     ],
     "medicinalUses": [
       "drought resistant bloom",
@@ -862,7 +955,8 @@
       "magenta",
       "bracts",
       "climbing",
-      "colorful"
+      "colorful",
+      "woody climber"
     ]
   },
   {
@@ -926,10 +1020,16 @@
       "vertical upright sword shaped leaves",
       "rigid stiff leaves",
       "dark green cross banding",
-      "yellow margins"
+      "yellow margins",
+      "sword shaped erect leaves",
+      "fibrous stiff monocot leaves",
+      "variegated banded foliage"
     ],
     "stemTraits": [
-      "stemless rhizome"
+      "stemless rhizome",
+      "rhizomatous stemless",
+      "no true stem",
+      "stemless indoor plant"
     ],
     "aromaTraits": [
       "neutral"
@@ -939,7 +1039,10 @@
     ],
     "growthHabit": [
       "architectural succulent",
-      "erect indoor houseplant"
+      "erect indoor houseplant",
+      "monocot succulent",
+      "stemless indoor foliage plant",
+      "acaulescent perennial"
     ],
     "medicinalUses": [
       "air purifying",
@@ -953,7 +1056,10 @@
       "yellow edges",
       "vertical",
       "rigid",
-      "air purifier"
+      "air purifier",
+      "sansevieria",
+      "monocot",
+      "stemless"
     ]
   },
   {
@@ -972,12 +1078,18 @@
     "leafTraits": [
       "spines instead of leaves",
       "sharp glochids",
-      "no true leaves"
+      "no true leaves",
+      "leaves reduced to sharp spines",
+      "spines in place of leaves",
+      "leafless succulent"
     ],
     "stemTraits": [
       "thick fleshy green cladode",
       "succulent photosynthetic stem",
-      "fluted column pads"
+      "fluted column pads",
+      "succulent ribbed stem",
+      "photosynthetic green fleshy stem",
+      "areoles with clusters of sharp spines"
     ],
     "aromaTraits": [
       "neutral"
@@ -988,7 +1100,10 @@
     ],
     "growthHabit": [
       "xerophytic succulent",
-      "desert plant"
+      "desert plant",
+      "desert succulent",
+      "xerophyte",
+      "spiny succulent"
     ],
     "medicinalUses": [
       "drought adaptation",
@@ -1000,7 +1115,9 @@
       "fleshy pads",
       "desert",
       "succulent",
-      "prickly"
+      "prickly",
+      "areoles",
+      "ribbed"
     ]
   },
   {
