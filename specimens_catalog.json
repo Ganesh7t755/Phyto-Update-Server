@@ -1,0 +1,4137 @@
+[
+  {
+    "templateId": 1,
+    "commonName": "Aloe Vera",
+    "scientificName": "Aloe vera",
+    "kannadaName": "ಅಲೋವೆರಾ (ಲೋಳೆಸರ)",
+    "category": "SUCCULENT",
+    "synonyms": [
+      "aloe",
+      "aloe vera",
+      "lolesara",
+      "ghritkumari",
+      "alces"
+    ],
+    "leafTraits": [
+      "thick fleshy leaves",
+      "fleshy leaves",
+      "serrated teeth",
+      "white teeth",
+      "succulent leaves",
+      "fleshy green",
+      "rosette"
+    ],
+    "stemTraits": [
+      "stemless",
+      "acaulescent",
+      "short stem"
+    ],
+    "aromaTraits": [
+      "mild fresh",
+      "mucilaginous",
+      "soothing scent"
+    ],
+    "flowerFruitTraits": [
+      "tall yellow flower spike",
+      "tubular flowers",
+      "reddish flowers"
+    ],
+    "growthHabit": [
+      "succulent",
+      "perennial",
+      "indoor houseplant",
+      "clump forming"
+    ],
+    "medicinalUses": [
+      "soothing gel",
+      "burns",
+      "sunburn",
+      "skin care",
+      "moisturizer",
+      "ayurveda"
+    ],
+    "additionalKeywords": [
+      "gel",
+      "teeth",
+      "succulent",
+      "fleshy",
+      "spines",
+      "cool",
+      "healing"
+    ]
+  },
+  {
+    "templateId": 2,
+    "commonName": "Tulsi (Holy Basil)",
+    "scientificName": "Ocimum tenuiflorum",
+    "kannadaName": "ತುಳಸಿ (ಪವಿತ್ರ ತುಳಸಿ)",
+    "category": "HERB",
+    "synonyms": [
+      "tulsi",
+      "holy basil",
+      "sacred basil",
+      "tulasi",
+      "krishna tulsi",
+      "rama tulsi",
+      "shyama tulsi",
+      "ocimum"
+    ],
+    "leafTraits": [
+      "small oval leaves",
+      "oval leaves",
+      "serrated margin",
+      "toothed leaves",
+      "purplish leaves",
+      "hairy leaves",
+      "elliptical"
+    ],
+    "stemTraits": [
+      "purple stem",
+      "purplish stem",
+      "hairy stem",
+      "quadrangular stem",
+      "woody base"
+    ],
+    "aromaTraits": [
+      "highly aromatic",
+      "aromatic",
+      "pungent aroma",
+      "clove aroma",
+      "peppery aroma",
+      "sweet basil fragrance"
+    ],
+    "flowerFruitTraits": [
+      "purplish flowers",
+      "purple blossoms",
+      "slender flower spikes",
+      "racemes",
+      "verticillaster"
+    ],
+    "growthHabit": [
+      "upright subshrub",
+      "erect herb",
+      "branching herb",
+      "sacred herb"
+    ],
+    "medicinalUses": [
+      "ayurveda",
+      "immunity",
+      "cough",
+      "cold",
+      "respiratory",
+      "spiritual purity",
+      "sacred",
+      "tea",
+      "kadha",
+      "puja"
+    ],
+    "additionalKeywords": [
+      "holy",
+      "basil",
+      "purple",
+      "stem",
+      "aromatic",
+      "tea",
+      "sacred",
+      "herb",
+      "ayurvedic",
+      "immunity"
+    ]
+  },
+  {
+    "templateId": 3,
+    "commonName": "Lantana",
+    "scientificName": "Lantana camara",
+    "kannadaName": "ಲಂಟಾನಾ",
+    "category": "SHRUB",
+    "synonyms": [
+      "lantana",
+      "wild sage",
+      "tickberry",
+      "unni chedi"
+    ],
+    "leafTraits": [
+      "rough leaves",
+      "sandpapery leaves",
+      "rugose",
+      "ovate leaves",
+      "serrated margin",
+      "opposite leaves"
+    ],
+    "stemTraits": [
+      "square stem",
+      "prickly stem",
+      "small thorns"
+    ],
+    "aromaTraits": [
+      "pungent aroma",
+      "citrusy herbal",
+      "strong crushed leaf scent"
+    ],
+    "flowerFruitTraits": [
+      "multicoloured flower clusters",
+      "yellow orange pink red umbels",
+      "dark berries",
+      "drupes"
+    ],
+    "growthHabit": [
+      "perennial shrub",
+      "scrambling shrub",
+      "hedgerow"
+    ],
+    "medicinalUses": [
+      "butterfly garden",
+      "ornamental"
+    ],
+    "additionalKeywords": [
+      "colorful",
+      "rough",
+      "prickly",
+      "flower clusters",
+      "multicolor"
+    ]
+  },
+  {
+    "templateId": 4,
+    "commonName": "Money Plant (Devil's Ivy)",
+    "scientificName": "Epipremnum aureum",
+    "kannadaName": "ಮನಿ ಪ್ಲಾಂಟ್",
+    "category": "CLIMBER_VINE",
+    "synonyms": [
+      "money plant",
+      "golden pothos",
+      "devil s ivy",
+      "pothos",
+      "epipremnum"
+    ],
+    "leafTraits": [
+      "heart shaped leaves",
+      "cordate leaves",
+      "variegated green yellow",
+      "glossy leaves",
+      "marbled leaves"
+    ],
+    "stemTraits": [
+      "trailing vine",
+      "aerial roots",
+      "climbing green stem"
+    ],
+    "aromaTraits": [
+      "neutral scent"
+    ],
+    "flowerFruitTraits": [
+      "spathe",
+      "rare blooms indoors"
+    ],
+    "growthHabit": [
+      "climbing vine",
+      "trailing creeper",
+      "indoor houseplant",
+      "epiphyte"
+    ],
+    "medicinalUses": [
+      "air purifying",
+      "feng shui",
+      "prosperity",
+      "luck"
+    ],
+    "additionalKeywords": [
+      "heart",
+      "variegated",
+      "vine",
+      "climber",
+      "indoor",
+      "creeper",
+      "money"
+    ]
+  },
+  {
+    "templateId": 5,
+    "commonName": "White Pitcher Plant",
+    "scientificName": "Sarracenia leucophylla",
+    "kannadaName": "ಬಿಳಿ ಪಿಚರ್ ಗಿಡ",
+    "category": "HERB",
+    "synonyms": [
+      "pitcher plant",
+      "white pitcher",
+      "carnivorous plant",
+      "sarracenia"
+    ],
+    "leafTraits": [
+      "hollow tubular pitcher",
+      "white top reticulate veins",
+      "pitcher hood",
+      "leaf tube"
+    ],
+    "stemTraits": [
+      "rhizomatous stem"
+    ],
+    "aromaTraits": [
+      "sweet nectar scent"
+    ],
+    "flowerFruitTraits": [
+      "nodding red flowers",
+      "tall scapes"
+    ],
+    "growthHabit": [
+      "carnivorous herb",
+      "bog plant",
+      "rosette"
+    ],
+    "medicinalUses": [
+      "insect trapping",
+      "botanical curiosity"
+    ],
+    "additionalKeywords": [
+      "pitcher",
+      "carnivorous",
+      "trap",
+      "tubular",
+      "insects",
+      "bog"
+    ]
+  },
+  {
+    "templateId": 6,
+    "commonName": "Coatbuttons",
+    "scientificName": "Tridax procumbens",
+    "kannadaName": "ಕೋಟ್‌ಬಟನ್ಸ್ (ಟ್ರಿಡಾಕ್ಸ್)",
+    "category": "HERB",
+    "synonyms": [
+      "coatbuttons",
+      "tridax",
+      "tridax daisy",
+      "jayanti veda"
+    ],
+    "leafTraits": [
+      "arrow shaped leaves",
+      "coarsely hairy",
+      "toothed lobed leaves"
+    ],
+    "stemTraits": [
+      "sprawling stem",
+      "hairy stem",
+      "procumbent"
+    ],
+    "aromaTraits": [
+      "mild herbal"
+    ],
+    "flowerFruitTraits": [
+      "daisy like flowers",
+      "three toothed ray florets",
+      "yellow center disc",
+      "long stalks"
+    ],
+    "growthHabit": [
+      "creeping herb",
+      "procumbent weed"
+    ],
+    "medicinalUses": [
+      "wound healing",
+      "coagulant",
+      "antiseptic",
+      "ayurveda"
+    ],
+    "additionalKeywords": [
+      "daisy",
+      "buttons",
+      "wound",
+      "coagulant",
+      "hairy",
+      "weed"
+    ]
+  },
+  {
+    "templateId": 7,
+    "commonName": "Morinda coreia",
+    "scientificName": "Morinda coreia",
+    "kannadaName": "ಮೊರಿಂದಾ ಕೊರೆಯಾ",
+    "category": "TREE",
+    "synonyms": [
+      "morinda",
+      "indian mulberry",
+      "togaru",
+      "noni relative"
+    ],
+    "leafTraits": [
+      "broadly elliptic leaves",
+      "opposite glossy green",
+      "prominent veins"
+    ],
+    "stemTraits": [
+      "yellowish grey bark",
+      "rough trunk"
+    ],
+    "aromaTraits": [
+      "pungent fruit aroma"
+    ],
+    "flowerFruitTraits": [
+      "white flowers in globose heads",
+      "syncarp fruit",
+      "fused fruit"
+    ],
+    "growthHabit": [
+      "small tree",
+      "woody deciduous tree"
+    ],
+    "medicinalUses": [
+      "natural dye",
+      "morindin",
+      "traditional medicine"
+    ],
+    "additionalKeywords": [
+      "mulberry",
+      "dye",
+      "yellow",
+      "tree",
+      "syncarp"
+    ]
+  },
+  {
+    "templateId": 8,
+    "commonName": "Monstera Deliciosa",
+    "scientificName": "Monstera deliciosa",
+    "kannadaName": "ಮಾನ್ಸ್ಟೆರಾ ಡೆಲಿಸಿಯೋಸಾ",
+    "category": "SHRUB",
+    "synonyms": [
+      "monstera",
+      "swiss cheese plant",
+      "split leaf philodendron",
+      "ceriman"
+    ],
+    "leafTraits": [
+      "fenestrated leaves",
+      "holes in leaves",
+      "split leaves",
+      "large glossy leaves",
+      "leathery green"
+    ],
+    "stemTraits": [
+      "thick climbing stem",
+      "long aerial roots"
+    ],
+    "aromaTraits": [
+      "sweet fruit scent when ripe"
+    ],
+    "flowerFruitTraits": [
+      "white spathe spadix",
+      "scaly edible fruit"
+    ],
+    "growthHabit": [
+      "epiphytic climbing vine",
+      "indoor houseplant"
+    ],
+    "medicinalUses": [
+      "ornamental foliage",
+      "architectural houseplant"
+    ],
+    "additionalKeywords": [
+      "holes",
+      "cheese",
+      "split",
+      "aerial roots",
+      "large leaves"
+    ]
+  },
+  {
+    "templateId": 9,
+    "commonName": "Rose (Rosa)",
+    "scientificName": "Rosa rubiginosa",
+    "kannadaName": "ಗುಲಾಬಿ (ರೋಸ್)",
+    "category": "FLOWER",
+    "synonyms": [
+      "rose",
+      "gulabi",
+      "rosa",
+      "rosebush"
+    ],
+    "leafTraits": [
+      "pinnate compound leaves",
+      "serrated leaflets",
+      "dark green leaflets"
+    ],
+    "stemTraits": [
+      "thorny stem",
+      "sharp prickles",
+      "woody cane"
+    ],
+    "aromaTraits": [
+      "sweet fragrant floral",
+      "rose perfume",
+      "rose scent"
+    ],
+    "flowerFruitTraits": [
+      "multi petaled flowers",
+      "red pink yellow white blossoms",
+      "rose hips"
+    ],
+    "growthHabit": [
+      "thorny flowering shrub",
+      "perennial bush"
+    ],
+    "medicinalUses": [
+      "gulkand",
+      "rose water",
+      "perfumery",
+      "antioxidant"
+    ],
+    "additionalKeywords": [
+      "thorns",
+      "petals",
+      "fragrant",
+      "flower",
+      "red",
+      "rose water"
+    ]
+  },
+  {
+    "templateId": 10,
+    "commonName": "Hibiscus (China Rose)",
+    "scientificName": "Hibiscus rosa-sinensis",
+    "kannadaName": "ದಾಸವಾಳ (ಹೈಬಿಸ್ಕಸ್)",
+    "category": "FLOWER",
+    "synonyms": [
+      "hibiscus",
+      "china rose",
+      "dasavala",
+      "shoe flower",
+      "gudhal"
+    ],
+    "leafTraits": [
+      "glossy green ovate leaves",
+      "serrated margin",
+      "toothed leaves"
+    ],
+    "stemTraits": [
+      "woody branching stems"
+    ],
+    "aromaTraits": [
+      "faint floral"
+    ],
+    "flowerFruitTraits": [
+      "large bell shaped flowers",
+      "long staminal column",
+      "five bright red petals",
+      "protruding style"
+    ],
+    "growthHabit": [
+      "bushy flowering shrub"
+    ],
+    "medicinalUses": [
+      "hair care",
+      "hibiscus tea",
+      "temple puja",
+      "ayurveda"
+    ],
+    "additionalKeywords": [
+      "red",
+      "staminal column",
+      "bell shaped",
+      "puja",
+      "hair oil"
+    ]
+  },
+  {
+    "templateId": 11,
+    "commonName": "Neem Tree",
+    "scientificName": "Azadirachta indica",
+    "kannadaName": "ಬೇವು (ಬೇವಿನ ಮರ)",
+    "category": "TREE",
+    "synonyms": [
+      "neem",
+      "nimba",
+      "indian lilac",
+      "bevu",
+      "margosa"
+    ],
+    "leafTraits": [
+      "pinnate compound leaves",
+      "falcate curved leaflets",
+      "sharply serrated leaflets",
+      "bitter leaves"
+    ],
+    "stemTraits": [
+      "dark grey rough bark",
+      "flaking bark",
+      "hard timber"
+    ],
+    "aromaTraits": [
+      "bitter pungent aroma",
+      "sulfurous herbal"
+    ],
+    "flowerFruitTraits": [
+      "small white fragrant flowers",
+      "green yellow oval drupes",
+      "neem fruit"
+    ],
+    "growthHabit": [
+      "large evergreen tree",
+      "dense canopy tree"
+    ],
+    "medicinalUses": [
+      "antibacterial",
+      "antifungal",
+      "dental datun",
+      "skin purifier",
+      "ayurveda",
+      "pest control"
+    ],
+    "additionalKeywords": [
+      "bitter",
+      "serrated",
+      "medicinal",
+      "antibacterial",
+      "tree",
+      "bevu"
+    ]
+  },
+  {
+    "templateId": 12,
+    "commonName": "Jasmine",
+    "scientificName": "Jasminum officinale",
+    "kannadaName": "ಮಲ್ಲಿಗೆ (ಜಾಸ್ಮಿನ್)",
+    "category": "FLOWER",
+    "synonyms": [
+      "jasmine",
+      "mallige",
+      "chameli",
+      "white jasmine"
+    ],
+    "leafTraits": [
+      "opposite pinnate leaflets",
+      "dark green glossy"
+    ],
+    "stemTraits": [
+      "slender twining climbing stems"
+    ],
+    "aromaTraits": [
+      "intensely sweet intoxicating fragrance",
+      "heady perfume"
+    ],
+    "flowerFruitTraits": [
+      "star shaped white flowers",
+      "five petals",
+      "fragrant white blossoms"
+    ],
+    "growthHabit": [
+      "twining climber",
+      "flowering vine shrub"
+    ],
+    "medicinalUses": [
+      "garlands",
+      "jasmine tea",
+      "perfumes",
+      "aromatherapy"
+    ],
+    "additionalKeywords": [
+      "fragrant",
+      "white",
+      "star",
+      "sweet",
+      "scent",
+      "garland"
+    ]
+  },
+  {
+    "templateId": 13,
+    "commonName": "Curry Leaf Plant",
+    "scientificName": "Murraya koenigii",
+    "kannadaName": "ಕರಿಬೇವು (ಕರಿಬೇವಿನ ಗಿಡ)",
+    "category": "HERB",
+    "synonyms": [
+      "curry leaf",
+      "curry leaves",
+      "karivepaku",
+      "karibevu",
+      "kadi patta",
+      "sweet neem"
+    ],
+    "leafTraits": [
+      "pinnate compound leaves",
+      "asymmetrical ovate leaflets",
+      "shiny green",
+      "pungent leaflets"
+    ],
+    "stemTraits": [
+      "slender woody stem",
+      "brown bark"
+    ],
+    "aromaTraits": [
+      "intensely aromatic spicy scent",
+      "curry seasoning smell",
+      "citrusy savory"
+    ],
+    "flowerFruitTraits": [
+      "small white flowers",
+      "clusters of black shiny berries"
+    ],
+    "growthHabit": [
+      "small aromatic tree",
+      "culinary shrub"
+    ],
+    "medicinalUses": [
+      "tadka seasoning",
+      "hair health",
+      "digestive",
+      "ayurveda"
+    ],
+    "additionalKeywords": [
+      "tadka",
+      "cooking",
+      "curry",
+      "spicy",
+      "seasoning",
+      "black berries"
+    ]
+  },
+  {
+    "templateId": 14,
+    "commonName": "Sunflower",
+    "scientificName": "Helianthus annuus",
+    "kannadaName": "ಸೂರ್ಯಕಾಂತಿ (ಸನ್‌ಫ್ಲವರ್)",
+    "category": "FLOWER",
+    "synonyms": [
+      "sunflower",
+      "suryakanthi",
+      "surajmukhi"
+    ],
+    "leafTraits": [
+      "large heart shaped leaves",
+      "rough hairy texture",
+      "toothed margins"
+    ],
+    "stemTraits": [
+      "thick robust erect hairy stem"
+    ],
+    "aromaTraits": [
+      "subtle herbal"
+    ],
+    "flowerFruitTraits": [
+      "giant golden yellow flower head",
+      "dark center disc",
+      "ray petals",
+      "edible seeds"
+    ],
+    "growthHabit": [
+      "tall annual herb",
+      "heliotropic flower"
+    ],
+    "medicinalUses": [
+      "sunflower oil",
+      "edible seeds",
+      "vitamin e"
+    ],
+    "additionalKeywords": [
+      "yellow",
+      "giant",
+      "sun",
+      "oil",
+      "seeds",
+      "tall"
+    ]
+  },
+  {
+    "templateId": 15,
+    "commonName": "Marigold",
+    "scientificName": "Tagetes erecta",
+    "kannadaName": "ಚೆಂಡು ಹೂವು (ಮಾರಿಗೋಲ್ಡ್)",
+    "category": "FLOWER",
+    "synonyms": [
+      "marigold",
+      "chendu hoovu",
+      "genda",
+      "tagetes"
+    ],
+    "leafTraits": [
+      "pinnate deeply divided leaves",
+      "dark green scented glands"
+    ],
+    "stemTraits": [
+      "ribbed green herbaceous branching stem"
+    ],
+    "aromaTraits": [
+      "pungent musky herbal scent",
+      "sharp distinctive aroma"
+    ],
+    "flowerFruitTraits": [
+      "dense ruffled pom pom flower heads",
+      "golden yellow orange blooms",
+      "carnation like"
+    ],
+    "growthHabit": [
+      "erect annual flowering herb"
+    ],
+    "medicinalUses": [
+      "festive garlands",
+      "diwali",
+      "insect repellent",
+      "lutein"
+    ],
+    "additionalKeywords": [
+      "orange",
+      "yellow",
+      "pom pom",
+      "garland",
+      "diwali",
+      "pungent"
+    ]
+  },
+  {
+    "templateId": 16,
+    "commonName": "Periwinkle (Vinca)",
+    "scientificName": "Catharanthus roseus",
+    "kannadaName": "ನಿತ್ಯಪುಷ್ಪ (ವಿನಿಕಾ)",
+    "category": "FLOWER",
+    "synonyms": [
+      "periwinkle",
+      "vinca",
+      "nitya pushpa",
+      "sadabahar",
+      "madagascar periwinkle"
+    ],
+    "leafTraits": [
+      "glossy oval leaves",
+      "prominent white midrib",
+      "opposite leaves"
+    ],
+    "stemTraits": [
+      "green reddish herbaceous stem"
+    ],
+    "aromaTraits": [
+      "faint herbal"
+    ],
+    "flowerFruitTraits": [
+      "five petaled salverform flowers",
+      "rose pink or white flowers",
+      "colored center eye"
+    ],
+    "growthHabit": [
+      "small evergreen subshrub",
+      "hardy flowering plant"
+    ],
+    "medicinalUses": [
+      "vincristine",
+      "anticancer alkaloids",
+      "diabetes folk remedy"
+    ],
+    "additionalKeywords": [
+      "pink",
+      "white",
+      "midrib",
+      "everblooming",
+      "sadabahar"
+    ]
+  },
+  {
+    "templateId": 17,
+    "commonName": "Bougainvillea (Paperflower)",
+    "scientificName": "Bougainvillea spectabilis",
+    "kannadaName": "ಕಾಗದದ ಹೂವು (ಬೊಗೇನ್‌ವಿಲ್ಲಾ)",
+    "category": "FLOWER",
+    "synonyms": [
+      "bougainvillea",
+      "paper flower",
+      "kagadada hoovu"
+    ],
+    "leafTraits": [
+      "ovate alternate green leaves"
+    ],
+    "stemTraits": [
+      "woody scrambling stem",
+      "sharp curved thorns"
+    ],
+    "aromaTraits": [
+      "unscented"
+    ],
+    "flowerFruitTraits": [
+      "papery colorful bracts",
+      "magenta pink red white bracts",
+      "tiny tubular cream flowers inside"
+    ],
+    "growthHabit": [
+      "scrambling climbing woody vine"
+    ],
+    "medicinalUses": [
+      "drought resistant bloom",
+      "pergolas",
+      "ornamental hedge"
+    ],
+    "additionalKeywords": [
+      "papery",
+      "thorns",
+      "magenta",
+      "bracts",
+      "climbing",
+      "colorful"
+    ]
+  },
+  {
+    "templateId": 18,
+    "commonName": "Orchid",
+    "scientificName": "Orchidaceae",
+    "kannadaName": "ಆರ್ಕಿಡ್",
+    "category": "FLOWER",
+    "synonyms": [
+      "orchid",
+      "phalaenopsis",
+      "dendrobium",
+      "epiphytic orchid"
+    ],
+    "leafTraits": [
+      "thick leathery oblong leaves",
+      "pseudobulb leaves"
+    ],
+    "stemTraits": [
+      "aerial roots",
+      "silvery velamen roots"
+    ],
+    "aromaTraits": [
+      "sweet delicate vanilla scent"
+    ],
+    "flowerFruitTraits": [
+      "bilateral symmetric flowers",
+      "specialized lip labellum",
+      "column",
+      "three petals three sepals"
+    ],
+    "growthHabit": [
+      "epiphyte",
+      "perennial orchid"
+    ],
+    "medicinalUses": [
+      "exotic ornamental",
+      "vanilla"
+    ],
+    "additionalKeywords": [
+      "aerial roots",
+      "labellum",
+      "epiphyte",
+      "exotic",
+      "lip"
+    ]
+  },
+  {
+    "templateId": 19,
+    "commonName": "Snake Plant (Mother-in-Law's Tongue)",
+    "scientificName": "Sansevieria trifasciata",
+    "kannadaName": "ಹಾವಿನ ಗಿಡ (ಸ್ನೇಕ್ ಪ್ಲಾಂಟ್)",
+    "category": "SUCCULENT",
+    "synonyms": [
+      "snake plant",
+      "mother in laws tongue",
+      "sansevieria",
+      "dracaena trifasciata"
+    ],
+    "leafTraits": [
+      "vertical upright sword shaped leaves",
+      "rigid stiff leaves",
+      "dark green cross banding",
+      "yellow margins"
+    ],
+    "stemTraits": [
+      "stemless rhizome"
+    ],
+    "aromaTraits": [
+      "neutral"
+    ],
+    "flowerFruitTraits": [
+      "greenish white flower spike rare"
+    ],
+    "growthHabit": [
+      "architectural succulent",
+      "erect indoor houseplant"
+    ],
+    "medicinalUses": [
+      "air purifying",
+      "nasa clean air",
+      "low light tolerance",
+      "bedroom plant"
+    ],
+    "additionalKeywords": [
+      "sword",
+      "bands",
+      "yellow edges",
+      "vertical",
+      "rigid",
+      "air purifier"
+    ]
+  },
+  {
+    "templateId": 20,
+    "commonName": "Desert Cactus",
+    "scientificName": "Cactaceae",
+    "kannadaName": "ಕಳ್ಳಿ ಗಿಡ (ಕ್ಯಾಕ್ಟಸ್)",
+    "category": "SUCCULENT",
+    "synonyms": [
+      "cactus",
+      "desert cactus",
+      "prickly pear",
+      "opuntia",
+      "kalli"
+    ],
+    "leafTraits": [
+      "spines instead of leaves",
+      "sharp glochids",
+      "no true leaves"
+    ],
+    "stemTraits": [
+      "thick fleshy green cladode",
+      "succulent photosynthetic stem",
+      "fluted column pads"
+    ],
+    "aromaTraits": [
+      "neutral"
+    ],
+    "flowerFruitTraits": [
+      "bright yellow or magenta cup flowers",
+      "prickly pear fruit"
+    ],
+    "growthHabit": [
+      "xerophytic succulent",
+      "desert plant"
+    ],
+    "medicinalUses": [
+      "drought adaptation",
+      "edible cactus pads"
+    ],
+    "additionalKeywords": [
+      "spines",
+      "thorns",
+      "fleshy pads",
+      "desert",
+      "succulent",
+      "prickly"
+    ]
+  },
+  {
+    "templateId": 21,
+    "commonName": "Lily",
+    "scientificName": "Lilium",
+    "kannadaName": "ಲಿಲಿ ಹೂವಿನ ಗಿಡ",
+    "category": "FLOWER",
+    "synonyms": [
+      "lily",
+      "asiatic lily",
+      "oriental lily",
+      "lilium"
+    ],
+    "leafTraits": [
+      "linear lanceolate leaves",
+      "spiral whorled leaves"
+    ],
+    "stemTraits": [
+      "tall erect unbranched stem from bulb"
+    ],
+    "aromaTraits": [
+      "intensely sweet perfume",
+      "intoxicating fragrance"
+    ],
+    "flowerFruitTraits": [
+      "large trumpet shaped flowers",
+      "six tepals",
+      "prominent protruding stamens with pollen anthers"
+    ],
+    "growthHabit": [
+      "bulbous perennial herb"
+    ],
+    "medicinalUses": [
+      "purity symbol",
+      "cut flowers",
+      "ceremonial"
+    ],
+    "additionalKeywords": [
+      "trumpet",
+      "stamens",
+      "anthers",
+      "bulb",
+      "fragrant",
+      "tepals"
+    ]
+  },
+  {
+    "templateId": 22,
+    "commonName": "Peppermint",
+    "scientificName": "Mentha piperita",
+    "kannadaName": "ಪುದೀನಾ (ಪೆಪ್ಪರ್‌ಮಿಂಟ್)",
+    "category": "HERB",
+    "synonyms": [
+      "peppermint",
+      "mint",
+      "pudina",
+      "mentha"
+    ],
+    "leafTraits": [
+      "ovate lanceolate serrated leaves",
+      "dark green purple veined leaves"
+    ],
+    "stemTraits": [
+      "square quadrangular stem",
+      "reddish purple stem"
+    ],
+    "aromaTraits": [
+      "strong cooling menthol scent",
+      "invigorating mint fragrance"
+    ],
+    "flowerFruitTraits": [
+      "small purple lilac flowers",
+      "terminal spikes"
+    ],
+    "growthHabit": [
+      "fast spreading stoloniferous herb"
+    ],
+    "medicinalUses": [
+      "menthol",
+      "digestive tea",
+      "soothing stomach",
+      "cooling"
+    ],
+    "additionalKeywords": [
+      "menthol",
+      "mint",
+      "cooling",
+      "square stem",
+      "tea",
+      "purple stem"
+    ]
+  },
+  {
+    "templateId": 23,
+    "commonName": "Fern",
+    "scientificName": "Polypodiopsida",
+    "kannadaName": "ಜರೀಗಿಡ (ಫರ್ನ್)",
+    "category": "HERB",
+    "synonyms": [
+      "fern",
+      "boston fern",
+      "sword fern",
+      "jarigida"
+    ],
+    "leafTraits": [
+      "feathery fronds",
+      "pinnate divided pinnae",
+      "fiddleheads",
+      "spore sori underside"
+    ],
+    "stemTraits": [
+      "creeping rhizome"
+    ],
+    "aromaTraits": [
+      "earthy fresh forest scent"
+    ],
+    "flowerFruitTraits": [
+      "non flowering",
+      "spores underneath fronds"
+    ],
+    "growthHabit": [
+      "herbaceous vascular cryptogam",
+      "shade plant"
+    ],
+    "medicinalUses": [
+      "humidity loving indoor plant",
+      "terrariums"
+    ],
+    "additionalKeywords": [
+      "fronds",
+      "feathery",
+      "spores",
+      "fiddleheads",
+      "shade",
+      "sori"
+    ]
+  },
+  {
+    "templateId": 24,
+    "commonName": "Bamboo",
+    "scientificName": "Bambusoideae",
+    "kannadaName": "ಬಿದಿರು (ಬ್ಯಾಂಬೂ)",
+    "category": "TREE",
+    "synonyms": [
+      "bamboo",
+      "bidiru",
+      "culm",
+      "giant bamboo"
+    ],
+    "leafTraits": [
+      "linear lanceolate leaves",
+      "parallel veins grass leaves"
+    ],
+    "stemTraits": [
+      "hollow jointed culms",
+      "ringed nodes",
+      "woody tall cane"
+    ],
+    "aromaTraits": [
+      "clean grassy woody scent"
+    ],
+    "flowerFruitTraits": [
+      "rare monocarpic flowering"
+    ],
+    "growthHabit": [
+      "giant perennial woody grass",
+      "rapid growing culms"
+    ],
+    "medicinalUses": [
+      "bamboo shoots",
+      "construction",
+      "handicrafts",
+      "privacy screen"
+    ],
+    "additionalKeywords": [
+      "culms",
+      "hollow",
+      "nodes",
+      "joints",
+      "cane",
+      "bamboo shoots"
+    ]
+  },
+  {
+    "templateId": 25,
+    "commonName": "Lotus",
+    "scientificName": "Nelumbo nucifera",
+    "kannadaName": "ಕಮಲ (ಲೋಟಸ್)",
+    "category": "AQUATIC",
+    "synonyms": [
+      "lotus",
+      "sacred lotus",
+      "kamala",
+      "padma"
+    ],
+    "leafTraits": [
+      "large peltate round leaves",
+      "water repellent lotus effect",
+      "floating emergent leaves"
+    ],
+    "stemTraits": [
+      "submerged petioles",
+      "underwater lotus root rhizome"
+    ],
+    "aromaTraits": [
+      "sweet divine floral fragrance"
+    ],
+    "flowerFruitTraits": [
+      "multi petaled pink white blossoms",
+      "distinctive showerhead seed pod"
+    ],
+    "growthHabit": [
+      "aquatic perennial macrophyte"
+    ],
+    "medicinalUses": [
+      "national flower of india",
+      "sacred symbol",
+      "edible lotus root seeds"
+    ],
+    "additionalKeywords": [
+      "aquatic",
+      "water",
+      "showerhead",
+      "peltate",
+      "pink",
+      "sacred"
+    ]
+  },
+  {
+    "templateId": 26,
+    "commonName": "Chrysanthemum",
+    "scientificName": "Chrysanthemum morifolium",
+    "kannadaName": "ಸೇವಂತಿಗೆ (ಕ್ರೈಸಾಂಥೆಮಮ್)",
+    "category": "FLOWER",
+    "synonyms": [
+      "chrysanthemum",
+      "sevanthige",
+      "mum",
+      "guldaudi"
+    ],
+    "leafTraits": [
+      "deeply lobed leaves",
+      "scented crushed leaves",
+      "toothed ovate"
+    ],
+    "stemTraits": [
+      "brittle branching stems"
+    ],
+    "aromaTraits": [
+      "pungent earthy herbaceous scent"
+    ],
+    "flowerFruitTraits": [
+      "dense multi petaled composite flower heads",
+      "yellow white purple blooms"
+    ],
+    "growthHabit": [
+      "autumn flowering subshrub"
+    ],
+    "medicinalUses": [
+      "festive garlands",
+      "chrysanthemum tea",
+      "ceremonial offerings"
+    ],
+    "additionalKeywords": [
+      "sevanthige",
+      "lobed",
+      "composite",
+      "autumn",
+      "garlands"
+    ]
+  },
+  {
+    "templateId": 27,
+    "commonName": "Lavender",
+    "scientificName": "Lavandula angustifolia",
+    "kannadaName": "ಲ್ಯಾವೆಂಡರ್",
+    "category": "HERB",
+    "synonyms": [
+      "lavender",
+      "lavandula",
+      "english lavender"
+    ],
+    "leafTraits": [
+      "narrow linear lanceolate leaves",
+      "greyish green downy leaves"
+    ],
+    "stemTraits": [
+      "square semi woody stems"
+    ],
+    "aromaTraits": [
+      "calming sweet floral camphor scent",
+      "relaxing aroma"
+    ],
+    "flowerFruitTraits": [
+      "violet blue tiny flowers on compact spikes",
+      "purple spikes"
+    ],
+    "growthHabit": [
+      "compact aromatic subshrub"
+    ],
+    "medicinalUses": [
+      "essential oil",
+      "sleep aid",
+      "relaxation",
+      "calming"
+    ],
+    "additionalKeywords": [
+      "violet",
+      "purple",
+      "calming",
+      "spikes",
+      "camphor",
+      "oil"
+    ]
+  },
+  {
+    "templateId": 28,
+    "commonName": "Peace Lily",
+    "scientificName": "Spathiphyllum",
+    "kannadaName": "ಪೀಸ್ ಲಿಲಿ",
+    "category": "FLOWER",
+    "synonyms": [
+      "peace lily",
+      "spathiphyllum",
+      "white sails"
+    ],
+    "leafTraits": [
+      "glossy dark green ribbed leaves",
+      "elliptic arching leaves"
+    ],
+    "stemTraits": [
+      "erect graceful petioles from rhizome"
+    ],
+    "aromaTraits": [
+      "faint pleasant"
+    ],
+    "flowerFruitTraits": [
+      "pure white sail like spathe",
+      "creamy central spadix"
+    ],
+    "growthHabit": [
+      "shade loving evergreen indoor plant"
+    ],
+    "medicinalUses": [
+      "air purifying",
+      "indoor shade",
+      "peace symbol"
+    ],
+    "additionalKeywords": [
+      "spathe",
+      "spadix",
+      "white sail",
+      "indoor",
+      "dark green",
+      "glossy"
+    ]
+  },
+  {
+    "templateId": 29,
+    "commonName": "Paddy",
+    "scientificName": "Oryza sativa",
+    "kannadaName": "ಭತ್ತ (ಭತ್ತದ ಬೆಳೆ)",
+    "category": "CROP",
+    "synonyms": [
+      "paddy",
+      "rice",
+      "bhattha",
+      "dhan",
+      "rice crop"
+    ],
+    "leafTraits": [
+      "slender flat long linear leaves",
+      "scabrid rough blade"
+    ],
+    "stemTraits": [
+      "hollow cylindrical tillering culms"
+    ],
+    "aromaTraits": [
+      "sweet fresh hay grain aroma"
+    ],
+    "flowerFruitTraits": [
+      "pendulous panicles",
+      "spikelets with awns",
+      "rice grains in husk"
+    ],
+    "growthHabit": [
+      "wetland annual cereal grass crop"
+    ],
+    "medicinalUses": [
+      "staple food cereal",
+      "straw",
+      "food security"
+    ],
+    "additionalKeywords": [
+      "rice",
+      "grains",
+      "panicle",
+      "awn",
+      "wetland",
+      "field",
+      "cereal"
+    ]
+  },
+  {
+    "templateId": 30,
+    "commonName": "Wheat",
+    "scientificName": "Triticum aestivum",
+    "kannadaName": "ಗೋಧಿ",
+    "category": "CROP",
+    "synonyms": [
+      "wheat",
+      "godhi",
+      "gehun",
+      "wheat crop"
+    ],
+    "leafTraits": [
+      "flat linear leaves with auricles"
+    ],
+    "stemTraits": [
+      "erect hollow straw culm"
+    ],
+    "aromaTraits": [
+      "toasted cereal aroma"
+    ],
+    "flowerFruitTraits": [
+      "compact terminal spike",
+      "ear of wheat",
+      "bearded spikelets",
+      "wheat kernels"
+    ],
+    "growthHabit": [
+      "cool season annual cereal grass"
+    ],
+    "medicinalUses": [
+      "flour",
+      "bread",
+      "chapati",
+      "staple grain"
+    ],
+    "additionalKeywords": [
+      "ear",
+      "spike",
+      "wheat grains",
+      "flour",
+      "chapati",
+      "golden straw"
+    ]
+  },
+  {
+    "templateId": 31,
+    "commonName": "Maize",
+    "scientificName": "Zea mays",
+    "kannadaName": "ಮೆಕ್ಕೆಜೋಳ",
+    "category": "CROP",
+    "synonyms": [
+      "maize",
+      "corn",
+      "mekke jola",
+      "bhutta"
+    ],
+    "leafTraits": [
+      "wide arching leaves with wavy margins"
+    ],
+    "stemTraits": [
+      "stout solid stalk",
+      "prop brace roots at base"
+    ],
+    "aromaTraits": [
+      "sweet corn aroma"
+    ],
+    "flowerFruitTraits": [
+      "male tassel on top",
+      "female ear cob with silk enclosed in husk",
+      "yellow kernels"
+    ],
+    "growthHabit": [
+      "tall annual cereal crop"
+    ],
+    "medicinalUses": [
+      "corn starch",
+      "sweetcorn",
+      "corn oil",
+      "animal feed"
+    ],
+    "additionalKeywords": [
+      "corn",
+      "tassel",
+      "cob",
+      "silk",
+      "yellow kernels",
+      "stalk"
+    ]
+  },
+  {
+    "templateId": 32,
+    "commonName": "Tomato",
+    "scientificName": "Solanum lycopersicum",
+    "kannadaName": "ಟೊಮೆಟೊ",
+    "category": "CROP",
+    "synonyms": [
+      "tomato",
+      "tomato plant",
+      "tamatar"
+    ],
+    "leafTraits": [
+      "pinnate compound lobed leaves",
+      "glandular sticky hairs"
+    ],
+    "stemTraits": [
+      "hairy sprawling green stem"
+    ],
+    "aromaTraits": [
+      "sharp pungent characteristic tomato foliage smell"
+    ],
+    "flowerFruitTraits": [
+      "yellow star shaped flowers",
+      "fleshy juicy red berries fruit"
+    ],
+    "growthHabit": [
+      "sprawling annual vegetable crop"
+    ],
+    "medicinalUses": [
+      "lycopene",
+      "culinary vegetable",
+      "vitamin c"
+    ],
+    "additionalKeywords": [
+      "red fruit",
+      "sticky hairs",
+      "pungent foliage",
+      "salad",
+      "sauce"
+    ]
+  },
+  {
+    "templateId": 33,
+    "commonName": "Cotton",
+    "scientificName": "Gossypium",
+    "kannadaName": "ಹತ್ತಿ (ಹತ್ತಿ ಗಿಡ)",
+    "category": "CROP",
+    "synonyms": [
+      "cotton",
+      "hatthi",
+      "kapas",
+      "cotton plant"
+    ],
+    "leafTraits": [
+      "palmately 3 to 5 lobed leaves",
+      "cordate base"
+    ],
+    "stemTraits": [
+      "branching woody subshrub stem"
+    ],
+    "aromaTraits": [
+      "subtle earthy"
+    ],
+    "flowerFruitTraits": [
+      "cream yellow flowers turning pink",
+      "cotton bolls packed with white fluffy fibers"
+    ],
+    "growthHabit": [
+      "subshrub textile crop"
+    ],
+    "medicinalUses": [
+      "natural textile fiber",
+      "cottonseed oil"
+    ],
+    "additionalKeywords": [
+      "boll",
+      "white fiber",
+      "fluffy",
+      "textile",
+      "kapas",
+      "lobed"
+    ]
+  },
+  {
+    "templateId": 34,
+    "commonName": "Sugarcane",
+    "scientificName": "Saccharum officinarum",
+    "kannadaName": "ಕಬ್ಬು",
+    "category": "CROP",
+    "synonyms": [
+      "sugarcane",
+      "kabbu",
+      "ganna"
+    ],
+    "leafTraits": [
+      "long sword like leaves",
+      "sharp finely serrated edges"
+    ],
+    "stemTraits": [
+      "thick solid jointed fibrous stalks",
+      "sweet sucrose sap",
+      "ringed colorful internodes"
+    ],
+    "aromaTraits": [
+      "sweet raw sugar cane juice aroma"
+    ],
+    "flowerFruitTraits": [
+      "silvery feathery plume like arrow panicle"
+    ],
+    "growthHabit": [
+      "giant perennial grass crop"
+    ],
+    "medicinalUses": [
+      "cane sugar",
+      "jaggery",
+      "cane juice",
+      "biofuel"
+    ],
+    "additionalKeywords": [
+      "sweet",
+      "stalk",
+      "joints",
+      "internodes",
+      "jaggery",
+      "juice"
+    ]
+  },
+  {
+    "templateId": 35,
+    "commonName": "Banana",
+    "scientificName": "Musa",
+    "kannadaName": "ಬಾಳೆ (ಬಾಳೆ ಗಿಡ)",
+    "category": "CROP",
+    "synonyms": [
+      "banana",
+      "bale gida",
+      "kela",
+      "plantain"
+    ],
+    "leafTraits": [
+      "gigantic paddle shaped leaves",
+      "wind split fronds",
+      "prominent midrib"
+    ],
+    "stemTraits": [
+      "pseudostem of leaf sheaths",
+      "underground corm"
+    ],
+    "aromaTraits": [
+      "fresh tropical green scent"
+    ],
+    "flowerFruitTraits": [
+      "pendulous flower inflorescence with dark maroon bracts",
+      "hanging bunch of yellow fruits"
+    ],
+    "growthHabit": [
+      "giant arborescent monocot herb"
+    ],
+    "medicinalUses": [
+      "potassium rich fruit",
+      "dining banana leaf plate",
+      "banana stem juice"
+    ],
+    "additionalKeywords": [
+      "paddle leaves",
+      "pseudostem",
+      "bunch",
+      "maroon bract",
+      "banana leaf"
+    ]
+  },
+  {
+    "templateId": 36,
+    "commonName": "Mango",
+    "scientificName": "Mangifera indica",
+    "kannadaName": "ಮಾವು (ಮಾವಿನ ಮರ)",
+    "category": "TREE",
+    "synonyms": [
+      "mango",
+      "mavu",
+      "aam",
+      "king of fruits"
+    ],
+    "leafTraits": [
+      "lanceolate leaves",
+      "glossy dark green",
+      "coppery red young leaves",
+      "wavy margin"
+    ],
+    "stemTraits": [
+      "thick rough dark bark",
+      "huge spreading canopy trunk"
+    ],
+    "aromaTraits": [
+      "resinous sweet turpentine fruity mango smell"
+    ],
+    "flowerFruitTraits": [
+      "large branched panicles of tiny fragrant flowers",
+      "kidney shaped large fleshy drupe fruit"
+    ],
+    "growthHabit": [
+      "massive evergreen canopy tree"
+    ],
+    "medicinalUses": [
+      "king of fruits",
+      "mango leaf torans",
+      "vitamin a"
+    ],
+    "additionalKeywords": [
+      "king of fruits",
+      "coppery leaves",
+      "panicle",
+      "sweet drupe",
+      "toran"
+    ]
+  },
+  {
+    "templateId": 37,
+    "commonName": "Coconut",
+    "scientificName": "Cocos nucifera",
+    "kannadaName": "ತೆಂಗು (ತೆಂಗಿನ ಮರ)",
+    "category": "TREE",
+    "synonyms": [
+      "coconut",
+      "tengu",
+      "nariyal",
+      "kalpavriksha"
+    ],
+    "leafTraits": [
+      "gigantic pinnate feathery fronds",
+      "terminal crown of fronds"
+    ],
+    "stemTraits": [
+      "tall unbranched columnar trunk with ringed leaf scars"
+    ],
+    "aromaTraits": [
+      "sweet nutty coconut scent"
+    ],
+    "flowerFruitTraits": [
+      "yellow spathe inflorescence",
+      "large hard shelled fibrous drupe with water and copra"
+    ],
+    "growthHabit": [
+      "unbranched canopy palm"
+    ],
+    "medicinalUses": [
+      "coconut water",
+      "oil",
+      "coir",
+      "kalpavriksha tree of life"
+    ],
+    "additionalKeywords": [
+      "palm",
+      "fronds",
+      "copra",
+      "coconut water",
+      "ringed trunk"
+    ]
+  },
+  {
+    "templateId": 38,
+    "commonName": "Areca Nut",
+    "scientificName": "Areca catechu",
+    "kannadaName": "ಅಡಿಕೆ (ಅಡಿಕೆ ಮರ)",
+    "category": "TREE",
+    "synonyms": [
+      "areca nut",
+      "betel nut",
+      "adike",
+      "supari"
+    ],
+    "leafTraits": [
+      "pinnate graceful crown fronds"
+    ],
+    "stemTraits": [
+      "slender tall straight unbranched trunk",
+      "prominent annular rings"
+    ],
+    "aromaTraits": [
+      "astringent nutty aroma"
+    ],
+    "flowerFruitTraits": [
+      "branched spadix",
+      "heavy clusters of orange fibrous ovoid nuts"
+    ],
+    "growthHabit": [
+      "slender solitary canopy palm"
+    ],
+    "medicinalUses": [
+      "supari",
+      "tannins",
+      "eco friendly areca leaf plates"
+    ],
+    "additionalKeywords": [
+      "adike",
+      "slender palm",
+      "supari",
+      "orange nuts",
+      "annular rings"
+    ]
+  },
+  {
+    "templateId": 39,
+    "commonName": "Chilli",
+    "scientificName": "Capsicum annuum",
+    "kannadaName": "ಮೆಣಸಿನಕಾಯಿ",
+    "category": "CROP",
+    "synonyms": [
+      "chilli",
+      "menasinakayi",
+      "mirchi",
+      "hot pepper",
+      "capsicum"
+    ],
+    "leafTraits": [
+      "ovate lanceolate glossy leaves",
+      "smooth margin"
+    ],
+    "stemTraits": [
+      "semi woody branching green stems"
+    ],
+    "aromaTraits": [
+      "pungent spicy capsicum smell"
+    ],
+    "flowerFruitTraits": [
+      "white star flowers",
+      "elongated green to fiery red hot pods"
+    ],
+    "growthHabit": [
+      "bushy vegetable crop"
+    ],
+    "medicinalUses": [
+      "capsaicin",
+      "spicy seasoning",
+      "vitamin c"
+    ],
+    "additionalKeywords": [
+      "hot",
+      "spicy",
+      "red pod",
+      "mirchi",
+      "capsaicin"
+    ]
+  },
+  {
+    "templateId": 40,
+    "commonName": "Potato",
+    "scientificName": "Solanum tuberosum",
+    "kannadaName": "ಆಲೂಗಡ್ಡೆ",
+    "category": "CROP",
+    "synonyms": [
+      "potato",
+      "aloo",
+      "aloogadde"
+    ],
+    "leafTraits": [
+      "pinnate compound hairy leaves",
+      "alternating leaflets"
+    ],
+    "stemTraits": [
+      "green aerial stems",
+      "underground starchy tubers"
+    ],
+    "aromaTraits": [
+      "earthy root cellar smell"
+    ],
+    "flowerFruitTraits": [
+      "white purple star flowers with yellow center cone",
+      "toxic green berries"
+    ],
+    "growthHabit": [
+      "herbaceous annual tuber crop"
+    ],
+    "medicinalUses": [
+      "starchy staple food",
+      "carbohydrates"
+    ],
+    "additionalKeywords": [
+      "tuber",
+      "aloo",
+      "underground",
+      "starchy",
+      "chips"
+    ]
+  },
+  {
+    "templateId": 41,
+    "commonName": "Onion",
+    "scientificName": "Allium cepa",
+    "kannadaName": "ಈರುಳ್ಳಿ",
+    "category": "CROP",
+    "synonyms": [
+      "onion",
+      "eerulli",
+      "pyaz"
+    ],
+    "leafTraits": [
+      "hollow cylindrical tubular leaves",
+      "scallions"
+    ],
+    "stemTraits": [
+      "underground layered tunic bulb",
+      "basal plate"
+    ],
+    "aromaTraits": [
+      "sharp sulfurous lachrymatory tear inducing aroma"
+    ],
+    "flowerFruitTraits": [
+      "spherical umbel of tiny greenish white flowers on scape"
+    ],
+    "growthHabit": [
+      "biennial bulb crop"
+    ],
+    "medicinalUses": [
+      "quercetin",
+      "antibacterial",
+      "culinary base"
+    ],
+    "additionalKeywords": [
+      "bulb",
+      "tubular leaves",
+      "sulfur",
+      "tears",
+      "pyaz",
+      "layers"
+    ]
+  },
+  {
+    "templateId": 42,
+    "commonName": "Groundnut",
+    "scientificName": "Arachis hypogaea",
+    "kannadaName": "ಕಡಲೆಕಾಯಿ (ನೆಲಗಡಲೆ)",
+    "category": "CROP",
+    "synonyms": [
+      "groundnut",
+      "peanut",
+      "kadalekayi",
+      "moongphali"
+    ],
+    "leafTraits": [
+      "pinnate with four obovate leaflets",
+      "sleeping night movement"
+    ],
+    "stemTraits": [
+      "hairy procumbent spreading stem"
+    ],
+    "aromaTraits": [
+      "nutty earthy roasted aroma"
+    ],
+    "flowerFruitTraits": [
+      "yellow pea flowers",
+      "peg buries into soil to form subterranean pod nuts"
+    ],
+    "growthHabit": [
+      "low annual legume crop"
+    ],
+    "medicinalUses": [
+      "peanut oil",
+      "protein rich nuts",
+      "nitrogen fixation"
+    ],
+    "additionalKeywords": [
+      "peanut",
+      "peg",
+      "subterranean",
+      "four leaflets",
+      "nuts"
+    ]
+  },
+  {
+    "templateId": 43,
+    "commonName": "Coffee",
+    "scientificName": "Coffea arabica",
+    "kannadaName": "ಕಾಫಿ ಗಿಡ",
+    "category": "SHRUB",
+    "synonyms": [
+      "coffee",
+      "kaapi",
+      "arabica",
+      "coffee bush"
+    ],
+    "leafTraits": [
+      "opposite shiny dark green leaves",
+      "elliptical wavy margin"
+    ],
+    "stemTraits": [
+      "horizontal woody branches"
+    ],
+    "aromaTraits": [
+      "jasmine like flower scent",
+      "roasted coffee bean aroma"
+    ],
+    "flowerFruitTraits": [
+      "clusters of fragrant white flowers",
+      "green to crimson red coffee cherries berries"
+    ],
+    "growthHabit": [
+      "evergreen understory shrub"
+    ],
+    "medicinalUses": [
+      "caffeine",
+      "antioxidants",
+      "beverage"
+    ],
+    "additionalKeywords": [
+      "cherries",
+      "beans",
+      "kaapi",
+      "caffeine",
+      "shiny leaves"
+    ]
+  },
+  {
+    "templateId": 44,
+    "commonName": "Tea",
+    "scientificName": "Camellia sinensis",
+    "kannadaName": "ಚಹಾ ಗಿಡ (ಟೀ)",
+    "category": "SHRUB",
+    "synonyms": [
+      "tea",
+      "chaha",
+      "chai",
+      "tea bush"
+    ],
+    "leafTraits": [
+      "elliptic serrated leaves",
+      "two leaves and a bud",
+      "silvery hairy young bud"
+    ],
+    "stemTraits": [
+      "densely pruned woody bush"
+    ],
+    "aromaTraits": [
+      "fresh grassy tannic herbal aroma"
+    ],
+    "flowerFruitTraits": [
+      "solitary white flowers with yellow stamens"
+    ],
+    "growthHabit": [
+      "evergreen branching shrub"
+    ],
+    "medicinalUses": [
+      "polyphenols",
+      "green tea",
+      "antioxidant tea"
+    ],
+    "additionalKeywords": [
+      "two leaves and bud",
+      "chai",
+      "pruned",
+      "camellia",
+      "tannins"
+    ]
+  },
+  {
+    "templateId": 45,
+    "commonName": "Cardamom",
+    "scientificName": "Elettaria cardamomum",
+    "kannadaName": "ಏಲಕ್ಕಿ",
+    "category": "HERB",
+    "synonyms": [
+      "cardamom",
+      "elakki",
+      "elaichi",
+      "queen of spices"
+    ],
+    "leafTraits": [
+      "tall erect lanceolate glossy leaves",
+      "long sheaths"
+    ],
+    "stemTraits": [
+      "pseudostem from creeping underground rhizome"
+    ],
+    "aromaTraits": [
+      "intensely warm eucalyptus camphor sweet spicy fragrance"
+    ],
+    "flowerFruitTraits": [
+      "prostrate runners with white violet striped flowers",
+      "triangular green papery seed pods"
+    ],
+    "growthHabit": [
+      "shade loving perennial rhizome herb"
+    ],
+    "medicinalUses": [
+      "queen of spices",
+      "digestive",
+      "mouth freshener",
+      "chai"
+    ],
+    "additionalKeywords": [
+      "green pods",
+      "spicy aroma",
+      "elaichi",
+      "queen of spices",
+      "camphoraceous"
+    ]
+  },
+  {
+    "templateId": 46,
+    "commonName": "Black Pepper",
+    "scientificName": "Piper nigrum",
+    "kannadaName": "ಕಾಳುಮೆಣಸು",
+    "category": "CLIMBER_VINE",
+    "synonyms": [
+      "black pepper",
+      "kalu menasu",
+      "kali mirch",
+      "king of spices"
+    ],
+    "leafTraits": [
+      "broad ovate cordate leathery dark green leaves",
+      "prominent curved veins"
+    ],
+    "stemTraits": [
+      "woody climbing vine",
+      "clinging adventitious roots"
+    ],
+    "aromaTraits": [
+      "sharp pungent peppery biting scent"
+    ],
+    "flowerFruitTraits": [
+      "pendulous catkins spikes",
+      "green to red berries dried into black peppercorns"
+    ],
+    "growthHabit": [
+      "woody climbing vine"
+    ],
+    "medicinalUses": [
+      "piperine",
+      "king of spices",
+      "digestive",
+      "spice trade"
+    ],
+    "additionalKeywords": [
+      "peppercorns",
+      "catkins",
+      "piperine",
+      "climbing vine",
+      "pungent"
+    ]
+  },
+  {
+    "templateId": 47,
+    "commonName": "Turmeric",
+    "scientificName": "Curcuma longa",
+    "kannadaName": "ಅರಿಶಿನ",
+    "category": "CROP",
+    "synonyms": [
+      "turmeric",
+      "arishina",
+      "haldi",
+      "golden spice"
+    ],
+    "leafTraits": [
+      "large broad oblong lanceolate leaves on long petioles"
+    ],
+    "stemTraits": [
+      "pseudostem from branched golden orange aromatic rhizomes"
+    ],
+    "aromaTraits": [
+      "earthy warm pungent peppery woody scent"
+    ],
+    "flowerFruitTraits": [
+      "dense flower spike with pink green bracts and yellow flowers"
+    ],
+    "growthHabit": [
+      "perennial rhizomatous herb"
+    ],
+    "medicinalUses": [
+      "curcumin",
+      "antiseptic",
+      "anti inflammatory",
+      "golden milk",
+      "ayurveda"
+    ],
+    "additionalKeywords": [
+      "golden",
+      "haldi",
+      "rhizome",
+      "curcumin",
+      "yellow dye",
+      "antiseptic"
+    ]
+  },
+  {
+    "templateId": 48,
+    "commonName": "Ginger",
+    "scientificName": "Zingiber officinale",
+    "kannadaName": "ಶುಂಠಿ (ಹಸಿಶುಂಠಿ)",
+    "category": "CROP",
+    "synonyms": [
+      "ginger",
+      "shunti",
+      "adrak",
+      "fresh ginger"
+    ],
+    "leafTraits": [
+      "narrow linear grass like lanceolate reed leaves"
+    ],
+    "stemTraits": [
+      "annual reed stem from knobby thick fibrous palmate rhizomes"
+    ],
+    "aromaTraits": [
+      "sharp zesty pungent spicy citrusy aroma"
+    ],
+    "flowerFruitTraits": [
+      "conical spikes with pale yellow purple flowers"
+    ],
+    "growthHabit": [
+      "reed like perennial herb"
+    ],
+    "medicinalUses": [
+      "gingerol",
+      "ginger tea",
+      "nausea relief",
+      "digestive"
+    ],
+    "additionalKeywords": [
+      "adrak",
+      "rhizome",
+      "shunti",
+      "zesty",
+      "spicy root",
+      "knobby"
+    ]
+  },
+  {
+    "templateId": 49,
+    "commonName": "Papaya",
+    "scientificName": "Carica papaya",
+    "kannadaName": "ಪರಂಗಿ ಹಣ್ಣು (ಪಪ್ಪಾಯಿ)",
+    "category": "TREE",
+    "synonyms": [
+      "papaya",
+      "pappayi",
+      "papita",
+      "parangi"
+    ],
+    "leafTraits": [
+      "large deeply palmately 7 lobed incised leaves",
+      "long hollow petioles"
+    ],
+    "stemTraits": [
+      "single hollow unbranched soft trunk with leaf scars"
+    ],
+    "aromaTraits": [
+      "sweet musky tropical fruit scent"
+    ],
+    "flowerFruitTraits": [
+      "creamy flowers",
+      "large pendulous melon like fruits with black gelatinous seeds"
+    ],
+    "growthHabit": [
+      "fast growing herbaceous tree like plant"
+    ],
+    "medicinalUses": [
+      "papain enzyme",
+      "dengue platelet booster",
+      "digestion"
+    ],
+    "additionalKeywords": [
+      "lobed leaves",
+      "hollow trunk",
+      "papain",
+      "melon like",
+      "black seeds"
+    ]
+  },
+  {
+    "templateId": 50,
+    "commonName": "Guava",
+    "scientificName": "Psidium guajava",
+    "kannadaName": "ಸೀಬೆ (ಪೇರಲ)",
+    "category": "TREE",
+    "synonyms": [
+      "guava",
+      "seebe",
+      "amrood",
+      "peru"
+    ],
+    "leafTraits": [
+      "opposite oblong elliptic leaves",
+      "prominent sunken parallel veins",
+      "rough feel"
+    ],
+    "stemTraits": [
+      "smooth mottled coppery peeling bark"
+    ],
+    "aromaTraits": [
+      "distinctive sweet musky tropical fruit scent"
+    ],
+    "flowerFruitTraits": [
+      "white fragrant flowers with tufted stamens",
+      "round green fruit with sweet pink white pulp"
+    ],
+    "growthHabit": [
+      "small evergreen tree"
+    ],
+    "medicinalUses": [
+      "vitamin c",
+      "leaf decoction for teeth and gut"
+    ],
+    "additionalKeywords": [
+      "seebe",
+      "peeling bark",
+      "sunken veins",
+      "tufted stamens",
+      "amrood"
+    ]
+  },
+  {
+    "templateId": 51,
+    "commonName": "Pomegranate",
+    "scientificName": "Punica granatum",
+    "kannadaName": "ದಾಳಿಂಬೆ",
+    "category": "SHRUB",
+    "synonyms": [
+      "pomegranate",
+      "dalimbe",
+      "anar"
+    ],
+    "leafTraits": [
+      "opposite glossy narrow oblong lanceolate leaves"
+    ],
+    "stemTraits": [
+      "thorny branching shrub",
+      "twisted trunk"
+    ],
+    "aromaTraits": [
+      "mild fruity floral"
+    ],
+    "flowerFruitTraits": [
+      "brilliant scarlet orange crinkled flowers",
+      "crowned round leathery fruit packed with ruby juicy arils"
+    ],
+    "growthHabit": [
+      "spiny deciduous shrub or tree"
+    ],
+    "medicinalUses": [
+      "antioxidant arils",
+      "heart health",
+      "iron booster",
+      "juice"
+    ],
+    "additionalKeywords": [
+      "ruby arils",
+      "crowned fruit",
+      "scarlet flower",
+      "dalimbe",
+      "anar"
+    ]
+  },
+  {
+    "templateId": 52,
+    "commonName": "Lemon",
+    "scientificName": "Citrus limon",
+    "kannadaName": "ನಿಂಬೆ (ನಿಂಬೆಹಣ್ಣು)",
+    "category": "TREE",
+    "synonyms": [
+      "lemon",
+      "nimbe",
+      "nimbu",
+      "citrus"
+    ],
+    "leafTraits": [
+      "elliptical dark green glossy leaves",
+      "winged petioles",
+      "aromatic oil glands"
+    ],
+    "stemTraits": [
+      "thorny green twigs",
+      "woody branches"
+    ],
+    "aromaTraits": [
+      "zesty fresh tangy citrus scent"
+    ],
+    "flowerFruitTraits": [
+      "fragrant white flowers with purplish blush",
+      "bright yellow oval fruit with sour acidic juice"
+    ],
+    "growthHabit": [
+      "small evergreen spiny tree"
+    ],
+    "medicinalUses": [
+      "vitamin c",
+      "lemonade",
+      "citric acid",
+      "detox"
+    ],
+    "additionalKeywords": [
+      "citrus",
+      "sour",
+      "yellow",
+      "thorns",
+      "nimbe",
+      "tangy"
+    ]
+  },
+  {
+    "templateId": 53,
+    "commonName": "Watermelon",
+    "scientificName": "Citrullus lanatus",
+    "kannadaName": "ಕಲ್ಲಂಗಡಿ",
+    "category": "CLIMBER_VINE",
+    "synonyms": [
+      "watermelon",
+      "kallangadi",
+      "tarbooz"
+    ],
+    "leafTraits": [
+      "deeply pinnatifid lobed rough hairy leaves"
+    ],
+    "stemTraits": [
+      "long trailing prostrate hairy vine",
+      "branching tendrils"
+    ],
+    "aromaTraits": [
+      "sweet refreshing summer melon aroma"
+    ],
+    "flowerFruitTraits": [
+      "yellow solitary flowers",
+      "massive round green striped gourd with red crisp flesh"
+    ],
+    "growthHabit": [
+      "prostrate annual trailing vine"
+    ],
+    "medicinalUses": [
+      "hydration",
+      "lycopene",
+      "cooling summer fruit"
+    ],
+    "additionalKeywords": [
+      "melon",
+      "tendrils",
+      "trailing vine",
+      "green striped",
+      "red flesh"
+    ]
+  },
+  {
+    "templateId": 54,
+    "commonName": "Eggplant",
+    "scientificName": "Solanum melongena",
+    "kannadaName": "ಬದನೆಕಾಯಿ",
+    "category": "CROP",
+    "synonyms": [
+      "eggplant",
+      "brinjal",
+      "badanekayi",
+      "baingan",
+      "aubergine"
+    ],
+    "leafTraits": [
+      "large coarsely lobed fuzzy star haired leaves"
+    ],
+    "stemTraits": [
+      "semi woody branching stem sometimes with prickles"
+    ],
+    "aromaTraits": [
+      "earthy nightshade"
+    ],
+    "flowerFruitTraits": [
+      "purple star flowers with yellow center cone",
+      "glossy deep purple or green bulbous fruit"
+    ],
+    "growthHabit": [
+      "bushy annual vegetable subshrub"
+    ],
+    "medicinalUses": [
+      "ennegayi curry",
+      "baingan bharta",
+      "dietary fiber"
+    ],
+    "additionalKeywords": [
+      "purple fruit",
+      "brinjal",
+      "star flower",
+      "baingan",
+      "fuzzy leaves"
+    ]
+  },
+  {
+    "templateId": 55,
+    "commonName": "Okra",
+    "scientificName": "Abelmoschus esculentus",
+    "kannadaName": "ಬೆಂಡೆಕಾಯಿ",
+    "category": "CROP",
+    "synonyms": [
+      "okra",
+      "bhendi",
+      "bendekayi",
+      "ladys finger",
+      "gumbo"
+    ],
+    "leafTraits": [
+      "palmately 5 to 7 lobed rough hairy leaves"
+    ],
+    "stemTraits": [
+      "stout erect fibrous bristly stem"
+    ],
+    "aromaTraits": [
+      "mild mucilaginous"
+    ],
+    "flowerFruitTraits": [
+      "pale yellow hibiscus like flowers with dark maroon center",
+      "elongated ribbed green fuzzy seed pods"
+    ],
+    "growthHabit": [
+      "erect annual vegetable crop"
+    ],
+    "medicinalUses": [
+      "mucilage",
+      "blood sugar management",
+      "dietary fiber"
+    ],
+    "additionalKeywords": [
+      "ladys finger",
+      "bhendi",
+      "ribbed pods",
+      "mucilage",
+      "yellow flower"
+    ]
+  },
+  {
+    "templateId": 56,
+    "commonName": "Moringa",
+    "scientificName": "Moringa oleifera",
+    "kannadaName": "ನುಗ್ಗೆ (ನುಗ್ಗೆ ಮರ)",
+    "category": "TREE",
+    "synonyms": [
+      "moringa",
+      "drumstick tree",
+      "nugge",
+      "sahjan",
+      "miracle tree",
+      "drumstick",
+      "drumsticks"
+    ],
+    "leafTraits": [
+      "tripinnate compound feathery leaves",
+      "tripinnate leaves",
+      "tripinnate",
+      "feathery leaves",
+      "tiny oval leaflets",
+      "nutrient dense leaves"
+    ],
+    "stemTraits": [
+      "soft corky whitish bark",
+      "brittle branches"
+    ],
+    "aromaTraits": [
+      "peppery horseradish aroma"
+    ],
+    "flowerFruitTraits": [
+      "drumstick pods",
+      "drumsticks",
+      "drumstick",
+      "triangular pods",
+      "slender pods",
+      "pendulous pods",
+      "yellowish white fragrant flowers"
+    ],
+    "growthHabit": [
+      "fast growing deciduous tree"
+    ],
+    "medicinalUses": [
+      "superfood",
+      "sambar drumsticks",
+      "calcium iron rich",
+      "water purification"
+    ],
+    "additionalKeywords": [
+      "drumsticks",
+      "drumstick",
+      "nugge",
+      "tripinnate",
+      "tiny leaflets",
+      "superfood"
+    ]
+  },
+  {
+    "templateId": 57,
+    "commonName": "Banyan",
+    "scientificName": "Ficus benghalensis",
+    "kannadaName": "ಆಲದ ಮರ (ಆಲ)",
+    "category": "TREE",
+    "synonyms": [
+      "banyan",
+      "alada mara",
+      "bargad",
+      "vat vriksha"
+    ],
+    "leafTraits": [
+      "large thick leathery elliptic leaves",
+      "prominent pale veins",
+      "glossy dark green"
+    ],
+    "stemTraits": [
+      "massive trunk sending down woody prop aerial roots forming secondary trunks"
+    ],
+    "aromaTraits": [
+      "earthy milky fig latex"
+    ],
+    "flowerFruitTraits": [
+      "paired scarlet red round velvety figs syconium"
+    ],
+    "growthHabit": [
+      "gigantic canopy tree",
+      "national tree of india"
+    ],
+    "medicinalUses": [
+      "sacred village tree",
+      "shade canopy",
+      "ayurvedic latex"
+    ],
+    "additionalKeywords": [
+      "prop roots",
+      "aerial roots",
+      "massive canopy",
+      "national tree",
+      "bargad"
+    ]
+  },
+  {
+    "templateId": 58,
+    "commonName": "Teak",
+    "scientificName": "Tectona grandis",
+    "kannadaName": "ತೇಗ (ಸಾಗುವಾನಿ)",
+    "category": "TREE",
+    "synonyms": [
+      "teak",
+      "thega",
+      "sagwan",
+      "grand teak"
+    ],
+    "leafTraits": [
+      "massive papery ovate opposite leaves",
+      "rough sandpaper upper",
+      "red sap when crushed"
+    ],
+    "stemTraits": [
+      "tall straight bole",
+      "fibrous grooved grey brown bark"
+    ],
+    "aromaTraits": [
+      "leather like scent in cured timber"
+    ],
+    "flowerFruitTraits": [
+      "huge airy panicles of tiny white flowers",
+      "inflated bladder calyx enclosing nut"
+    ],
+    "growthHabit": [
+      "deciduous large timber tree"
+    ],
+    "medicinalUses": [
+      "valuable timber",
+      "weatherproof furniture",
+      "shipbuilding"
+    ],
+    "additionalKeywords": [
+      "huge leaves",
+      "sandpaper",
+      "red sap",
+      "timber",
+      "sagwan",
+      "furniture"
+    ]
+  },
+  {
+    "templateId": 59,
+    "commonName": "Winged Bean",
+    "scientificName": "Psophocarpus tetragonolobus",
+    "kannadaName": "ರೆಕ್ಕೆ ಹುರುಳಿ (ಚೌಕದ ಅವರೆ)",
+    "category": "CLIMBER_VINE",
+    "synonyms": [
+      "winged bean",
+      "rekke huruli",
+      "goa bean",
+      "four angled bean",
+      "four-angled bean",
+      "asparagus pea"
+    ],
+    "leafTraits": [
+      "trifoliate compound leaves",
+      "trifoliate",
+      "broad ovate leaflets"
+    ],
+    "stemTraits": [
+      "four angled",
+      "four-angled",
+      "twining vigorous herbaceous climber",
+      "climbing legume",
+      "climbing vine"
+    ],
+    "aromaTraits": [
+      "fresh green pea scent"
+    ],
+    "flowerFruitTraits": [
+      "four angled pods",
+      "four-angled pods",
+      "four angled green pods",
+      "four angled",
+      "four-angled",
+      "winged pods",
+      "wavy leafy wings",
+      "leafy wings",
+      "wavy wings",
+      "four cornered pods",
+      "green pods",
+      "pale blue flowers"
+    ],
+    "growthHabit": [
+      "perennial climbing legume vine",
+      "climbing vine",
+      "climbing legume"
+    ],
+    "medicinalUses": [
+      "all parts edible",
+      "high protein",
+      "nutrient rich"
+    ],
+    "additionalKeywords": [
+      "four angled",
+      "four-angled",
+      "winged pod",
+      "frilly wings",
+      "blue flower",
+      "rekke huruli",
+      "pods"
+    ]
+  },
+  {
+    "templateId": 60,
+    "commonName": "Cissus",
+    "scientificName": "Cissus quadrangularis",
+    "kannadaName": "ಮಂಗರವಳ್ಳಿ (ಹಡ್ಜೋಡ್)",
+    "category": "CLIMBER_VINE",
+    "synonyms": [
+      "cissus",
+      "hadjod",
+      "mangaravalli",
+      "bone setter",
+      "veldt grape"
+    ],
+    "leafTraits": [
+      "small trilobed toothed leaves at nodes with tendrils"
+    ],
+    "stemTraits": [
+      "fleshy succulent quadrangular four winged green stem",
+      "constricted nodes",
+      "square stem",
+      "four winged stem",
+      "succulent stem"
+    ],
+    "aromaTraits": [
+      "tangy sour mucilaginous"
+    ],
+    "flowerFruitTraits": [
+      "greenish white small flowers",
+      "red globular berries"
+    ],
+    "growthHabit": [
+      "succulent scrambling climbing vine"
+    ],
+    "medicinalUses": [
+      "bone fracture healing",
+      "bone setter",
+      "osteoporosis",
+      "ayurveda"
+    ],
+    "additionalKeywords": [
+      "bone setter",
+      "four winged stem",
+      "hadjod",
+      "jointed",
+      "fracture"
+    ]
+  },
+  {
+    "templateId": 61,
+    "commonName": "Peepal",
+    "scientificName": "Ficus religiosa",
+    "kannadaName": "ಅರಳಿ ಮರ (ಅಶ್ವತ್ಥ)",
+    "category": "TREE",
+    "synonyms": [
+      "peepal",
+      "sacred fig",
+      "arali mara",
+      "ashvattha",
+      "bodhi tree"
+    ],
+    "leafTraits": [
+      "broad cordate leaf with long tail drip tip",
+      "slender tail",
+      "dancing trembling leaves",
+      "drip tip"
+    ],
+    "stemTraits": [
+      "smooth grey trunk",
+      "fluted base"
+    ],
+    "aromaTraits": [
+      "clean earthy"
+    ],
+    "flowerFruitTraits": [
+      "small paired sessile purple figs"
+    ],
+    "growthHabit": [
+      "massive sacred deciduous tree"
+    ],
+    "medicinalUses": [
+      "bodhi tree enlightenment",
+      "oxygen generator",
+      "sacred tree",
+      "ayurveda"
+    ],
+    "additionalKeywords": [
+      "drip tip",
+      "tail",
+      "bodhi",
+      "ashvattha",
+      "sacred fig",
+      "arali"
+    ]
+  },
+  {
+    "templateId": 62,
+    "commonName": "Amla",
+    "scientificName": "Phyllanthus emblica",
+    "kannadaName": "ನೆಲ್ಲಿಕಾಯಿ (ಬೆಟ್ಟದ ನೆಲ್ಲಿ)",
+    "category": "TREE",
+    "synonyms": [
+      "amla",
+      "indian gooseberry",
+      "nellikayi",
+      "amalaki",
+      "dhatri"
+    ],
+    "leafTraits": [
+      "feathery light green branchlets with tiny closely set linear leaves"
+    ],
+    "stemTraits": [
+      "crooked trunk",
+      "light grey peeling bark"
+    ],
+    "aromaTraits": [
+      "sour astringent aroma"
+    ],
+    "flowerFruitTraits": [
+      "greenish yellow flowers",
+      "round hard translucent pale green ribbed berries with sour astringent taste"
+    ],
+    "growthHabit": [
+      "small to medium deciduous tree"
+    ],
+    "medicinalUses": [
+      "vitamin c powerhouse",
+      "chyawanprash",
+      "triphala",
+      "hair oil",
+      "ayurvedic rasayana"
+    ],
+    "additionalKeywords": [
+      "gooseberry",
+      "sour",
+      "astringent",
+      "vitamin c",
+      "nellikayi",
+      "triphala"
+    ]
+  },
+  {
+    "templateId": 63,
+    "commonName": "Ashwagandha",
+    "scientificName": "Withania somnifera",
+    "kannadaName": "ಅಶ್ವಗಂಧ (ಹಿರೇಮದ್ದಿನ ಗಿಡ)",
+    "category": "HERB",
+    "synonyms": [
+      "ashwagandha",
+      "indian ginseng",
+      "winter cherry",
+      "asgandh"
+    ],
+    "leafTraits": [
+      "dull green elliptic ovate leaves",
+      "fine velvety hairs"
+    ],
+    "stemTraits": [
+      "small branched woody subshrub"
+    ],
+    "aromaTraits": [
+      "earthy horse like root scent",
+      "ashwa smell"
+    ],
+    "flowerFruitTraits": [
+      "bell shaped greenish yellow flowers",
+      "papery lantern calyx enclosing bright orange red berry"
+    ],
+    "growthHabit": [
+      "perennial erect subshrub"
+    ],
+    "medicinalUses": [
+      "premier adaptogen",
+      "stress relief",
+      "stamina",
+      "strength",
+      "neuroprotection",
+      "sleep"
+    ],
+    "additionalKeywords": [
+      "adaptogen",
+      "winter cherry",
+      "horse scent",
+      "stress",
+      "ginseng",
+      "roots"
+    ]
+  },
+  {
+    "templateId": 64,
+    "commonName": "Brahmi",
+    "scientificName": "Bacopa monnieri",
+    "kannadaName": "ಬ್ರಾಹ್ಮೀ (ಜಲಬ್ರಾಹ್ಮೀ)",
+    "category": "HERB",
+    "synonyms": [
+      "brahmi",
+      "water hyssop",
+      "jalnaveri",
+      "herb of grace",
+      "bacopa"
+    ],
+    "leafTraits": [
+      "small succulent obovate thick fleshy leaves",
+      "opposite",
+      "notch at apex"
+    ],
+    "stemTraits": [
+      "creeping trailing succulent rooting stems"
+    ],
+    "aromaTraits": [
+      "mild bitter aquatic scent"
+    ],
+    "flowerFruitTraits": [
+      "small delicate five petaled light blue white flowers"
+    ],
+    "growthHabit": [
+      "creeping marsh succulent herb"
+    ],
+    "medicinalUses": [
+      "memory booster",
+      "brain tonic",
+      "cognitive enhancer",
+      "medhya rasayana",
+      "anxiety"
+    ],
+    "additionalKeywords": [
+      "memory",
+      "brain",
+      "succulent creeping",
+      "water hyssop",
+      "bacopa"
+    ]
+  },
+  {
+    "templateId": 65,
+    "commonName": "Touch-Me-Not",
+    "scientificName": "Mimosa pudica",
+    "kannadaName": "ಮುಟ್ಟಿದರೆ ಮುನಿ (ಲಾಜವಂತಿ)",
+    "category": "HERB",
+    "synonyms": [
+      "touch me not",
+      "sensitive plant",
+      "muttidare muni",
+      "lajwanti",
+      "shameplant",
+      "mimosa"
+    ],
+    "leafTraits": [
+      "bipinnate compound leaves",
+      "sensitive leaflets folding inwards upon touch",
+      "drooping leaves",
+      "folding leaves"
+    ],
+    "stemTraits": [
+      "reddish prickly slender branched stem"
+    ],
+    "aromaTraits": [
+      "earthy faint"
+    ],
+    "flowerFruitTraits": [
+      "fluffy pink purple pom pom flower heads",
+      "bristly seed pods"
+    ],
+    "growthHabit": [
+      "low sprawling creeping subshrub"
+    ],
+    "medicinalUses": [
+      "thigmonasty sensitive movement",
+      "wound healing",
+      "piles remedy"
+    ],
+    "additionalKeywords": [
+      "sensitive",
+      "folding leaves",
+      "pink pom pom",
+      "prickly",
+      "lajwanti"
+    ]
+  },
+  {
+    "templateId": 66,
+    "commonName": "Henna",
+    "scientificName": "Lawsonia inermis",
+    "kannadaName": "ಗೋರಂಟಿ (ಮೆಹಂದಿ)",
+    "category": "SHRUB",
+    "synonyms": [
+      "henna",
+      "goranti",
+      "mehendi",
+      "myna",
+      "lawsonia"
+    ],
+    "leafTraits": [
+      "small opposite lanceolate elliptic leaves",
+      "lawsone dye leaves"
+    ],
+    "stemTraits": [
+      "multi branched spiny shrub",
+      "greyish bark"
+    ],
+    "aromaTraits": [
+      "sweet fragrant blossoms",
+      "earthy herbal crushed leaf scent"
+    ],
+    "flowerFruitTraits": [
+      "dense panicles of fragrant creamy white blossoms",
+      "small round capsules"
+    ],
+    "growthHabit": [
+      "branching deciduous shrub"
+    ],
+    "medicinalUses": [
+      "mehendi body art",
+      "natural hair dye",
+      "cooling paste",
+      "antifungal"
+    ],
+    "additionalKeywords": [
+      "mehendi",
+      "dye",
+      "red stain",
+      "fragrant blossoms",
+      "goranti"
+    ]
+  },
+  {
+    "templateId": 67,
+    "commonName": "Betel Leaf",
+    "scientificName": "Piper betle",
+    "kannadaName": "ವೀಳ್ಯದೆಲೆ (ವೀಳ್ಯದ ಬಳ್ಳಿ)",
+    "category": "CLIMBER_VINE",
+    "synonyms": [
+      "betel leaf",
+      "vilyadele",
+      "paan",
+      "tambula",
+      "nagavalli"
+    ],
+    "leafTraits": [
+      "glossy heart shaped cordate leaves",
+      "heart shaped leaves",
+      "heart-shaped leaves",
+      "leathery deep green",
+      "five to seven prominent veins"
+    ],
+    "stemTraits": [
+      "perennial climbing vine",
+      "climbing vine",
+      "clinging aerial roots"
+    ],
+    "aromaTraits": [
+      "pungent aromatic peppery warm scent"
+    ],
+    "flowerFruitTraits": [
+      "cylindrical catkins"
+    ],
+    "growthHabit": [
+      "evergreen climbing vine"
+    ],
+    "medicinalUses": [
+      "paan chewing",
+      "paan",
+      "puja offering",
+      "digestive stimulant",
+      "carminative"
+    ],
+    "additionalKeywords": [
+      "paan",
+      "heart shaped",
+      "peppery",
+      "vilyadele",
+      "puja",
+      "tambula"
+    ]
+  },
+  {
+    "templateId": 68,
+    "commonName": "Indian Bay Leaf",
+    "scientificName": "Cinnamomum tamala",
+    "kannadaName": "ಮಸಾಲ ಎಲೆ (ತೇಜಪತ್ತ)",
+    "category": "TREE",
+    "synonyms": [
+      "indian bay leaf",
+      "tejpatta",
+      "masala ele",
+      "tamala",
+      "bay leaf"
+    ],
+    "leafTraits": [
+      "large lanceolate elliptic leaves",
+      "three prominent longitudinal veins from base to tip"
+    ],
+    "stemTraits": [
+      "aromatic brownish grey bark"
+    ],
+    "aromaTraits": [
+      "warm sweet cinnamon clove fragrance when crushed"
+    ],
+    "flowerFruitTraits": [
+      "tiny whitish flowers",
+      "small dark berries"
+    ],
+    "growthHabit": [
+      "medium evergreen aromatic tree"
+    ],
+    "medicinalUses": [
+      "biryani spice",
+      "garam masala",
+      "carminative",
+      "blood sugar"
+    ],
+    "additionalKeywords": [
+      "tejpatta",
+      "three veins",
+      "cinnamon aroma",
+      "biryani",
+      "masala"
+    ]
+  },
+  {
+    "templateId": 69,
+    "commonName": "Tamarind",
+    "scientificName": "Tamarindus indica",
+    "kannadaName": "ಹುಣಸೆ (ಹುಣಸೆ ಮರ)",
+    "category": "TREE",
+    "synonyms": [
+      "tamarind",
+      "hunase",
+      "imli",
+      "indian date"
+    ],
+    "leafTraits": [
+      "pinnate compound leaves",
+      "many pairs of small oblong leaflets",
+      "closing at night"
+    ],
+    "stemTraits": [
+      "massive stout trunk",
+      "rugged dark fissured bark"
+    ],
+    "aromaTraits": [
+      "sour tangy fruit aroma"
+    ],
+    "flowerFruitTraits": [
+      "yellow flowers with red veins",
+      "brittle brown curved pods with sour sticky tangy pulp"
+    ],
+    "growthHabit": [
+      "massive long lived canopy tree"
+    ],
+    "medicinalUses": [
+      "sambar rasam souring",
+      "chutney",
+      "digestive",
+      "tartaric acid"
+    ],
+    "additionalKeywords": [
+      "sour",
+      "imli",
+      "brown pods",
+      "pinnate",
+      "hunase",
+      "tangy"
+    ]
+  },
+  {
+    "templateId": 70,
+    "commonName": "Jackfruit",
+    "scientificName": "Artocarpus heterophyllus",
+    "kannadaName": "ಹಲಸು (ಹಲಸಿನ ಮರ)",
+    "category": "TREE",
+    "synonyms": [
+      "jackfruit",
+      "halasu",
+      "kathal",
+      "phanas"
+    ],
+    "leafTraits": [
+      "large thick leathery glossy dark green obovate leaves",
+      "entire margin"
+    ],
+    "stemTraits": [
+      "sturdy straight trunk with white milky sticky latex"
+    ],
+    "aromaTraits": [
+      "intensely sweet fruity banana pineapple aroma when ripe"
+    ],
+    "flowerFruitTraits": [
+      "cauliflorous on trunk",
+      "world s largest tree fruit",
+      "spiky rind golden sweet bulbs"
+    ],
+    "growthHabit": [
+      "massive evergreen rainforest tree"
+    ],
+    "medicinalUses": [
+      "raw jackfruit mock meat",
+      "sweet fruit bulbs",
+      "roasted seeds"
+    ],
+    "additionalKeywords": [
+      "spiky fruit",
+      "cauliflorous",
+      "sweet bulbs",
+      "largest fruit",
+      "halasu"
+    ]
+  },
+  {
+    "templateId": 71,
+    "commonName": "Bitter Gourd",
+    "scientificName": "Momordica charantia",
+    "kannadaName": "ಹಾಗಲಕಾಯಿ",
+    "category": "CLIMBER_VINE",
+    "synonyms": [
+      "bitter gourd",
+      "hagalakayi",
+      "karela",
+      "bitter melon"
+    ],
+    "leafTraits": [
+      "deeply 5 to 7 palmately lobed leaves",
+      "pungent odor"
+    ],
+    "stemTraits": [
+      "slender climbing vine with tendrils"
+    ],
+    "aromaTraits": [
+      "sharp bitter green scent"
+    ],
+    "flowerFruitTraits": [
+      "yellow solitary flowers",
+      "bumpy warty ridged green oblong fruit turning orange"
+    ],
+    "growthHabit": [
+      "annual climbing vine"
+    ],
+    "medicinalUses": [
+      "diabetes management",
+      "charantin",
+      "blood purifier",
+      "liver detox"
+    ],
+    "additionalKeywords": [
+      "bitter",
+      "karela",
+      "warty",
+      "bumpy",
+      "diabetes",
+      "tendril"
+    ]
+  },
+  {
+    "templateId": 72,
+    "commonName": "Bottle Gourd",
+    "scientificName": "Lagenaria siceraria",
+    "kannadaName": "ಸೋರೆಕಾಯಿ",
+    "category": "CLIMBER_VINE",
+    "synonyms": [
+      "bottle gourd",
+      "sorekayi",
+      "lauki",
+      "doodhi",
+      "calabash"
+    ],
+    "leafTraits": [
+      "large rounded heart shaped velvety fuzzy leaves",
+      "two glands at petiole"
+    ],
+    "stemTraits": [
+      "vigorous climbing vine with branched tendrils"
+    ],
+    "aromaTraits": [
+      "fresh mild vegetable"
+    ],
+    "flowerFruitTraits": [
+      "white solitary evening flowers",
+      "bottle shaped smooth light green gourd"
+    ],
+    "growthHabit": [
+      "fast climbing annual vine"
+    ],
+    "medicinalUses": [
+      "cooling vegetable",
+      "lauki juice",
+      "weight loss",
+      "tanpura musical gourd"
+    ],
+    "additionalKeywords": [
+      "lauki",
+      "bottle shaped",
+      "white flower",
+      "smooth gourd",
+      "sorekayi"
+    ]
+  },
+  {
+    "templateId": 73,
+    "commonName": "Ridge Gourd",
+    "scientificName": "Luffa acutangula",
+    "kannadaName": "ಹೀರೆಕಾಯಿ",
+    "category": "CLIMBER_VINE",
+    "synonyms": [
+      "ridge gourd",
+      "hirekayi",
+      "turai",
+      "angled luffa"
+    ],
+    "leafTraits": [
+      "rounded palmately angled shallowly lobed leaves"
+    ],
+    "stemTraits": [
+      "climbing vine with three branched tendrils"
+    ],
+    "aromaTraits": [
+      "mild cucumber like"
+    ],
+    "flowerFruitTraits": [
+      "yellow afternoon flowers",
+      "elongated dark green fruit with 10 prominent sharp longitudinal ridges"
+    ],
+    "growthHabit": [
+      "annual climbing vine"
+    ],
+    "medicinalUses": [
+      "dietary fiber",
+      "hirekayi bajji",
+      "natural bathing loofah sponge"
+    ],
+    "additionalKeywords": [
+      "ridges",
+      "sharp ribs",
+      "loofah",
+      "turai",
+      "hirekayi",
+      "tendril"
+    ]
+  },
+  {
+    "templateId": 74,
+    "commonName": "Snake Gourd",
+    "scientificName": "Trichosanthes cucumerina",
+    "kannadaName": "ಪಡವಲಕಾಯಿ",
+    "category": "CLIMBER_VINE",
+    "synonyms": [
+      "snake gourd",
+      "padavalakayi",
+      "chichinda",
+      "serpent gourd"
+    ],
+    "leafTraits": [
+      "deeply 5 to 7 lobed leaves with foul bruised odor"
+    ],
+    "stemTraits": [
+      "climbing vine with branched tendrils"
+    ],
+    "aromaTraits": [
+      "distinctive vegetable"
+    ],
+    "flowerFruitTraits": [
+      "fringed lacy white flowers",
+      "long winding serpent like cylindrical fruit with white stripes"
+    ],
+    "growthHabit": [
+      "annual climbing vine"
+    ],
+    "medicinalUses": [
+      "cooling curry vegetable",
+      "easy digestion"
+    ],
+    "additionalKeywords": [
+      "serpent",
+      "snake like",
+      "lacy white flower",
+      "white stripes",
+      "padavalakayi"
+    ]
+  },
+  {
+    "templateId": 75,
+    "commonName": "Garlic",
+    "scientificName": "Allium sativum",
+    "kannadaName": "ಬೆಳ್ಳುಳ್ಳಿ",
+    "category": "CROP",
+    "synonyms": [
+      "garlic",
+      "bellulli",
+      "lahsun",
+      "stinking rose"
+    ],
+    "leafTraits": [
+      "flat solid linear strap like leaves with v keel"
+    ],
+    "stemTraits": [
+      "subterranean composite bulb",
+      "10 to 20 cloves in white papery wrapper"
+    ],
+    "aromaTraits": [
+      "intensely pungent sulfurous allicin scent when crushed"
+    ],
+    "flowerFruitTraits": [
+      "spherical pink white umbel with bulbils on tall scape"
+    ],
+    "growthHabit": [
+      "perennial bulbous crop"
+    ],
+    "medicinalUses": [
+      "allicin",
+      "lowers cholesterol",
+      "antibacterial",
+      "heart health",
+      "tadka"
+    ],
+    "additionalKeywords": [
+      "cloves",
+      "bulb",
+      "allicin",
+      "pungent",
+      "lahsun",
+      "bellulli"
+    ]
+  },
+  {
+    "templateId": 76,
+    "commonName": "Fenugreek",
+    "scientificName": "Trigonella foenum-graecum",
+    "kannadaName": "ಮೆಂತ್ಯ (ಮೆಂತೆ ಗಿಡ)",
+    "category": "HERB",
+    "synonyms": [
+      "fenugreek",
+      "menthya",
+      "methi",
+      "greek hay"
+    ],
+    "leafTraits": [
+      "trifoliate compound leaves with three obovate toothed leaflets"
+    ],
+    "stemTraits": [
+      "erect slender round hollow branching stem"
+    ],
+    "aromaTraits": [
+      "distinctive spicy bittersweet maple syrup celery scent"
+    ],
+    "flowerFruitTraits": [
+      "yellowish white pea flowers",
+      "slender beaked sickle pods with golden angular seeds"
+    ],
+    "growthHabit": [
+      "annual aromatic herb"
+    ],
+    "medicinalUses": [
+      "methi paratha",
+      "blood sugar lowering",
+      "lactation booster",
+      "digestive"
+    ],
+    "additionalKeywords": [
+      "methi",
+      "trifoliate",
+      "angular seeds",
+      "maple scent",
+      "menthya"
+    ]
+  },
+  {
+    "templateId": 77,
+    "commonName": "Coriander",
+    "scientificName": "Coriandrum sativum",
+    "kannadaName": "ಕೊತ್ತಂಬರಿ (ಕೊತ್ತಂಬರಿ ಸೊಪ್ಪು)",
+    "category": "HERB",
+    "synonyms": [
+      "coriander",
+      "kothambari",
+      "cilantro",
+      "dhania"
+    ],
+    "leafTraits": [
+      "broad fan shaped lobed basal leaves",
+      "feathery finely dissected thread like upper leaves"
+    ],
+    "stemTraits": [
+      "slender smooth hollow green stem"
+    ],
+    "aromaTraits": [
+      "fresh citrusy herbal pungent aroma"
+    ],
+    "flowerFruitTraits": [
+      "compound umbels of pale pink white flowers",
+      "round ribbed aromatic globular seeds"
+    ],
+    "growthHabit": [
+      "fast growing annual herb"
+    ],
+    "medicinalUses": [
+      "garnish on dishes",
+      "digestive spice",
+      "cooling",
+      "heavy metal detox"
+    ],
+    "additionalKeywords": [
+      "cilantro",
+      "dhania",
+      "kothambari",
+      "feathery leaves",
+      "garnish",
+      "citrusy"
+    ]
+  },
+  {
+    "templateId": 78,
+    "commonName": "Cumin",
+    "scientificName": "Cuminum cyminum",
+    "kannadaName": "ಜೀರಿಗೆ",
+    "category": "HERB",
+    "synonyms": [
+      "cumin",
+      "jeerige",
+      "jeera",
+      "zeera"
+    ],
+    "leafTraits": [
+      "finely dissected thread like feathery leaves"
+    ],
+    "stemTraits": [
+      "slender branched green stem"
+    ],
+    "aromaTraits": [
+      "warm earthy peppery musky penetrating aroma"
+    ],
+    "flowerFruitTraits": [
+      "small umbels of white rose flowers",
+      "boat shaped elongated ribbed brown seeds"
+    ],
+    "growthHabit": [
+      "delicate annual herb crop"
+    ],
+    "medicinalUses": [
+      "jeera water",
+      "tadka tempering",
+      "digestive",
+      "cuminaldehyde"
+    ],
+    "additionalKeywords": [
+      "jeera",
+      "ribbed seeds",
+      "warm earthy",
+      "tadka",
+      "jeerige",
+      "digestive"
+    ]
+  },
+  {
+    "templateId": 79,
+    "commonName": "Mustard",
+    "scientificName": "Brassica nigra",
+    "kannadaName": "ಸಾಸಿವೆ",
+    "category": "CROP",
+    "synonyms": [
+      "mustard",
+      "sasive",
+      "sarson",
+      "black mustard",
+      "rai"
+    ],
+    "leafTraits": [
+      "lyrate pinnatifid lobed lower leaves",
+      "lanceolate upper leaves"
+    ],
+    "stemTraits": [
+      "erect branching green stem"
+    ],
+    "aromaTraits": [
+      "pungent sharp sinus clearing mustard oil aroma"
+    ],
+    "flowerFruitTraits": [
+      "brilliant golden yellow four petaled cruciform flowers",
+      "slender silique pods with tiny round seeds"
+    ],
+    "growthHabit": [
+      "winter annual brassica crop"
+    ],
+    "medicinalUses": [
+      "tadka tempering",
+      "mustard oil",
+      "sarson ka saag",
+      "pungent spice"
+    ],
+    "additionalKeywords": [
+      "yellow flowers",
+      "silique pods",
+      "round seeds",
+      "sasive",
+      "sarson",
+      "rai"
+    ]
+  },
+  {
+    "templateId": 80,
+    "commonName": "Sesame",
+    "scientificName": "Sesamum indicum",
+    "kannadaName": "ಎಳ್ಳು (ಎಳ್ಳಿನ ಗಿಡ)",
+    "category": "CROP",
+    "synonyms": [
+      "sesame",
+      "ellu",
+      "til",
+      "gingelly"
+    ],
+    "leafTraits": [
+      "opposite variable leaves",
+      "lanceolate hairy leaves"
+    ],
+    "stemTraits": [
+      "erect grooved pubescent square stem"
+    ],
+    "aromaTraits": [
+      "nutty sweet roasted aroma"
+    ],
+    "flowerFruitTraits": [
+      "tubular bell shaped white pink flowers",
+      "four grooved rectangular capsule packed with tiny flat seeds"
+    ],
+    "growthHabit": [
+      "annual drought hardy herb crop"
+    ],
+    "medicinalUses": [
+      "sesame oil",
+      "til laddoos",
+      "ellu bella festival",
+      "calcium rich",
+      "abhyanga"
+    ],
+    "additionalKeywords": [
+      "til",
+      "ellu",
+      "flat seeds",
+      "rectangular capsule",
+      "oilseed"
+    ]
+  },
+  {
+    "templateId": 81,
+    "commonName": "Red Sandalwood",
+    "scientificName": "Pterocarpus santalinus",
+    "kannadaName": "ರಕ್ತಚಂದನ",
+    "category": "TREE",
+    "synonyms": [
+      "red sandalwood",
+      "rakta chandana",
+      "red sanders",
+      "lal chandan"
+    ],
+    "leafTraits": [
+      "alternate trifoliate leaves with three broad round coriaceous leaflets"
+    ],
+    "stemTraits": [
+      "blackish brown bark resembling crocodile skin",
+      "deep blood red heartwood"
+    ],
+    "aromaTraits": [
+      "non fragrant unlike white sandalwood",
+      "faint woody"
+    ],
+    "flowerFruitTraits": [
+      "yellow papilionaceous flowers",
+      "circular winged samara pod"
+    ],
+    "growthHabit": [
+      "deciduous timber tree endemic to eastern ghats"
+    ],
+    "medicinalUses": [
+      "santalin red dye",
+      "skin brightening",
+      "cooling face pack",
+      "acne remedy"
+    ],
+    "additionalKeywords": [
+      "rakta",
+      "blood red wood",
+      "crocodile bark",
+      "trifoliate",
+      "red sanders"
+    ]
+  },
+  {
+    "templateId": 82,
+    "commonName": "Sandalwood",
+    "scientificName": "Santalum album",
+    "kannadaName": "ಚಂದನ (ಶ್ರೀಗಂಧದ ಮರ)",
+    "category": "TREE",
+    "synonyms": [
+      "sandalwood",
+      "chandana",
+      "shrigandha",
+      "white sandalwood",
+      "sandal"
+    ],
+    "leafTraits": [
+      "opposite thin ovate elliptic glossy green leaves",
+      "paler underside"
+    ],
+    "stemTraits": [
+      "rough dark bark",
+      "highly fragrant yellowish brown heartwood"
+    ],
+    "aromaTraits": [
+      "heavenly sweet warm woody balsamic persistent calming fragrance"
+    ],
+    "flowerFruitTraits": [
+      "small purplish brown unscented flowers in cymes",
+      "small black fleshy drupes"
+    ],
+    "growthHabit": [
+      "hemi parasitic evergreen tree"
+    ],
+    "medicinalUses": [
+      "sandalwood paste",
+      "sacred tilak",
+      "incense",
+      "perfumery",
+      "cooling pride of karnataka"
+    ],
+    "additionalKeywords": [
+      "fragrant wood",
+      "shrigandha",
+      "chandana",
+      "paste",
+      "perfume",
+      "balsamic"
+    ]
+  },
+  {
+    "templateId": 83,
+    "commonName": "Jamun",
+    "scientificName": "Syzygium cumini",
+    "kannadaName": "ನೇರಳೆ (ನೇರಳೆ ಮರ)",
+    "category": "TREE",
+    "synonyms": [
+      "jamun",
+      "nerale",
+      "black plum",
+      "java plum",
+      "jambu"
+    ],
+    "leafTraits": [
+      "opposite oblong leathery glossy dark green leaves",
+      "turpentine odor when crushed"
+    ],
+    "stemTraits": [
+      "smooth greyish trunk",
+      "rough base"
+    ],
+    "aromaTraits": [
+      "astringent sweet fruit aroma"
+    ],
+    "flowerFruitTraits": [
+      "small fragrant greenish white flowers",
+      "oblong deep purple black fruit with staining purple pulp"
+    ],
+    "growthHabit": [
+      "large fast growing canopy tree"
+    ],
+    "medicinalUses": [
+      "diabetes seed powder jamboline",
+      "purple staining fruit",
+      "astringent bark"
+    ],
+    "additionalKeywords": [
+      "purple fruit",
+      "black plum",
+      "nerale",
+      "diabetes seeds",
+      "staining pulp"
+    ]
+  },
+  {
+    "templateId": 84,
+    "commonName": "Custard Apple",
+    "scientificName": "Annona squamosa",
+    "kannadaName": "ಸೀತಾಫಲ",
+    "category": "TREE",
+    "synonyms": [
+      "custard apple",
+      "sitaphala",
+      "sugar apple",
+      "sharifa"
+    ],
+    "leafTraits": [
+      "thin oblong lanceolate dull green leaves",
+      "aromatic when crushed"
+    ],
+    "stemTraits": [
+      "slender multi branched tree"
+    ],
+    "aromaTraits": [
+      "sweet vanilla custard fruity scent"
+    ],
+    "flowerFruitTraits": [
+      "fleshy yellow green flowers",
+      "knobby bumpy round fruit with creamy sweet custard segments and black seeds"
+    ],
+    "growthHabit": [
+      "hardy drought tolerant small tree"
+    ],
+    "medicinalUses": [
+      "creamy dessert fruit",
+      "leaf extract natural lice repellent"
+    ],
+    "additionalKeywords": [
+      "bumpy fruit",
+      "creamy segments",
+      "sitaphala",
+      "custard",
+      "sugar apple"
+    ]
+  },
+  {
+    "templateId": 85,
+    "commonName": "Sapodilla",
+    "scientificName": "Manilkara zapota",
+    "kannadaName": "ಚಿಕ್ಕು (ಸಪೋಟ)",
+    "category": "TREE",
+    "synonyms": [
+      "sapodilla",
+      "chikoo",
+      "sapota",
+      "chiku"
+    ],
+    "leafTraits": [
+      "glossy dark green elliptic alternate leaves clustered at tips"
+    ],
+    "stemTraits": [
+      "dark furrowed bark rich in white milky latex chicle"
+    ],
+    "aromaTraits": [
+      "sweet malty brown sugar aroma"
+    ],
+    "flowerFruitTraits": [
+      "small bell shaped white flowers",
+      "round rough brown scruffy skin fruit with grainy sweet brown flesh"
+    ],
+    "growthHabit": [
+      "slow growing dense evergreen tree"
+    ],
+    "medicinalUses": [
+      "sweet fresh fruit",
+      "chicle gum",
+      "energy rich"
+    ],
+    "additionalKeywords": [
+      "chikoo",
+      "brown skin",
+      "grainy sweet",
+      "malty",
+      "sapota",
+      "chicle"
+    ]
+  },
+  {
+    "templateId": 86,
+    "commonName": "Parijata",
+    "scientificName": "Nyctanthes arbor-tristis",
+    "kannadaName": "ಪಾರಿಜಾತ (ಹರಸಿಂಗಾರ್)",
+    "category": "SHRUB",
+    "synonyms": [
+      "parijata",
+      "night jasmine",
+      "harsingar",
+      "coral jasmine",
+      "tree of sorrow",
+      "nyctanthes"
+    ],
+    "leafTraits": [
+      "rough leaves",
+      "sandpapery leaves",
+      "rough sandpapery ovate leaves",
+      "opposite leaves"
+    ],
+    "stemTraits": [
+      "quadrangular branches",
+      "grey rough bark"
+    ],
+    "aromaTraits": [
+      "intensely sweet celestial night blooming fragrance",
+      "night fragrance",
+      "celestial fragrance",
+      "night blooming"
+    ],
+    "flowerFruitTraits": [
+      "starry white flowers",
+      "white flowers",
+      "bright orange central tube",
+      "orange central tube",
+      "orange tube",
+      "bright orange tube",
+      "blooms at night",
+      "night blooming",
+      "carpets ground by dawn"
+    ],
+    "growthHabit": [
+      "large deciduous shrub",
+      "small tree"
+    ],
+    "medicinalUses": [
+      "sacred celestial flower",
+      "sciatica arthritis remedy",
+      "natural orange dye"
+    ],
+    "additionalKeywords": [
+      "orange tube",
+      "white petals",
+      "night bloom",
+      "harsingar",
+      "parijata",
+      "sandpapery",
+      "starry"
+    ]
+  },
+  {
+    "templateId": 87,
+    "commonName": "Crossandra",
+    "scientificName": "Crossandra infundibuliformis",
+    "kannadaName": "ಕನಕಾಂಬರ",
+    "category": "FLOWER",
+    "synonyms": [
+      "crossandra",
+      "firecracker flower",
+      "kanakambara",
+      "aboli"
+    ],
+    "leafTraits": [
+      "glossy dark green wavy margined ovate leaves",
+      "wavy leaves"
+    ],
+    "stemTraits": [
+      "compact semi woody branching stems"
+    ],
+    "aromaTraits": [
+      "unscented"
+    ],
+    "flowerFruitTraits": [
+      "four sided spikes",
+      "asymmetric fan shaped bright apricot orange salmon pink blossoms",
+      "fan shaped petals",
+      "apricot flowers"
+    ],
+    "growthHabit": [
+      "tropical evergreen flowering subshrub"
+    ],
+    "medicinalUses": [
+      "hair garlands with jasmine",
+      "festive hair decoration",
+      "firecracker popping seeds"
+    ],
+    "additionalKeywords": [
+      "orange flower",
+      "fan shaped petals",
+      "kanakambara",
+      "garlands",
+      "firecracker"
+    ]
+  },
+  {
+    "templateId": 88,
+    "commonName": "Arabian Jasmine",
+    "scientificName": "Jasminum sambac",
+    "kannadaName": "ದುಂಡು ಮಲ್ಲಿಗೆ (ಮೊಗ್ರ)",
+    "category": "FLOWER",
+    "synonyms": [
+      "arabian jasmine",
+      "mogra",
+      "dundu mallige",
+      "motia",
+      "sambac"
+    ],
+    "leafTraits": [
+      "opposite ovate glossy dark green leaves"
+    ],
+    "stemTraits": [
+      "bushy climbing evergreen shrub"
+    ],
+    "aromaTraits": [
+      "deeply captivating intoxicating sweet floral fragrance"
+    ],
+    "flowerFruitTraits": [
+      "double layered ruffled pure white blossoms opening at dusk",
+      "ruffled white flowers"
+    ],
+    "growthHabit": [
+      "bushy twining shrub"
+    ],
+    "medicinalUses": [
+      "gajra garlands",
+      "bridal hair adornment",
+      "attar perfume",
+      "temple offering"
+    ],
+    "additionalKeywords": [
+      "mogra",
+      "dundu mallige",
+      "ruffled white",
+      "gajra",
+      "intense fragrance"
+    ]
+  },
+  {
+    "templateId": 89,
+    "commonName": "Shatavari",
+    "scientificName": "Asparagus racemosus",
+    "kannadaName": "ಶತಾವರಿ",
+    "category": "HERB",
+    "synonyms": [
+      "shatavari",
+      "wild asparagus",
+      "satawar",
+      "satavari"
+    ],
+    "leafTraits": [
+      "modified into tiny needle like green cladodes",
+      "needle leaves",
+      "cladodes",
+      "scale leaves with recurved spines"
+    ],
+    "stemTraits": [
+      "woody twining climber",
+      "prickly stems",
+      "underground cluster of succulent tuberous roots"
+    ],
+    "aromaTraits": [
+      "sweet faint floral"
+    ],
+    "flowerFruitTraits": [
+      "tiny white fragrant flowers",
+      "purple black globose berries"
+    ],
+    "growthHabit": [
+      "thorny woody climbing herb"
+    ],
+    "medicinalUses": [
+      "female reproductive tonic",
+      "hormonal balance",
+      "adaptogen",
+      "ayurvedic rasayana"
+    ],
+    "additionalKeywords": [
+      "needle leaves",
+      "cladodes",
+      "tuberous roots",
+      "female tonic",
+      "spines",
+      "shatavari"
+    ]
+  },
+  {
+    "templateId": 90,
+    "commonName": "Giloy",
+    "scientificName": "Tinospora cordifolia",
+    "kannadaName": "ಅಮೃತಬಳ್ಳಿ (ಗಿಲೋಯ್)",
+    "category": "CLIMBER_VINE",
+    "synonyms": [
+      "giloy",
+      "guduchi",
+      "amrita",
+      "amrutha balli",
+      "heart leaved moonseed"
+    ],
+    "leafTraits": [
+      "lush heart shaped cordate leaves",
+      "heart shaped leaves",
+      "heart-shaped leaves",
+      "smooth membranous leaves"
+    ],
+    "stemTraits": [
+      "succulent grooved fleshy stems",
+      "succulent grooved stem",
+      "grooved stem",
+      "corky lenticels",
+      "papery peeling bark",
+      "aerial roots"
+    ],
+    "aromaTraits": [
+      "intensely bitter taste",
+      "fresh herbal"
+    ],
+    "flowerFruitTraits": [
+      "small yellow flowers",
+      "clusters of red pea sized drupes"
+    ],
+    "growthHabit": [
+      "deciduous climbing woody vine",
+      "climbing vine"
+    ],
+    "medicinalUses": [
+      "amrita immortality nectar",
+      "powerful immunomodulator",
+      "kadha for fever",
+      "kadha",
+      "ayurveda"
+    ],
+    "additionalKeywords": [
+      "heart shaped",
+      "succulent stem",
+      "amrita",
+      "guduchi",
+      "fever",
+      "kadha",
+      "bitter"
+    ]
+  }
+]
